@@ -82,6 +82,19 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
+# [fit] **Talks**
+## **How to ask technical questions**
+### **Matenia Rossides ::** **_@matenia_**
+## **Ruby and Elixir -**
+## [fit] **An exploration of cross language communication**
+### **Garrett Heinlen ::** **_@gogogarrett_**
+## [fit] **How not to give advice about Markdown**
+### **Keith Pitty ::** **_@keithpitty_**
+## **Talk name TBD**
+### **Andrew Harvey ::** **_@mootpointer_**
+
+---
+
 # [fit] **Who's New?**
 # [fit] Say Hello :wave:
 
