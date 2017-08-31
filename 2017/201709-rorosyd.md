@@ -90,8 +90,8 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ### **Garrett Heinlen ::** **_@gogogarrett_**
 ## [fit] **How not to give advice about Markdown**
 ### **Keith Pitty ::** **_@keithpitty_**
-## **Talk name TBD**
-### **Andrew Harvey ::** **_@mootpointer_**
+## **TDD Rant**
+### **Mark Ratjens ::** **_@MarkRatjens_**
 
 ---
 
