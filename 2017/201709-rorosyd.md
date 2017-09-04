@@ -22,10 +22,10 @@ This is the link where you can find it and have a read. If you have any issues y
 ---
 
 # **Tonight**
-### Welcome new faces
-### Talks
-### Events / Tips / Jobs
-### Pub / Gelato
+## **Welcome new faces**
+## **Talks**
+## **Events / Tips / Jobs**
+## **Pub / Gelato**
 
 ---
 
@@ -66,11 +66,11 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
-**Talks**
-### **How to ask technical questions** - Matenia Rossides
-### **Ruby and Elixir** - Garrett Heinlen
-### **How not to give advice about Markdown** -  Keith Pitty
-### [fit] **Rebalancing your Extreme Programming Wheels** - Mark Ratjens
+# **Talks**
+- **How to ask technical questions** - Matenia Rossides
+- **Ruby and Elixir** - Garrett Heinlen
+- **How not to give advice about Markdown** -  Keith Pitty
+- **Rebalancing your Extreme Programming Wheels** - Mark Ratjens
 
 ---
 
@@ -210,8 +210,11 @@ more...
 ---
 
 # [fit] **Where do I sign up?**
-### [fit] Submit an issue: github.com/rails-oceania/roro/issues
-### [fit] or email: rorosydmeetup@gmail.com
+# 
+# **Submit an issue:**
+# [fit] github.com/rails-oceania/roro/issues
+# **or email:**
+# [fit] rorosydmeetup@gmail.com
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want
