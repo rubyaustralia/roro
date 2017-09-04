@@ -1,20 +1,15 @@
 theme: Franziska, 3
 footer: @rubyaustralia #rorosyd
 slidenumbers: true
-slidecount: true
 
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
-# [fit] **Welcome**
-# [fit] **_Ruby on Rails Oceania Meetup_**
-# [fit] **September 2017**
+# *Welcome*
+# [fit] **Ruby on Rails Oceania Meetup**
 # [fit] _Meet, Share, and Learn_
 
 ^
 Welcome to Sydney RORO
 
 ---
-
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 <br />
 # [fit] **Code of Conduct**
@@ -26,12 +21,11 @@ This is the link where you can find it and have a read. If you have any issues y
 
 ---
 
-# [fit] **Tonight**
-
-# _**Welcome new faces**_
-# _**Talks**_
-# _**Events / Tips / Jobs**_
-# _**Pub / Gelato**_
+# **Tonight**
+### Welcome new faces
+### Talks
+### Events / Tips / Jobs
+### Pub / Gelato
 
 ---
 
@@ -231,8 +225,8 @@ more...
 ---
 
 # [fit] **Where do I sign up?**
-# [fit] At the RORO Github repo:
-## `github.com/rails-oceania/roro/issues`
+### [fit] Submit an issue: github.com/rails-oceania/roro/issues
+### [fit] or email: rorosydmeetup@gmail.com
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want
@@ -321,8 +315,6 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 - **rails-oceania** google group
 
 ---
-
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 # [fit] **Next Meetup**
 # [fit] **10 October 2017**
