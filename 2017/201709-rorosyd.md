@@ -62,7 +62,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 ![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 
 ^
-[Something about Culture Amp...]
+Culture Amp: uses data to drive change in company culture. Works with Airbnb, Slack, Adobe, Etsy. They are a culture-first company.
 
 ---
 
