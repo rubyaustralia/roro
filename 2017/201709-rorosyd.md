@@ -259,10 +259,13 @@ with some of their time to help you make your presentation the best it can be.
 ![60%](https://www.dropbox.com/s/5wk42kbg2ps78m0/rails-camp-22.png?dl=1)
 
 ^
-10 November<br />
-Tickets on sale now - see railscamps.com <br />
-$350 <br />
-Hack, learn, teach, or just chill out and hang with people
+10-13 November<br />
+Camp Toolangi, Victoria<br />
+Tickets on sale now - $350 <br />
+bit.ly/rc-melbourne <br />
+Diversity tickets available: bit.ly/rc22-diversity<br />
+Hack, learn, teach, or just chill out and hang with people<br />
+@railscamp_au
 
 ---
 
@@ -283,6 +286,16 @@ If you know someone that wants go get started in ruby - bring them to the Instal
 
 ^
 Hack together, learn together, get some help from mentors. From 6pm next at Fishburners
+
+---
+
+<br />
+# [fit] **Rails Girls**
+# [fit] **Early November**
+# [fit] Info: railsgirls.com/sydney
+
+^
+We are tentatively arranging a Rails Girls for early November. This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1
 
 ---
 
