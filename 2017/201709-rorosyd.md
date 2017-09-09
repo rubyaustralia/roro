@@ -279,11 +279,11 @@ Hack together, learn together, get some help from mentors. From 6pm next at Fish
 
 <br />
 # [fit] **Rails Girls**
-# [fit] **Early November**
+# [fit] **Saturday November 11**
 # [fit] Info: railsgirls.com/sydney
 
 ^
-We are tentatively arranging a Rails Girls for early November. This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1
+This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
 
 ---
 
