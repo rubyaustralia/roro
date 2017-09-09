@@ -1,20 +1,15 @@
 theme: Franziska, 3
 footer: @rubyaustralia #rorosyd
 slidenumbers: true
-slidecount: true
 
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
-# [fit] **Welcome**
-# [fit] **_Ruby on Rails Oceania Meetup_**
-# [fit] **September 2017**
+# *Welcome*
+# [fit] **Ruby on Rails Oceania Meetup**
 # [fit] _Meet, Share, and Learn_
 
 ^
 Welcome to Sydney RORO
 
 ---
-
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 <br />
 # [fit] **Code of Conduct**
@@ -26,12 +21,11 @@ This is the link where you can find it and have a read. If you have any issues y
 
 ---
 
-# [fit] **Tonight**
-
-# _**Welcome new faces**_
-# _**Talks**_
-# _**Events / Tips / Jobs**_
-# _**Pub / Gelato**_
+# **Tonight**
+## **Welcome new faces**
+## **Talks**
+## **Events / Tips / Jobs**
+## **Pub / Gelato**
 
 ---
 
@@ -65,20 +59,18 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 # [fit] **Thanks to our Sponsors**
 <br />
 
-![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
-
-^
-[Something about Culture Amp...]
-
----
-
-# [fit] **Thanks to our Sponsors**
-<br />
-
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
 Lookahead: Technical recruiters who are actually technical. And lookahead are, literally, always hiring.
+
+---
+
+# **Talks**
+- **How to ask technical questions** - Matenia Rossides
+- **Ruby and Elixir** - Garrett Heinlen
+- **How not to give advice about Markdown** -  Keith Pitty
+- **Rebalancing your Extreme Programming Wheels** - Mark Ratjens
 
 ---
 
@@ -95,7 +87,155 @@ Everyone have a look around at any new people standing near you, we're going to 
 # [fit] **Thank you!**
 
 ^
-Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO - please feel free to message me on Meetup or Twitter or you can submit it into our GitHub repo issues list.
+Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
+
+---
+
+# [fit] **We are looking for**
+# [fit] **speakers!**
+
+^
+we are looking for speakers!
+
+---
+
+# **Why give a talk?**
+
+^
+Presenting at RORO is a win/win situation. You, the speaker, practice a skill
+and learn new things, and we, the audience, leverage your knowledge to learn
+new things that can potentially help us.
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+
+^
+It's great public speaking practice in front of a sympathetic audience that
+wants you to succeed, and is all very aware of the courage that it can take to
+deliver a talk in front of your peers.  If you've ever thought that you'd like
+to present at RubyConf or some other conference or camp, then a meetup audience
+is a great start point to get practice and hone your skills.
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+- Add a "soft skill" to your online portfolio
+
+^
+It provides a takeaway artifact of "soft skills", which are becoming ever more
+important in development teams.  You can take your talk/slide deck and
+essentially open source it on a wide variety of platforms much like you would
+any of your open source code (eg Speaker Deck, SlideShare, Dropbox, even Github
+if your presentation is written in Markdown), which provides a great addition
+to your resume, or maybe even ammunition you can take in to your next payrise
+negotiations.
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+- Add a "soft skill" to your online portfolio
+- Show something off!
+
+^
+It gives you a captive audience to directly promote and show off something
+awesome that you've built lately, or maybe pose a question or problems that
+you'd like input and/or discussion around.  Discussion about any
+thought-provoking issues have often continued after the meetup over drinks
+and gelato and _you_ get to take the credit for being the catalyst!
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+- Add a "soft skill" to your online portfolio
+- Show something off!
+- Practice demo-ing
+
+^
+If you're up to the challenge, it can give you practice demoing something
+in front of an audience, which is significantly different to just showing
+someone else what's currently on your screen.  Being able to effectively demo,
+and recover from any issues that occur during them, is a highly sought after
+developer superpower.
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+- Add a "soft skill" to your online portfolio
+- Show something off!
+- Practice demo-ing
+- Become an expert!
+
+^
+It will make you known in the community as an expert on something, even if
+don't consider yourself one!  If you teach someone something that they didn't
+know before, then to them, you are an expert.  Furthermore, the questions that
+you will then get from others about what you know can lead you down further
+knowledge-gathering paths to further refine your abilities to the point where
+even you can acknowledge your own expertise.
+
+---
+
+# **Why give a talk?**
+
+- Develop a new skill in front of a sympathetic audience
+- Add a "soft skill" to your online portfolio
+- Show something off!
+- Practice demo-ing
+- Become an expert!
+- Your perspective is unique!
+
+^
+- Even if you think the content of your talk has been covered before, your
+perspective on it (and the way you present it) is unique to you, so don't let
+that stop you.  People love to hear presentations about things they already
+know about because it makes them feel smart that they know stuff worth
+presenting about. Then, if you're the one presenting it you unconsciously
+join the league of experts about that subject in your audience's mind!
+<br />
+- It is *good* to throw yourself out of your comfort zone and try something
+different, and who knows, you might even end up liking it and wanting to do
+more...
+
+---
+
+# [fit] **Where do I sign up?**
+# 
+# **Submit an issue:**
+# [fit] github.com/rails-oceania/roro/issues
+# **or email:**
+# [fit] rorosydmeetup@gmail.com
+
+^
+- Open up an issue at the RORO Github repo and tell us about the talk you want
+to submit, or feel free to message any of the organisers.
+
+---
+
+# **Want Help?**
+
+## **Contact the RORO Sydney organisers**
+
+- Andrew Harvey - _@mootpointer_
+- Tracy Mu Sung - _@TracyMuSung_
+- Rob Cornish - _@robcornish_
+- Paul Fioravanti - _@paulfioravanti_
+
+^
+- If you want advice, a soundboard for ideas, or someone to dry run your
+presentation with and give feedback, any of the RORO Syd organisers
+(and I'm sure many people in this room) are more than happy to provide you
+with some of their time to help you make your presentation the best it can be.
 
 ---
 
@@ -107,10 +247,13 @@ Thanks so much to all the speakers tonight, and if anyone is interested in givin
 ![60%](https://www.dropbox.com/s/5wk42kbg2ps78m0/rails-camp-22.png?dl=1)
 
 ^
-10 November<br />
-Tickets on sale now - see railscamps.com <br />
-$350 <br />
-Hack, learn, teach, or just chill out and hang with people
+10-13 November<br />
+Camp Toolangi, Victoria<br />
+Tickets on sale now - $350 <br />
+bit.ly/rc-melbourne <br />
+Diversity tickets available: bit.ly/rc22-diversity<br />
+Hack, learn, teach, or just chill out and hang with people<br />
+@railscamp_au
 
 ---
 
@@ -131,6 +274,16 @@ If you know someone that wants go get started in ruby - bring them to the Instal
 
 ^
 Hack together, learn together, get some help from mentors. From 6pm next at Fishburners
+
+---
+
+<br />
+# [fit] **Rails Girls**
+# [fit] **Saturday November 11**
+# [fit] Info: railsgirls.com/sydney
+
+^
+This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
 
 ---
 
@@ -164,8 +317,6 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-![70%](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
-
 # [fit] **Next Meetup**
 # [fit] **10 October 2017**
 # [fit] *__(2nd Tuesday of the month)__*
@@ -177,3 +328,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **Red Oak Pub (up the street)**
 # _or_
 # [fit] **Gelato Rivareno (Barangaroo)**
+
+^
+This presentation was written in a Markdown format designed to work with
+Deckset (https://www.decksetapp.com/)
