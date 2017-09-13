@@ -283,9 +283,8 @@ This event is aimed at getting more women into coding by introducing them to bui
 ---
 
 # [fit] **Tips and Tricks**
-
-- Stuff that makes your life easier/better/faster
-- Open floor
+## Stuff that makes your life easier/better/faster
+- TL;DR CLI utility: https://github.com/tldr-pages/tldr
 
 ---
 
