@@ -11,6 +11,27 @@ Welcome to Sydney RORO
 
 ---
 
+# **Tonight**
+## **Welcome new faces**
+## **Talks**
+## **Events / Tips / Jobs**
+## **Pub / Gelato**
+
+---
+
+# [fit] **Housekeeping**
+
+- Bathrooms
+- Hot food + leftovers
+- Glass bottles
+
+^
+- Location of bathrooms
+- Feel free to take anything home
+- Glass bottles not in recycle bin but just on bench
+
+---
+
 <br />
 # [fit] **Code of Conduct**
 # [fit] `ruby.org.au/code-of-conduct`
@@ -18,14 +39,6 @@ Welcome to Sydney RORO
 ^
 If this is your first Roro, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
 This is the link where you can find it and have a read. If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are {list organisers} - or you can go straight to Ruby Australia if you prefer.
-
----
-
-# **Tonight**
-## **Welcome new faces**
-## **Talks**
-## **Events / Tips / Jobs**
-## **Pub / Gelato**
 
 ---
 
@@ -215,6 +228,14 @@ with some of their time to help you make your presentation the best it can be.
 
 <br />
 # [fit] **Events**
+
+---
+
+# [fit] **RubyConf**
+# **_8-9 March in Sydney_**
+## [fit] Super Early Bird Tickets are now **SOLD OUT!**
+## **OMG Sandi Metz!**
+## `https://www.rubyconf.org.au/2018`
 
 ---
 
