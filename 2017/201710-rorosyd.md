@@ -85,8 +85,10 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 # **Talks**
-- **Talk 1** - Person 1
-- **Talk 2** - Person 2
+- **Learning Ruby**
+  Bianca Power :: **`@20by31`**
+- **A Pull Request Has Been Submitted**
+  Paulo Anchetta :: **`@pauloancheta`**
 
 ---
 
@@ -236,12 +238,13 @@ with some of their time to help you make your presentation the best it can be.
 
 # [fit] **RubyConf**
 # **_8-9 March in Sydney_**
-## [fit] Super Early Bird Tickets are now **SOLD OUT!**
-## **OMG Sandi Metz!**
+## [fit] Early Bird Tickets are now **ON SALE!**
+## CFP is **OPEN**
 ## `https://www.rubyconf.org.au/2018`
 
 ^
-Check the website for updates on ticket sales.
+- Call for proposals is now open until October 26.
+- Check the website for updates on ticket sales, but super early bird tickets went fast, and we expect the early bird tickets to sell out fast as well.  Early bird tickets are $610.
 
 ---
 
@@ -259,32 +262,34 @@ Hack, learn, teach, or just chill out and hang with people<br />
 ---
 
 <br />
-# [fit] **InstallFest**
-# [fit] **XXXXXXXXXXXXXXXXXXXXX**
-# [fit] Sign up on _meetup.com_
-
-^
-If you know someone that wants go get started in ruby - bring them to the Install fest
-
----
-
-<br />
 # [fit] **Development Hub**
-# [fit] **XXXXXXXXXXXXXXXXXXXXX**
+# [fit] **October 17 at Fishburners**
 # [fit] Sign up on _meetup.com_
 
 ^
+Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on October 17.
 Hack together, learn together, get some help from mentors. From 6pm next at Fishburners
 
 ---
 
 <br />
+# [fit] **InstallFest**
+# [fit] **December 19 at Fishburners**
+# [fit] Sign up on _meetup.com_
+
+^
+If you know someone that wants go get started in ruby - bring them to the InstallFest, currently scheduled for December 19, also held by reinteractive.
+
+---
+
+<br />
 # [fit] **Rails Girls**
-# [fit] **XXXXXXXXXXXXXXXXXXXXXX**
+# [fit] **November 4, 2017**
 # [fit] Info: railsgirls.com/sydney
 
 ^
-This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
+- This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
+- If you would like to mentor at Rails Girls, we'd love to have you there, so please sign up on the website.
 
 ---
 
@@ -311,7 +316,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **Online**
 
 - follow **@rubyaustralia** and _new_ **@rorosyd** account on twitter
-- tweet using **#rorosyd**
+- tweet using **#rorosyd** and **@rorosyd**
 - **ruby.org.au** website
 - **rails-oceania** google group
 
@@ -332,6 +337,5 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles on the far table (not the recycling bins as they end up getting too heavy)<br />
 Please feel free to continue the conversations at the pub or at gelato but **you can't stay here**, so please move on to your venue of choice as soon as you can.<br />
-
 NOTE: This presentation was written in a Markdown format designed to work with
 Deckset (https://www.decksetapp.com/)
