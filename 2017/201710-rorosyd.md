@@ -119,83 +119,27 @@ we are looking for speakers!
 
 # **Why give a talk?**
 
-^
-Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
+- **Develop a new skill in front of a sympathetic audience**
+- **Add a "soft skill" to your online portfolio**
+- **Show something off!**
+- **Practice demo-ing**
+- **Become an expert!**
+- **Your perspective is unique!**
 
 ^
-It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
+- Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
+- It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
 If you've ever thought that you'd like to present at RubyConf or some other conference or camp, then a meetup audience is a great start point to get practice and hone your skills.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-
-^
-It provides a takeaway artifact of "soft skills", which are becoming ever more important in development teams.<br />
+- It provides a takeaway artifact of "soft skills", which are becoming ever more important in development teams.<br />
 You can take your talk/slide deck and essentially open source it on a wide variety of platforms much like you would any of your open source code (eg Speaker Deck, SlideShare, Dropbox, even Github if your presentation is written in Markdown),<br />
 which provides a great addition to your resume, or maybe even ammunition you can take in to your next payrise negotiations.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-
-^
-It gives you a captive audience to directly promote and show off something awesome that you've built lately, or maybe pose a question or problems that you'd like input and/or discussion around.<br />
+- It gives you a captive audience to directly promote and show off something awesome that you've built lately, or maybe pose a question or problems that you'd like input and/or discussion around.<br />
 Discussion about any thought-provoking issues have often continued after the meetup over drinks and gelato and _you_ get to take the credit for being the catalyst!
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-
-^
-If you're up to the challenge, it can give you practice demoing something in front of an audience, which is significantly different to just showing someone else what's currently on your screen.<br />
+- If you're up to the challenge, it can give you practice demoing something in front of an audience, which is significantly different to just showing someone else what's currently on your screen.<br />
 Being able to effectively demo, and recover from any issues that occur during them, is a highly sought after developer superpower.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-- Become an expert!
-
-^
-It will make you known in the community as an expert on something, even if don't consider yourself one!  If you teach someone something that they didn't know before, then to them, you are an expert.<br />
+- It will make you known in the community as an expert on something, even if don't consider yourself one!  If you teach someone something that they didn't know before, then to them, you are an expert.<br />
 Furthermore, the questions that you will then get from others about what you know can lead you down further knowledge-gathering paths to further refine your abilities to the point where even you can acknowledge your own expertise.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-- Become an expert!
-- Your perspective is unique!
-
-^
-Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
+- Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
 People love to hear presentations about things they already know about because it makes them feel smart that they know stuff worth presenting about. Then, if you're the one presenting it you unconsciously join the league of experts about that subject in your audience's mind!<br />
 It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
 
