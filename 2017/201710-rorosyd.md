@@ -23,9 +23,9 @@ Welcome to Sydney RORO
 
 # [fit] **Housekeeping**
 
-- Bathrooms
-- Hot food
-- Glass bottles
+- **Bathrooms**
+- **Hot food**
+- **Glass bottles**
 
 ^
 - Location of bathrooms
@@ -40,7 +40,7 @@ Welcome to Sydney RORO
 # [fit] `ruby.org.au/code-of-conduct`
 
 ^
-If this is your first Roro, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
+If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
 This is the link where you can find it and have a read. If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are {list organisers} - or you can go straight to Ruby Australia if you prefer.
 
 ---
@@ -218,10 +218,10 @@ to submit, or feel free to message any of the organisers.
 
 ## **Contact the RORO Sydney organisers**
 
-- Andrew Harvey - _@mootpointer_
-- Tracy Mu Sung - _@TracyMuSung_
-- Rob Cornish - _@robcornish_
-- Paul Fioravanti - _@paulfioravanti_
+- **Andrew Harvey** - _@mootpointer_
+- **Tracy Mu Sung** - _@TracyMuSung_
+- **Rob Cornish** - _@robcornish_
+- **Paul Fioravanti** - _@paulfioravanti_
 
 ^
 - If you want advice, a soundboard for ideas, or someone to dry run your
