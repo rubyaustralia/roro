@@ -175,18 +175,6 @@ with some of their time to help you make your presentation the best it can be.
 
 ---
 
-# [fit] **We *also* are looking for**
-# [fit] :clapper: **videographers!** :video_camera:
-
-- **Video the talks!**
-- **Livestreaming...?**
-
-^
-- we are also looking for videographers!
-- Do you want to help us out with getting the recording of talks, and possibly the livestreaming of this event, up and running or do you know someone who might? If so, get in touch with us as we're currently looking into ways of making the event accessible to those who may not be able to make it on the night, and provide a more permanent takeaway for our awesome speakers.
-
----
-
 <br />
 # [fit] **Events**
 
