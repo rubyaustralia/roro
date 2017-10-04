@@ -23,9 +23,9 @@ Welcome to Sydney RORO
 
 # [fit] **Housekeeping**
 
-- Bathrooms
-- Hot food
-- Glass bottles
+- **Bathrooms**
+- **Hot food**
+- **Glass bottles**
 
 ^
 - Location of bathrooms
@@ -40,7 +40,7 @@ Welcome to Sydney RORO
 # [fit] `ruby.org.au/code-of-conduct`
 
 ^
-If this is your first Roro, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
+If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
 This is the link where you can find it and have a read. If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are {list organisers} - or you can go straight to Ruby Australia if you prefer.
 
 ---
@@ -85,8 +85,10 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 # **Talks**
-- **Talk 1** - Person 1
-- **Talk 2** - Person 2
+- **Learning Ruby**
+  Bianca Power :: **`@20by31`**
+- **A Pull Request Has Been Submitted**
+  Paulo Anchetta :: **`@pauloancheta`**
 
 ---
 
@@ -117,83 +119,27 @@ we are looking for speakers!
 
 # **Why give a talk?**
 
-^
-Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
+- **Develop a new skill in front of a sympathetic audience**
+- **Add a "soft skill" to your online portfolio**
+- **Show something off!**
+- **Practice demo-ing**
+- **Become an expert!**
+- **Your perspective is unique!**
 
 ^
-It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
+- Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
+- It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
 If you've ever thought that you'd like to present at RubyConf or some other conference or camp, then a meetup audience is a great start point to get practice and hone your skills.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-
-^
-It provides a takeaway artifact of "soft skills", which are becoming ever more important in development teams.<br />
+- It provides a takeaway artifact of "soft skills", which are becoming ever more important in development teams.<br />
 You can take your talk/slide deck and essentially open source it on a wide variety of platforms much like you would any of your open source code (eg Speaker Deck, SlideShare, Dropbox, even Github if your presentation is written in Markdown),<br />
 which provides a great addition to your resume, or maybe even ammunition you can take in to your next payrise negotiations.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-
-^
-It gives you a captive audience to directly promote and show off something awesome that you've built lately, or maybe pose a question or problems that you'd like input and/or discussion around.<br />
+- It gives you a captive audience to directly promote and show off something awesome that you've built lately, or maybe pose a question or problems that you'd like input and/or discussion around.<br />
 Discussion about any thought-provoking issues have often continued after the meetup over drinks and gelato and _you_ get to take the credit for being the catalyst!
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-
-^
-If you're up to the challenge, it can give you practice demoing something in front of an audience, which is significantly different to just showing someone else what's currently on your screen.<br />
+- If you're up to the challenge, it can give you practice demoing something in front of an audience, which is significantly different to just showing someone else what's currently on your screen.<br />
 Being able to effectively demo, and recover from any issues that occur during them, is a highly sought after developer superpower.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-- Become an expert!
-
-^
-It will make you known in the community as an expert on something, even if don't consider yourself one!  If you teach someone something that they didn't know before, then to them, you are an expert.<br />
+- It will make you known in the community as an expert on something, even if don't consider yourself one!  If you teach someone something that they didn't know before, then to them, you are an expert.<br />
 Furthermore, the questions that you will then get from others about what you know can lead you down further knowledge-gathering paths to further refine your abilities to the point where even you can acknowledge your own expertise.
-
----
-
-# **Why give a talk?**
-
-- Develop a new skill in front of a sympathetic audience
-- Add a "soft skill" to your online portfolio
-- Show something off!
-- Practice demo-ing
-- Become an expert!
-- Your perspective is unique!
-
-^
-Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
+- Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
 People love to hear presentations about things they already know about because it makes them feel smart that they know stuff worth presenting about. Then, if you're the one presenting it you unconsciously join the league of experts about that subject in your audience's mind!<br />
 It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
 
@@ -216,10 +162,10 @@ to submit, or feel free to message any of the organisers.
 
 ## **Contact the RORO Sydney organisers**
 
-- Andrew Harvey - _@mootpointer_
-- Tracy Mu Sung - _@TracyMuSung_
-- Rob Cornish - _@robcornish_
-- Paul Fioravanti - _@paulfioravanti_
+- **Andrew Harvey** - _@mootpointer_
+- **Tracy Mu Sung** - _@TracyMuSung_
+- **Rob Cornish** - _@robcornish_
+- **Paul Fioravanti** - _@paulfioravanti_
 
 ^
 - If you want advice, a soundboard for ideas, or someone to dry run your
@@ -236,12 +182,13 @@ with some of their time to help you make your presentation the best it can be.
 
 # [fit] **RubyConf**
 # **_8-9 March in Sydney_**
-## [fit] Super Early Bird Tickets are now **SOLD OUT!**
-## **OMG Sandi Metz!**
+## [fit] Early Bird Tickets are now **ON SALE!**
+## CFP is **OPEN**
 ## `https://www.rubyconf.org.au/2018`
 
 ^
-Check the website for updates on ticket sales.
+- Call for proposals is now open until October 26.
+- Check the website for updates on ticket sales, but super early bird tickets went fast, and we expect the early bird tickets to sell out fast as well.  Early bird tickets are $610.
 
 ---
 
@@ -259,32 +206,34 @@ Hack, learn, teach, or just chill out and hang with people<br />
 ---
 
 <br />
-# [fit] **InstallFest**
-# [fit] **XXXXXXXXXXXXXXXXXXXXX**
-# [fit] Sign up on _meetup.com_
-
-^
-If you know someone that wants go get started in ruby - bring them to the Install fest
-
----
-
-<br />
 # [fit] **Development Hub**
-# [fit] **XXXXXXXXXXXXXXXXXXXXX**
+# [fit] **October 17 at Fishburners**
 # [fit] Sign up on _meetup.com_
 
 ^
+Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on October 17.
 Hack together, learn together, get some help from mentors. From 6pm next at Fishburners
 
 ---
 
 <br />
+# [fit] **InstallFest**
+# [fit] **December 19 at Fishburners**
+# [fit] Sign up on _meetup.com_
+
+^
+If you know someone that wants go get started in ruby - bring them to the InstallFest, currently scheduled for December 19, also held by reinteractive.
+
+---
+
+<br />
 # [fit] **Rails Girls**
-# [fit] **XXXXXXXXXXXXXXXXXXXXXX**
+# [fit] **November 4, 2017**
 # [fit] Info: railsgirls.com/sydney
 
 ^
-This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
+- This event is aimed at getting more women into coding by introducing them to building a rails app in a fun, friendly environment. There is Rails Girls track 1 for newbies and Rails Girls track 2 for people who  have a bit of coding knowledge, or have already done RailsGirls track 1. We will be opening applications soon, but you can register your interest at railsgirls.com/sydney
+- If you would like to mentor at Rails Girls, we'd love to have you there, so please sign up on the website.
 
 ---
 
@@ -311,7 +260,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **Online**
 
 - follow **@rubyaustralia** and _new_ **@rorosyd** account on twitter
-- tweet using **#rorosyd**
+- tweet using **#rorosyd** and **@rorosyd**
 - **ruby.org.au** website
 - **rails-oceania** google group
 
@@ -332,6 +281,5 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles on the far table (not the recycling bins as they end up getting too heavy)<br />
 Please feel free to continue the conversations at the pub or at gelato but **you can't stay here**, so please move on to your venue of choice as soon as you can.<br />
-
 NOTE: This presentation was written in a Markdown format designed to work with
 Deckset (https://www.decksetapp.com/)
