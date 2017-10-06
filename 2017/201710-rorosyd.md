@@ -114,19 +114,6 @@ Thanks so much to all the speakers tonight, and if anyone is interested in givin
 
 ^
 we are looking for speakers!
-
----
-
-# **Why give a talk?**
-
-- **Develop a new skill in front of a sympathetic audience**
-- **Add a "soft skill" to your online portfolio**
-- **Show something off!**
-- **Practice demo-ing**
-- **Become an expert!**
-- **Your perspective is unique!**
-
-^
 - Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
 - It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
 If you've ever thought that you'd like to present at RubyConf or some other conference or camp, then a meetup audience is a great start point to get practice and hone your skills.
@@ -142,36 +129,20 @@ Furthermore, the questions that you will then get from others about what you kno
 - Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
 People love to hear presentations about things they already know about because it makes them feel smart that they know stuff worth presenting about. Then, if you're the one presenting it you unconsciously join the league of experts about that subject in your audience's mind!<br />
 It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
+- So if you love Roro and want to help the community, consider volunteering to do a talk
 
 ---
 
-# [fit] **Where do I sign up?**
-# 
-# **Submit an issue:**
+# **Where do I sign up?**
 # [fit] github.com/rails-oceania/roro/issues
-# **or email:**
 # [fit] rorosydmeetup@gmail.com
+- _@TracyMuSung_
+- _@robcornish_
+- _@paulfioravanti_
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want
 to submit, or feel free to message any of the organisers.
-
----
-
-# **Want Help?**
-
-## **Contact the RORO Sydney organisers**
-
-- **Andrew Harvey** - _@mootpointer_
-- **Tracy Mu Sung** - _@TracyMuSung_
-- **Rob Cornish** - _@robcornish_
-- **Paul Fioravanti** - _@paulfioravanti_
-
-^
-- If you want advice, a soundboard for ideas, or someone to dry run your
-presentation with and give feedback, any of the RORO Syd organisers
-(and I'm sure many people in this room) are more than happy to provide you
-with some of their time to help you make your presentation the best it can be.
 
 ---
 
@@ -183,14 +154,26 @@ with some of their time to help you make your presentation the best it can be.
 # [fit] **RubyConf**
 # **_8-9 March in Sydney_**
 ## [fit] Early Bird Tickets are now **ON SALE!**
-## CFP is **OPEN**
-## `https://www.rubyconf.org.au/2018`
+## `rubyconf.org.au`
 
 ^
 - Call for proposals is now open until October 26.
 - Check the website for updates on ticket sales, but super early bird tickets went fast, and we expect the early bird tickets to sell out fast as well.  Early bird tickets are $610.
 
 ---
+<br />
+
+# [fit] **CFP now open**
+
+# **_closing midnight October 25_**
+## `rubyconf.org.au`
+
+^
+- Call for proposals is now open until midnight October 25.
+- Check the website for updates on ticket sales, but super early bird tickets went fast, and we expect the early bird tickets to sell out fast as well.  Early bird tickets are $610.
+
+---
+
 
 ![60%](https://www.dropbox.com/s/5wk42kbg2ps78m0/rails-camp-22.png?dl=1)
 
@@ -255,6 +238,9 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 - https://ruby-au-join.herokuapp.com/
 - https://forum.ruby.org.au/
 
+---
+
+# [fit] RoroSyd Exercism
 ---
 
 # [fit] **Online**
