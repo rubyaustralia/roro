@@ -257,6 +257,26 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] RoroSyd Exercism
+<br />
+
+### **You can find us by searching the team list for**
+### "Ruby on Rails Ociana Sydney"
+### www.exercism.io
+
+^
+We'd like to start something new here at RoRo. We've started a RoRoSyd exercism
+team. For anyone that doesn't know about Exercism, it's a project started by
+Katrina Owens that provides code challenges in 30 or more languages to test and hone your skills. 
+
+^
+What we'd like to do is start setting a monthly challenge that people can work
+through and the following month have someone present and discuss their
+implementation. Exercism isn't the only place to source good challenge material
+so if anyone has other suggestions, please let me know. Exercism does provide a
+good social element where you can view and comment on other people submission so
+I encourage you to join the team and next month we'll set our first monthly roro
+challenge.
+
 ---
 
 # [fit] **Online**
