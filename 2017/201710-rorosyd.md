@@ -101,6 +101,22 @@ Everyone have a look around at any new people standing near you, we're going to 
 
 ---
 
+# [fit] **Learning Ruby**
+  Bianca Power :: **`@20by31`**
+
+^ Our first speaker tonight is Bianca who's going to share her experience as
+someone new to the industry about learning Ruby. She's currently studying a
+Diploma of Information Technology at Coder Academy and particularly enjoys
+getting creative with CSS. 
+
+^
+She also has a secret skill. Now I think this is pretty awesome so I've ask
+Bianca if she can demonstrate a speed Rubix cube solve for us. Now the world
+record for solving a cube is currently held by an Aussie, Feliks Zemdegs in a
+time of 4.73 seconds. We've got the timer running here tonight, let see if
+Bianca can break a record here at RoRo. 
+
+---
 <br />
 # [fit] **Thank you!**
 
