@@ -260,13 +260,13 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 <br />
 
 ### **You can find us by searching the team list for**
-### "Ruby on Rails Ociana Sydney"
+### "Ruby on Rails Oceania Sydney"
 ### www.exercism.io
 
-^
-We'd like to start something new here at RoRo. We've started a RoRoSyd exercism
-team. For anyone that doesn't know about Exercism, it's a project started by
-Katrina Owens that provides code challenges in 30 or more languages to test and hone your skills. 
+^ We'd like to start something new here at RoRo. We've started a RoRoSyd
+exercism team. For anyone that doesn't know about Exercism, it's a project
+started by Katrina Owens that provides code challenges in 30 or more languages
+to test and hone your skills. 
 
 ^
 What we'd like to do is start setting a monthly challenge that people can work
