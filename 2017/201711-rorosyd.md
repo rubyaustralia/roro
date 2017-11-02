@@ -2,8 +2,8 @@ theme: Letters From Sweden, 2
 footer: @rubyaustralia #rorosyd
 slidenumbers: true
 
-# [fit] *Ruby on Rails*
-# [fit] **Oceania Meetup**
+# [fit] **Ruby on Rails**
+# [fit] **_Oceania Meetup_**
 # [fit] _Meet, Share, and Learn_
 # [fit] **_14 November 2017_**
 
@@ -13,10 +13,10 @@ Welcome to Sydney RORO
 ---
 
 # **_Tonight_**
-# [fit] *Welcome new faces*
-# [fit] *Talks*
-# [fit] *Events / Tips / Jobs*
-# [fit] *Pub / Gelato*
+# [fit] - *Welcome new faces*
+# [fit] - *Talks*
+# [fit] - *Events / Tips / Jobs*
+# [fit] - *Pub / Gelato*
 
 ---
 
@@ -33,9 +33,9 @@ Welcome to Sydney RORO
 
 ---
 
-<br />
-# [fit] **_Code of Conduct_**
-# [fit] `ruby.org.au/code-of-conduct`
+# [fit] **_Code of_**
+# [fit] **Conduct**
+- **_www.ruby.org.au/code-of-conduct_**
 
 ^
 If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
@@ -43,7 +43,7 @@ This is the link where you can find it and have a read. If you have any issues y
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **_Thanks to our_** **Sponsors**
 ![inline](https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1)
 
 ^
@@ -53,7 +53,7 @@ I think at least some of their clients have Ruby in their technical stack, and t
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **_Thanks to our_** **Sponsors**
 ![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 ^
@@ -62,7 +62,7 @@ So thanks to Ruby Australia and their sponsors.
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **_Thanks to our_** **Sponsors**
 <br />
 
 ![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
@@ -72,7 +72,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **_Thanks to our_** **Sponsors**
 <br />
 
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
@@ -82,23 +82,52 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
-# **Talks**
-## [fit] 1. **_Creating an Alexa app_**
-## [fit] **_with Rails_**
-## [fit] Tarun Mookhey :: **`@zoilism`**
-## [fit] 2. **_Trying other perspectives as a_**
-## [fit] **_developer && as a human_**
-## [fit] Jenny Nguyen :: **`@knockycode`**
+# [fit] **_Talks_**
 
 ---
 
-# **Talks**
-## [fit] 3. **_How to be a_**
-## [fit] **_resilient developer_**
-## [fit] Luca Busin :: **`@LucaBusin`**
-## [fit] 4. **_Binary trees and_**
-## [fit] **_recursion_**
-## [fit] Rob Cornish :: **`@robcornish`**
+[.hide-footer]
+![left](https://www.dropbox.com/s/m8agy63vii2kkof/tarun-mookhey.jpg?dl=1)
+
+# [fit] **_Creating an_**
+# [fit] **_Alexa app_**
+# [fit] **_with Rails_**
+# [fit] _Tarun Mookhey_
+# [fit] `@zoilism`
+
+---
+
+[.slidenumbers: false]
+![right](https://www.dropbox.com/s/poypa380zuu6cqg/jenny-nguyen.jpg?dl=1)
+
+# [fit] **_Trying other_**
+# [fit] **_perspectives as_**
+# [fit] **_a developer_**
+# [fit] **_&& as a human_**
+# [fit] _Jenny Nguyen_
+# [fit] `@knockycode`
+
+---
+
+[.hide-footer]
+![left](https://www.dropbox.com/s/5kv2kzbcwg7jk3e/luca-busin.jpg?dl=1)
+
+# [fit] **_How to be a_**
+# [fit] **_resilient_**
+# [fit] **_developer_**
+# [fit] _Luca Busin_
+# [fit] `@LucaBusin`
+
+---
+
+[.slidenumbers: false]
+![right](https://www.dropbox.com/s/gk188aq1zjjlonm/rob-cornish.jpg?dl=1)
+
+# [fit] **_Binary_**
+# [fit] **_trees and_**
+# [fit] **_recursion_**
+# [fit] _Rob Cornish_
+# [fit] `@robcornish`
 
 ---
 
@@ -112,7 +141,8 @@ Everyone have a look around at any new people standing near you, we're going to 
 ---
 
 <br />
-# [fit] **Thank you!** **`\o/`**
+# [fit] **_Thank you!_**
+# [fit] ` \o/`
 
 ^
 Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
@@ -143,9 +173,10 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 
 ---
 
-# [fit] **_Where do I sign up?_**
-# [fit] :globe_with_meridians: `github.com/rails-oceania/roro/issues`
-# [fit] :email: `rorosydmeetup@gmail.com`
+# [fit] **_Where do I_** **sign up?**
+
+- :globe_with_meridians: **_github.com/rails-oceania/roro/issues_**
+- :email: _rorosydmeetup@gmail.com_
 - _@TracyMuSung_
 - _@robcornish_
 - _@paulfioravanti_
@@ -185,8 +216,9 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 
 # [fit] **RubyConf**
 # [fit] **_8-9 March in Sydney_**
-## [fit] Early Bird Tickets are **_still_** **ON SALE!**
-## `rubyconf.org.au`
+# [fit] Early Bird Tickets are
+# [fit] **_still_** **ON SALE!**
+## `www.rubyconf.org.au`
 
 ^
 - Call for proposals closed on 29 October.
@@ -194,10 +226,11 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 
 ---
 
-<br />
 # [fit] **_Development Hub_**
-# [fit] **November 21 at** **_Fishburners_**
-# [fit] Sign up on _meetup.com_
+#### **_\---------------------------------------------------------------------------_**
+# [fit] **November 21 at**
+# [fit] **_Fishburners_**
+# [fit] Sign up on **_meetup.com_**
 
 ^
 Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on November 21 at Fishburners.<br />
@@ -205,10 +238,11 @@ Hack together, learn together, get some help from mentors.
 
 ---
 
-<br />
-# [fit] **_InstallFest_**
-# [fit] **December 19 at** **_Fishburners_**
-# [fit] Sign up on _meetup.com_
+# [fit] **InstallFest**
+#### **\---------------------------------------------------------------------------**
+# [fit] **_December 19 at_**
+# [fit] **Fishburners**
+# [fit] **_Sign up on_** **meetup.com**
 
 ^
 - If you know someone that wants go get started in ruby - bring them to the InstallFest, currently scheduled for December 19, also held by reinteractive.<br />
@@ -231,27 +265,21 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-# [fit] **_Slack/Forum_**
-- https://ruby-au-join.herokuapp.com/
-- https://forum.ruby.org.au/
+# [fit] **Slack**/**_Forum_**
+- **_https://ruby-au-join.herokuapp.com/_**
+- **_https://forum.ruby.org.au/_**
 
 ---
 
-# [fit] **_RoroSyd_**
+# [fit] **RoroSyd**
 # [fit] **_Exercism_**
-# [fit] `http://exercism.io/teams/rorosyd/`
+- **_http://exercism.io/teams/rorosyd_**
+- _$ exercism fetch ruby [problem-name]_
 
 ^
 - We've started a RoRoSyd exercism team.<br />
 - For anyone that doesn't know about Exercism, it's a project started by Katrina Owens that provides code challenges in 30 or more languages to test and hone your skills. <br />
 - So far we've got 7 members of the team and we'd love to see more of you join the team to take up some code challenges, and give and receive feedback on them.<br />
-
----
-
-# [fit] **_RoroSyd Exercism_**
-# [fit] `$ exercism fetch ruby [problem-name]`
-
-^
 - This month, the team problem we'd like to tackle is [insert problem here]
 - Every month, we'd love to be able to allocate some time for someone to give a quick lightning talk about their solution, so anyone who submits an answer to the challenge is welcome to take the stage and tell us about it.
 
@@ -259,10 +287,10 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 # [fit] **_Online_**
 
-# [fit] Follow **_@rubyaustralia_** and **_@rorosyd_** on twitter
-# [fit] Tweet using **_#rorosyd_** and **_@rorosyd_**
-# [fit] **_ruby.org.au_** website
-# [fit] **_rails-oceania_** google group
+- Follow **_@rubyaustralia_** and **_@rorosyd_** on twitter
+- Tweet using **_#rorosyd_** and **_@rorosyd_**
+- **_ruby.org.au_** website
+- **_rails-oceania_** google group
 
 ---
 
