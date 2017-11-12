@@ -274,14 +274,15 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **RoroSyd**
 # [fit] **_Exercism_**
 - **_http://exercism.io/teams/rorosyd_**
-- _$ exercism fetch ruby [problem-name]_
+- _$ exercism fetch ruby binary_
+- _$ exercism submit binary.rb_
 
 ^
 - We've started a RoRoSyd exercism team.<br />
-- For anyone that doesn't know about Exercism, it's a project started by Katrina Owens that provides code challenges in 30 or more languages to test and hone your skills. <br />
-- So far we've got 7 members of the team and we'd love to see more of you join the team to take up some code challenges, and give and receive feedback on them.<br />
-- This month, the team problem we'd like to tackle is [insert problem here]
-- Every month, we'd love to be able to allocate some time for someone to give a quick lightning talk about their solution, so anyone who submits an answer to the challenge is welcome to take the stage and tell us about it.
+- For anyone that doesn't know about Exercism, it's a project started by Katrina Owens that provides code challenges in 43 languages currently to test and hone your skills. <br />
+- So far we've got 9 members of the team and we'd love to see more of you join Exercism, and the team, to take up some code challenges, and give and receive feedback on them.<br />
+- This month, the team problem we'd like to tackle is the "binary" problem, which asks you to convert a binary number, given to you as a string, into a decimal number.  You can download the problem directly with the `exercism` command-line app by running `exercism fetch ruby binary`, and then once you're done with your solution and all your tests pass, you can submit it with `exercism submit binary.rb`
+- Every month, we'd love to be able to allocate some time for someone to give a quick lightning talk about their solution, so anyone who submits an answer to the challenge is welcome to take the stage and tell us about it. If you perhaps want to do a talk at RORO but don't know what to talk about, here's a ready-made topic for you.
 
 ---
 
