@@ -199,8 +199,15 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 ^
 - Rails Girls was held on November 4
 - (Ask if there was anyone in the audience who went and is here as a result of that event)
-- Keep an eye out on the Meetup page for when the next one is announced, probably in another 4-6 months.
-- (Maybe put photos of the event?)
+
+---
+
+![left fill](https://pbs.twimg.com/media/DNv8D73VoAATTPt.jpg)![right fill](https://pbs.twimg.com/media/DNv8YmxV4AAMzg4.jpg)
+![inline fill](https://pbs.twimg.com/media/DNwmfqZVoAAdmuA.jpg)
+
+^
+- Here are some photos stolen off Twitter of the event, and I can confirm it was a great success, so congrats to Angie, Angela and Tracy for putting on yet another great event.<br />
+- If you missed out this time, or want to perhaps come along and mentor, keep an eye out on the Meetup page for when the next one is announced, probably in another 4-6 months.
 
 ---
 
@@ -208,9 +215,16 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 
 ^
 - Rails Camp 22 was held on the weekend in Melbourne, and we hope that everyone who went had an awesome time.<br />
+
+---
+
+![inline fill](https://pbs.twimg.com/media/DOd8t62VQAAp0-9.jpg)
+![left fill](https://pbs.twimg.com/media/DOeloMKVwAAy4ZZ.jpg) ![right fill](https://pbs.twimg.com/media/DOf8eJ9VAAA44GS.jpg)
+
+^
+- Here are some photos stolen off Twitter of the event.
 - (Ask if there was anyone in the audience who went and maybe get some quick feedback)
-- Keep an eye out for when the next Rails Camp is going to be held.
-- (Maybe put photos of the event if there are any from Twitter etc...?)
+- Keep an eye out for when the next Rails Camp is going to be held.<br />
 
 ---
 
