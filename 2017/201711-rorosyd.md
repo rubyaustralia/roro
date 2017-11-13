@@ -153,23 +153,11 @@ Thanks so much to all the speakers tonight, and if anyone is interested in givin
 # [fit] **_speakers!_**
 
 ^
-we are looking for speakers!
-- Presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
+We are looking for speakers!
+- We want *you* to present something at RORO because presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.<br />
 - It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
-If you've ever thought that you'd like to present at RubyConf or some other conference or camp, then a meetup audience is a great start point to get practice and hone your skills.
-- It provides a takeaway artifact of "soft skills", which are becoming ever more important in development teams.<br />
-You can take your talk/slide deck and essentially open source it on a wide variety of platforms much like you would any of your open source code (eg Speaker Deck, SlideShare, Dropbox, even Github if your presentation is written in Markdown),<br />
-which provides a great addition to your resume, or maybe even ammunition you can take in to your next payrise negotiations.
-- It gives you a captive audience to directly promote and show off something awesome that you've built lately, or maybe pose a question or problems that you'd like input and/or discussion around.<br />
-Discussion about any thought-provoking issues have often continued after the meetup over drinks and gelato and _you_ get to take the credit for being the catalyst!
-- If you're up to the challenge, it can give you practice demoing something in front of an audience, which is significantly different to just showing someone else what's currently on your screen.<br />
-Being able to effectively demo, and recover from any issues that occur during them, is a highly sought after developer superpower.
-- It will make you known in the community as an expert on something, even if don't consider yourself one!  If you teach someone something that they didn't know before, then to them, you are an expert.<br />
-Furthermore, the questions that you will then get from others about what you know can lead you down further knowledge-gathering paths to further refine your abilities to the point where even you can acknowledge your own expertise.
-- Even if you think the content of your talk has been covered before, your perspective on it (and the way you present it) is unique to you, so don't let that stop you.<br />
-People love to hear presentations about things they already know about because it makes them feel smart that they know stuff worth presenting about. Then, if you're the one presenting it you unconsciously join the league of experts about that subject in your audience's mind!<br />
-It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
-- So if you love Roro and want to help the community, consider volunteering to do a talk
+- Any talk you present here is great fodder for your resume and portfolio, and just by virtue of presenting, you potentially get turned into an expert in your audience's eyes.<br />
+- So if you've got something to say or cool to show and tell that you think the Ruby community would love to hear about...
 
 ---
 
@@ -184,6 +172,7 @@ It is *good* to throw yourself out of your comfort zone and try something differ
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.
+- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
 
 ---
 
