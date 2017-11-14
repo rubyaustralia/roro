@@ -28,8 +28,8 @@ Welcome to Sydney RORO
 ^
 - Location of bathrooms
 - Feel free to take any leftover food home with you
-- Once you've finished your food, please be sure to put your plates in the bins provided
-- Glass bottles not in recycle bin but just on bench
+- Once you've finished your food and drinks, please be sure to put your plates in the bins provided out the front.
+- White binliner is for recycling, and black binliner is for general rubbish.
 
 ---
 
@@ -136,7 +136,7 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ^
 So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.
-Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have (the first person)
+Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Tarun
 
 ---
 
