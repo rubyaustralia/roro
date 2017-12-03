@@ -1,10 +1,9 @@
-theme: Letters From Sweden, 2
+theme: Poster, 4
 footer: @rubyaustralia #rorosyd
 slidenumbers: true
 
-# [fit] **Ruby on Rails**
-# [fit] **_Oceania Meetup_**
-# [fit] _Meet, Share, and Learn_
+# [fit] **Ruby on Rails Oceania**
+# [fit] Meet, Share, *and* Learn
 # [fit] **_12 December 2017_**
 
 ^
@@ -12,18 +11,18 @@ Welcome to Sydney RORO
 
 ---
 
-# **_Tonight_**
-# [fit] - *Welcome new faces*
-# [fit] - *Talks*
-# [fit] - *Events / Tips / Jobs*
-# [fit] - *Pub / Gelato*
+# **Tonight**
+# [fit] *- Welcome new faces*
+# [fit] *- Talks*
+# [fit] *- Events / Tips / Jobs*
+# [fit] *- Pub / Gelato*
 
 ---
 
-# [fit] **_Housekeeping_**
-## - **Bathrooms**
-## - **Hot food**
-## - **Glass bottles**
+# **Housekeeping**
+# [fit] *- Bathrooms*
+# [fit] *-Hot food*
+# [fit] *-Glass bottles*
 
 ^
 - Location of bathrooms
@@ -33,9 +32,9 @@ Welcome to Sydney RORO
 
 ---
 
-# [fit] **_Code of_**
+# [fit] **_Code Of_**
 # [fit] **Conduct**
-- **_www.ruby.org.au/code-of-conduct_**
+- `ruby.org.au/code-of-conduct`
 
 ^
 If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
@@ -82,14 +81,14 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
-# [fit] **_Talks_**
+# [fit] **Talks**
 
 ---
 
 [.hide-footer]
 ![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
 
-# [fit] **_Talk name_**
+# [fit] **Talk name**
 # [fit] _Presenter name_
 # [fit] `@twitter_handle`
 
@@ -98,17 +97,15 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 [.slidenumbers: false]
 ![right](https://www.dropbox.com/s/698jqt6rv3lw5ir/sam-elderfield.jpg?dl=1)
 
-# [fit] **_Hacking_**
-# [fit] **_FLOW for_**
-# [fit] **_Software_**
-# [fit] **_Engineers_**
+# [fit] **Hacking FLOW for**
+# [fit] **Software Engineers**
 # [fit] _Sam Elderfield_
 # [fit] `@flow_hacker`
 
 ---
 
-# [fit] **Who's** **_New?_**
-# [fit] Say __Hello__ :wave:
+# [fit] **_Who's_** **New?**
+# [fit] Say **Hello!** :wave:
 
 ^
 So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.
@@ -116,17 +113,15 @@ Everyone have a look around at any new people standing near you, we're going to 
 
 ---
 
-<br />
-# [fit] **_Thank you!_**
-# [fit] ` \o/`
+# [fit] **Thank you!**
 
 ^
 Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
 
 ---
 
-# [fit] **We are looking for**
-# [fit] **_speakers!_**
+# [fit] **_We are looking for_**
+# [fit] :loudspeaker: **speakers!**
 
 ^
 We are looking for speakers!
@@ -140,8 +135,8 @@ We are looking for speakers!
 
 # [fit] **_Where do I_** **sign up?**
 
-- :globe_with_meridians: **_github.com/rails-oceania/roro/issues_**
-- :email: _rorosydmeetup@gmail.com_
+- :globe_with_meridians: `github.com/rails-oceania/roro/issues`
+- :email: `rorosydmeetup@gmail.com`
 - _@TracyMuSung_
 - _@robcornish_
 - _@paulfioravanti_
@@ -153,11 +148,11 @@ We are looking for speakers!
 
 ---
 
-# [fit] **_News_**
+# [fit] **News**
 
 ---
 
-# [fit] **Rails 5.2** Beta
+# [fit] Rails 5.2 Beta
 # [fit] **_Released!_**
 
 - `weblog.rubyonrails.org`
@@ -172,7 +167,7 @@ We are looking for speakers!
 ---
 
 # [fit] **RubyConf 2017**
-# [fit] videos **_Online!_**
+# [fit] *videos* Online!
 
 - `confreaks.tv/events/rubyconf2017`
 - `youtube.com/user/Confreaks`
@@ -182,15 +177,15 @@ If you missed being able to get to New Orleans for RubyConf this year, which I a
 
 ---
 
-# [fit] **_Events_**
+# [fit] **Events**
 
 ---
 
-# [fit] **InstallFest**
-#### **\---------------------------------------------------------------------------**
-# [fit] **_December 19 at_**
-# [fit] **Fishburners**
-# [fit] **_Sign up on_** **meetup.com**
+# [fit] InstallFest
+#### **\-------------------------------------------------------------------------**
+# [fit] December 19 2017 **_at_**
+# [fit] *Fishburners*
+# [fit] **_Sign up on_** `meetup.com`
 
 ^
 - If you know someone that wants go get started in ruby - bring them to the InstallFest, currently scheduled for December 19, also held by reinteractive.<br />
@@ -199,11 +194,11 @@ If you missed being able to get to New Orleans for RubyConf this year, which I a
 
 ---
 
-# [fit] **_Development Hub_**
-#### **_\---------------------------------------------------------------------------_**
-# [fit] **Febuary 20, 2018 at**
-# [fit] **_Fishburners_**
-# [fit] Sign up on **_meetup.com_**
+# [fit] Development Hub
+#### **\-------------------------------------------------------------------------**
+# [fit] Febuary 20 2018 **_at_**
+# [fit] *Fishburners*
+# [fit] **_Sign up on_** `meetup.com`
 
 ^
 Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on November 21 at Fishburners.<br />
@@ -215,10 +210,9 @@ Hack together, learn together, get some help from mentors.
 
 ---
 
-# [fit] **RubyConf**
-# [fit] **_8-9 March_**
-# [fit] **_in_** **Sydney**
-## `www.rubyconf.org.au`
+# RubyConf
+# [fit] **8-9 March 2018** **_in_** **Sydney**
+# [fit] `www.rubyconf.org.au`
 
 ^
 - Check the website for updates on ticket sales, but ignore any buttons there that say you can buy early bird tix because you can't!
@@ -235,8 +229,8 @@ Hack together, learn together, get some help from mentors.
 ---
 
 # [fit] **Tips and Tricks**
-# [fit] **_Stuff that makes your life_**
-# [fit] **_easier/better/faster_**
+# [fit] *Stuff that makes your life*
+# [fit] **easier/better/faster**
 - Open floor
 
 ^
@@ -245,40 +239,38 @@ Hack together, learn together, get some help from mentors.
 
 ---
 
-# [fit] **Jobs**
-# [fit] **_Offering work?_**
+# [fit] Jobs
+## **_Offering work?_**
 
 ^
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
 
 ---
 
-# [fit] **Slack**/**_Forum_**
-- **_https://ruby-au-join.herokuapp.com/_**
-- **_https://forum.ruby.org.au/_**
+# [fit] Slack/*Forum*
+- `ruby-au-join.herokuapp.com/`
+- `forum.ruby.org.au/`
 
 ---
 
-# [fit] **_Online_**
+# [fit] **Online**
 
-- Follow **_@rubyaustralia_** and **_@rorosyd_** on twitter
-- Tweet using **_#rorosyd_** and **_@rorosyd_**
-- **_ruby.org.au_** website
-- **_rails-oceania_** google group
+- *Follow* `@rubyaustralia` *and* `@rorosyd` *on twitter*
+- *Tweet using* `#rorosyd` *and* `@rorosyd`
+- `ruby.org.au` *website*
+- `rails-oceania` *google group*
 
 ---
 
 # [fit] **Next Meetup**
-# [fit] **_13 Febrary, 2018_**
+# [fit] **_13 Febrary, 2018_** :confetti_ball:
 # [fit] **(2nd Tuesday of the month)**
 
 ---
 
-# [fit] **_And Now..._**
-# **Head to**
-# [fit] **_Red Oak Pub (up the street)_** :beer:
-# **or**
-# [fit] **_Gelato Rivareno (Barangaroo)_** :ice_cream:
+# **And Now...**
+# [fit] *Head to* **Red Oak Pub (up the street)** :beer:
+# [fit] *or* **Gelato Rivareno (Barangaroo)** :ice_cream:
 
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles on the far table (not the recycling bins as they end up getting too heavy)<br />
