@@ -3,8 +3,7 @@ footer: @rubyaustralia #rorosyd
 slidenumbers: true
 
 # [fit] **Ruby on Rails Oceania**
-# [fit] Meet, Share, *and* Learn
-# [fit] **_12 December 2017_**
+# [fit] *12 December 2017*
 
 ^
 Welcome to Sydney RORO
@@ -83,14 +82,6 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 # [fit] **Talks**
 
----
-
-[.hide-footer]
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
-
-# [fit] **Talk name**
-# [fit] _Presenter name_
-# [fit] `@twitter_handle`
 
 ---
 
@@ -104,12 +95,51 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
+[.hide-footer]
+![left](https://www.dropbox.com/s/ipcqc60u1u2aimv/matenia-rossides.jpg?dl=1)
+
+# [fit] **How I used scraped**
+# [fit] **PokemonGo data**
+# [fit] **to detect "nests"**
+# [fit] _Matenia Rossides_
+# [fit] `@matenia`
+
+---
+
+[.slidenumbers: false]
+![right](https://www.dropbox.com/s/grd4ypz5fgr9tq1/paul-fioravanti.jpg?dl=1)
+
+# [fit] **Hand :raised_hands: Coded**
+# [fit] _Paul Fioravanti_
+# [fit] `@paulfioravanti`
+
+---
+
 # [fit] **_Who's_** **New?**
 # [fit] Say **Hello!** :wave:
 
 ^
 So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.
 Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Tarun
+
+---
+
+# [fit] **Exercism**
+# [fit] *Binary*
+
+^
+Let's now go through this month's Exercism problem, Binary.
+
+---
+
+# [fit] **Next Meetup's Exercism**
+# [fit] *Word Count*
+# [fit] `exercism fetch ruby word-count`
+
+^
+The Exercism problem for next meetup is "Word Count"<br />
+Given a phrase, count the occurrences of each word in that phrase.<br />
+It's deceptively simple, and you might just learn a few new string manipulation tricks!
 
 ---
 
