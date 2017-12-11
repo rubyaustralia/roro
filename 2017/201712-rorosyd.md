@@ -119,8 +119,7 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 # [fit] Say **Hello!** :wave:
 
 ^
-So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.
-Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Tarun
+So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Sam.
 
 ---
 
