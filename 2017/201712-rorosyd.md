@@ -231,7 +231,7 @@ If you missed being able to get to New Orleans for RubyConf this year, which I a
 # [fit] **_Sign up on_** `meetup.com`
 
 ^
-Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on November 21 at Fishburners.<br />
+Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on February 20 at Fishburners.<br />
 Hack together, learn together, get some help from mentors.
 
 ---
