@@ -236,7 +236,7 @@ Hack together, learn together, get some help from mentors.
 
 ---
 
-![](https://www.dropbox.com/s/6ketafbrvyopal5/RubyConf_Australia_on_Twitter___And_early_birds_are_all_gone__We%E2%80%99re_so_excited_that_you%E2%80%99re_all_so_excited__2018_is_going_to_be_amaaaaaazing.png?dl=1)
+![fit](https://www.dropbox.com/s/0wlyfrtgijknhjx/rubyconf-dec-promo.png?dl=1)
 
 ---
 
