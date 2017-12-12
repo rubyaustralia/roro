@@ -115,6 +115,14 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 ---
 
+[.slidenumbers: false]
+
+# [fit] **This month's**
+# [fit] **Exercism solution**
+# [fit] _Nick Hibberd_
+
+---
+
 # [fit] **_Who's_** **New?**
 # [fit] Say **Hello!** :wave:
 
