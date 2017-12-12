@@ -246,13 +246,6 @@ Hack together, learn together, get some help from mentors.
 ^
 - Check the website for updates on ticket sales, but ignore any buttons there that say you can buy early bird tix because you can't!
 - Standard tickets have started and they are $670, so get your boss to approve some training budget for you for this if you haven't already!
-
----
-
-[.hide-footer]
-![fit](https://www.dropbox.com/s/t940oxpkf6ax3en/RubyConf_Australia_2018_Sandi_Metz_and_Avdi_Grimm.png?dl=1)
-
-^
 - Along with Sandi Metz, Avdi Grimm is now confirmed as coming along. So there are some seriously great guests coming along and even just these two is easily worth the price of admission for a regular ticket.
 
 ---
