@@ -86,22 +86,24 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 [.slidenumbers: false]
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/i9d78xgtiveyhxx/gregory-mcintyre.jpg?dl=1)
 
-# [fit] **Talk Number**
-# [fit] **One**
-# [fit] _Speaker Name_
-# [fit] `@twitter_handle`
+# [fit] **An intermediate**
+# [fit] **guide to maintainable**
+# [fit] **CSS**
+# [fit] _Gregory McIntyre_
+# [fit] `@gregmcintyre`
 
 ---
 
 [.hide-footer]
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/16c9beoai8qw695/tracy-mu-sung.jpg?dl=1)
 
-# [fit] **Talk Number**
-# [fit] **Two**
-# [fit] _Speaker Name_
-# [fit] `@twitter_handle`
+# [fit] **Don't be so hard**
+# [fit] **on yourself,**
+# [fit] **Dummy!**
+# [fit] _Tracy Mu Sung_
+# [fit] `@TracyMuSung`
 
 ---
 
