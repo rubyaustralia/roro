@@ -198,13 +198,13 @@ We are looking for speakers!
 
 ---
 
-# [fit] Rails 5.2
+# [fit] Rails 5.2.0.rc1
 # [fit] **_Released!_**
 
 - `weblog.rubyonrails.org`
 
 ^
-[I'm assuming it will be released by then... if not, this can go away]
+- (Rails 5.1.5.rc1 also released)
 - Main drawcard is ActiveStorage for file uploads (say goodbye to Carrierwave or Paperclip)
 - Other features are a new Redis Cache store for caching all the things,
 - Bootsnap in default Gemfile for faster application boot times,
