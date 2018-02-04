@@ -141,12 +141,12 @@ Let's now go through this month's Exercism problem, Word Count.
 ---
 
 # [fit] **Next Meetup's Exercism**
-# [fit] *Problem Name*
-# [fit] `exercism fetch ruby problem-name`
+# [fit] *Beer Song* :beers:
+# [fit] `exercism fetch ruby beer-song`
 
 ^
-The Exercism problem for next meetup is "Problem Name"<br />
-[problem explanation]
+The Exercism problem for next meetup is "Beer Song" in honour of Sandi Metz, who is doing a presentation at RubyConf AU in March. As well as having written the seminal Practical Object Orientated Design in Ruby, which you should absolutely all read, she has a book called 99 Bottles of OOP which is focused completely on this problem.<br />
+The problem is deceptively simple: produce the lyrics to the beloved classic song 99 Bottles of Beer on the Wall in Ruby. Fetch the problem from Exercism and you'll find the lyrics there, and see if you can get Ruby to sing for you.
 
 ---
 
