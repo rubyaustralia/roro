@@ -97,13 +97,12 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 [.hide-footer]
-![left](https://www.dropbox.com/s/16c9beoai8qw695/tracy-mu-sung.jpg?dl=1)
+![left](https://www.dropbox.com/s/f73n1jrqsmsi2st/donna-zhou.jpg?dl=1)
 
-# [fit] **Don't be so hard**
-# [fit] **on yourself,**
-# [fit] **Dummy!**
-# [fit] _Tracy Mu Sung_
-# [fit] `@TracyMuSung`
+# [fit] **Hard Questions**
+# [fit] **from Beginners**
+# [fit] _Donna Zhou_
+# [fit] `@dancingTeeth`
 
 ---
 
