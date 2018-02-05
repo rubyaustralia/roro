@@ -107,12 +107,13 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 [.slidenumbers: false]
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
 
-# [fit] **Talk Number**
-# [fit] **Three**
-# [fit] _Speaker Name_
-# [fit] `@twitter_handle`
+# [fit] **My First**
+# [fit] **Raspberry Pi**
+# [fit] **Project**
+# [fit] _Sameera Gayan_
+# [fit] `@sameera207`
 
 ---
 
