@@ -84,9 +84,10 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 
 
 ---
-
+[.hide-footer]
 [.slidenumbers: false]
-![right](https://www.dropbox.com/s/i9d78xgtiveyhxx/gregory-mcintyre.jpg?dl=1)
+
+![left](https://www.dropbox.com/s/i9d78xgtiveyhxx/gregory-mcintyre.jpg?dl=1)
 
 # [fit] **An intermediate**
 # [fit] **guide to maintainable**
@@ -95,8 +96,21 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 # [fit] `@gregmcintyre`
 
 ---
-
 [.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
+
+# [fit] **My First**
+# [fit] **Raspberry Pi**
+# [fit] **Project**
+# [fit] _Sameera Gayan_
+# [fit] `@sameera207`
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
 ![left](https://www.dropbox.com/s/f73n1jrqsmsi2st/donna-zhou.jpg?dl=1)
 
 # [fit] **Hard Questions**
@@ -107,21 +121,10 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 ---
 
 [.slidenumbers: false]
-![right](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
-
-# [fit] **My First**
-# [fit] **Raspberry Pi**
-# [fit] **Project**
-# [fit] _Sameera Gayan_
-# [fit] `@sameera207`
-
----
-
-[.slidenumbers: false]
 
 # [fit] **This month's**
 # [fit] **Exercism solution**
-# [fit] _Speaker Name_
+# [fit] _Rob Cornish_
 
 ---
 
