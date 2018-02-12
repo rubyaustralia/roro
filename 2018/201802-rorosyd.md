@@ -149,7 +149,7 @@ Let's now go through this month's Exercism problem, Word Count.
 # [fit] `exercism fetch ruby beer-song`
 
 ^
-The Exercism problem for next meetup is "Beer Song" in honour of Sandi Metz, who is doing a presentation at RubyConf AU in March. As well as having written the seminal Practical Object Orientated Design in Ruby, which you should absolutely all read, she has a book called 99 Bottles of OOP which is focused completely on this problem.<br />
+In honour of Sandi Metz being in town for RubyConf in March, The Exercism problem for next meetup is "Beer Song". As well as having written the seminal Practical Object Orientated Design in Ruby, which you should absolutely all read, she has a book called 99 Bottles of OOP which is focused completely on this problem.<br />
 The problem is deceptively simple: produce the lyrics to the beloved classic song 99 Bottles of Beer on the Wall in Ruby. Fetch the problem from Exercism and you'll find the lyrics there, and see if you can get Ruby to sing for you.
 
 ---
@@ -198,7 +198,9 @@ We are looking for speakers!
 - `https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/`
 
 ^
-- Xmas present to community etc etc
+- Ruby 2.5 was released on Christmas day last year. 
+- It has several new features and performance improvements that you can read
+more about at ruby-lang.org.
 
 ---
 
@@ -255,9 +257,11 @@ Hack together, learn together, get some help from mentors.
 # [fit] `www.rubyconf.org.au`
 
 ^
-- Check the website for updates on ticket sales, but ignore any buttons there that say you can buy early bird tix because you can't!
-- Standard tickets have started and they are $670, so get your boss to approve some training budget for you for this if you haven't already!
-- Along with Sandi Metz, Avdi Grimm is now confirmed as coming along. So there are some seriously great guests coming along and even just these two is easily worth the price of admission for a regular ticket.
+- Ticket sales close on the 23rd of February.
+- Standard tickets are still available and cost $670, so get your boss to approve some training budget for you for this if you haven't already!
+- Along with Sandi Metz, Avdi Grimm is now confirmed as coming along. So there
+are some seriously great guests coming along and even just these two is easily
+worth the price of admission for a regular ticket.
 
 ---
 
