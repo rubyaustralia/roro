@@ -245,6 +245,21 @@ Hack together, learn together, get some help from mentors.
 - If you know someone that wants go get started in ruby - bring them to the InstallFest, currently scheduled for March 20, also held by reinteractive.<br />
 - You'll get Ruby and Rails installed on your machine and create a simple blog using Rails and get it deployed to the internet.
 
+---
+
+# [fit] Elixir Camp
+#### **\-------------------------------------------------------------------------**
+# [fit] March 16 - 19 2018
+# [fit] *Lord Somers Camp, Mornington Peninsula, Victoria*
+# [fit] **_More info at_** `http://elixir.camp/`
+
+---
+
+# [fit] Rails Camp
+#### **\-------------------------------------------------------------------------**
+# [fit] May 18 - 21 2018
+# [fit] *YMCA North Pine, QLD*
+# [fit] **_Follow_** `@railscamp_au` **_for more info_**
 
 ---
 
