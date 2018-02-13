@@ -45,6 +45,7 @@ This is the link where you can find it and have a read. If you have any issues y
 ![inline](https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1)
 
 ^
+Suganthi.
 Thanks to Pivotal, who've provided both our venue for tonight, and the drinks.<br />
 Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.<br />
 I think at least some of their clients have Ruby in their technical stack, and they're probably always hiring, so go talk to Dylan to find out about any current positions.
