@@ -213,9 +213,8 @@ We are looking for speakers!
 
 ---
 
-# RubyConf
+# Ruby ![](https://www.dropbox.com/s/6jphgsvr0y7gggk/rubyconf-2018-logo.jpg?dl=1) Conf
 # [fit] **8-9 March 2018** **_in_** **Sydney**
-# [fit] `www.rubyconf.org.au`
 
 ^
 - Who went? Have fun?
@@ -223,10 +222,9 @@ We are looking for speakers!
 
 ---
 
-# [fit] InstallFest
-#### **\-------------------------------------------------------------------------**
-# [fit] March 20 2018 **_at_**
-# [fit] *Coder Factory Academy*
+![inline](https://www.dropbox.com/s/y59vmte450e50km/installfest_logo.png?dl=1)
+
+# [fit] March 20 2018 **_at_** Coder Factory Academy
 # [fit] **_Sign up on_** `meetup.com`
 
 ^
@@ -236,9 +234,7 @@ We are looking for speakers!
 ---
 
 # [fit] Development Hub
-#### **\-------------------------------------------------------------------------**
-# [fit] April 17 2018 **_at_**
-# [fit] *Fishburners*
+# [fit] April 17 2018 **_at_** Fishburners
 # [fit] **_Sign up on_** `meetup.com`
 
 ^
@@ -247,19 +243,16 @@ Hack together, learn together, get some help from mentors.
 
 ---
 
-# [fit] Elixir Camp
-#### **\-------------------------------------------------------------------------**
-# [fit] March 16 - 19 2018
-# [fit] *Lord Somers Camp, Mornington Peninsula, Victoria*
-# [fit] **_More info at_** `http://elixir.camp/`
+![inline](https://www.dropbox.com/s/xrgzus2v7d96nlx/Elixir_Camp_3.png?dl=1)
+
+# [fit] `http://elixir.camp`
 
 ---
 
-# [fit] Rails Camp
-#### **\-------------------------------------------------------------------------**
-# [fit] May 18 - 21 2018
-# [fit] *YMCA North Pine, QLD*
+# [fit] Rails Camp 23
+# [fit] May 18 - 21 2018 **_at_** YMCA North Pine, QLD
 # [fit] **_Follow_** `@railscamp_au` **_for more info_**
+# [fit] `https://railscamp23.wordpress.com/`
 
 ---
 
