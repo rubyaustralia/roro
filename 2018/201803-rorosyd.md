@@ -38,7 +38,7 @@ Welcome to Sydney RORO
 ^
 If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
 This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
-If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are %{organiser names} - or you can go straight to Ruby Australia if you prefer.
+If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul, Rob, and Andrew - or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.
 
 ---
 
@@ -77,7 +77,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
-Lookahead: Technical recruiters who are actually technical. And lookahead are, literally, always hiring.
+Lookahead: Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.
 
 ---
 
@@ -88,42 +88,46 @@ Lookahead: Technical recruiters who are actually technical. And lookahead are, l
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/bcmvjyeaxj47ekm/jon-rowe.jpg?dl=1)
 
-# [fit] **First**
-# [fit] **Talk**
-# [fit] Speaker Name
-# [fit] `@twitter_handle`
-
----
-[.hide-footer]
-[.slidenumbers: false]
-
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
-
-# [fit] **Second**
-# [fit] **Talk**
-# [fit] Speaker Name
-# [fit] `@twitter_handle`
+# [fit] **_Learning From_**
+# [fit] **_Other Languages:_**
+# [fit] **_Immutability_**
+# [fit] Jon Rowe
+# [fit] `@JonRowe`
 
 ---
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/ay1oqcl2knx5blj/joss-paling.jpg?dl=1)
 
-# [fit] **Third**
-# [fit] **Talk**
-# [fit] Speaker Name
-# [fit] `@twitter_handle`
+# [fit] **_Understanding complex_**
+# [fit] **_Linux commands_**
+# [fit] Joss Paling
+# [fit] `@joshuapaling`
 
 ---
-
+[.hide-footer]
 [.slidenumbers: false]
 
-# [fit] **_This month's_**
-# [fit] *Exercism* **_solution_**
-# [fit] Speaker Name
+![left](https://www.dropbox.com/s/poypa380zuu6cqg/jenny-nguyen.jpg?dl=1)
+
+# [fit] **_Memory Hack a_**
+# [fit] **_TODO_**
+# [fit] Jenny Nguyen
+# [fit] `@knockycode`
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/ll1glegqc1zk3dj/ezra-mizrahi.jpg?dl=1)
+
+# [fit] **_Exercism_**
+# [fit] **_Beer Song_**
+# [fit] Ezra Mizrahi
+# [fit] `@monsieurmizrahi`
 
 ---
 
@@ -135,21 +139,13 @@ So, now if you're new to Roro, can you please put up your hand- don't worry we'r
 
 ---
 
-# [fit] **_Exercism_**
-# [fit] *Beer Song*
-
-^
-Let's now go through this month's Exercism problem, Word Count.
-
----
-
 # [fit] **_Next Meetup's Exercism_**
-# [fit] *Problem Name* 
-# [fit] `exercism fetch ruby problem-name`
+# [fit] *Nucleotide Count* 
+# [fit] `exercism fetch ruby nucleotide-count`
 
 ^
-{Talk about the problem}
-
+In this problem you are given a DNA string, and you need to compute how many times each nucleotide occurs in the string, which is a fancy science-way of saying count the number of times particular letters appear in strings, so this is a great problem for a junior developer and/or first time speaker<br />
+So, if you haven't already, go and join the rorosyd Exercism team, take a crack at this problem, and then tell us all about how you solved it!
 
 ---
 
@@ -181,30 +177,58 @@ We are looking for speakers!
 - _`@mootpointer`_
 
 ^
-- Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.
-- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...
+- Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
+- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...<br />
+- Also, if you need any help creating or critiquing your presentation or want someone to do a dry run with, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
 ---
 
 # [fit] **_News_**
 
 ---
+[.hide-footer]
+[.slidenumbers: false]
 
-# [fit] First News
-# [fit] Item
-
+![fit](https://www.dropbox.com/s/dal4o2savblz5gs/ruby25.jpg?dl=1)
 
 ^
-{Talk about news item}
+- On February 24, Ruby turned 25 years old, and an anniversary event was held for it with Matz in attendance in Tokyo.<br />
+- The event was streamed, but it was all in Japanese and I haven't seen the video uploaded anywhere else, with or without subtitles<br />
+- Talk about how Matz created Ruby blocks with Teddy Bear programming
 
 ---
 
-# [fit] Second News
-# [fit] Item
+# [fit] `#ruby25th`
+
+^
+- If you want to get some warm fuzzies, so and have a look at the Ruby love fest that is the #ruby25th hashtag
+
+---
+
+<br />
+# [fit] `gem update --system`
+
+- https://www.ruby-lang.org/en/news/2018/02/17/multiple-vulnerabilities-in-rubygems/
+
+^
+If you haven't already, please go and update your system Rubygems since a bunch of vulnerabilities were discovered mid-last month, and more details of them in the link here.
+
+---
+
+# [fit] **_Releases_**
+
+- Rails 5.1.5
+- Sinatra 2.0.1
+- JRuby 9.1.16.0
+
+---
+
+# [fit] On Writing
+# [fit] Software Well
 
 
 ^
-{Talk about news item}
+DHH has a new set of videos on his YouTube channel where he goes through parts of the Basecamp codebase and gives his thoughts on it, and Ruby, and programming, so if you're at all interested in getting inside his head, then that video series might be something you may be interested in.
 
 ---
 
