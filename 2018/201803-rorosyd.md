@@ -201,7 +201,7 @@ We are looking for speakers!
 # [fit] `#ruby25th`
 
 ^
-- If you want to get some warm fuzzies, so and have a look at the Ruby love fest that is the #ruby25th hashtag
+- If you want to get some warm fuzzies, have a look at the Ruby love fest that is the #ruby25th hashtag
 
 ---
 
@@ -211,7 +211,7 @@ We are looking for speakers!
 - https://www.ruby-lang.org/en/news/2018/02/17/multiple-vulnerabilities-in-rubygems/
 
 ^
-If you haven't already, please go and update your system Rubygems since a bunch of vulnerabilities were discovered mid-last month, and more details of them in the link here.
+Update your system gems. Last month a bunch of vulnerabilities were discovered so running an update will help protect you. You can find out more at this link.
 
 ---
 
@@ -228,7 +228,7 @@ If you haven't already, please go and update your system Rubygems since a bunch 
 
 
 ^
-DHH has a new set of videos on his YouTube channel where he goes through parts of the Basecamp codebase and gives his thoughts on it, and Ruby, and programming, so if you're at all interested in getting inside his head, then that video series might be something you may be interested in.
+DHH has a new set of videos on his YouTube channel where he goes through parts of the Basecamp codebase and gives his thoughts on it, Ruby, and programming. So if you're at all interested in getting inside his head, then that video series might be something you may be interested in.
 
 ---
 
