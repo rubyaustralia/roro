@@ -225,6 +225,7 @@ Update your system gems. Last month a bunch of vulnerabilities were discovered s
 
 # [fit] On Writing
 # [fit] Software Well
+![right](https://www.dropbox.com/s/nqnxppowblr257m/1_gRfu1IS-JPLMCzm-OL_9kw.jpeg?dl=1)
 
 
 ^
