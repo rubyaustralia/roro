@@ -34,7 +34,7 @@ It was at a pretty awesome venue...
 ![](https://www.dropbox.com/s/birvzges7ezh56e/sandi-metz-rubyconf.jpg?dl=1)![](https://www.dropbox.com/s/s30y8jlaltm4box/paolo-perotta-rubyconf.jpg?dl=1)
 
 ^
-We had a fantastic line up of speakers...
+We had a fantastic line up of speakers, including Sandi Metz, author of Practical Object Oriented Development Design in Ruby, and Paolo Perrotta, who ended up doing two presentations worth of machine learning talks.
 
 ---
 
@@ -63,7 +63,7 @@ I think this tweet from Tom Ridge pretty much summed up many people's feelings a
 ## *- Pub / Gelato*
 
 ^
-And so, tonight that cup runneth over with even more speakers with a full roster of talks!
+And so, tonight that cup runneth over with even more speakers with a full roster of talks, followed by events, tips, job, and then optionally continuing on afterwards at the pub or going for gelato.
 
 ---
 
@@ -245,7 +245,7 @@ We are looking for speakers!
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
 - The repo now also has 7 extra presentation requests added, so check them out if you're looking for an idea to do a talk about.
-- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...<br />
+- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...(like Jenny)<br />
 - Also, if you need any help creating or critiquing your presentation or want someone to do a dry run with, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
 ---
@@ -312,7 +312,7 @@ DHH has a new set of videos on his YouTube channel where he goes through parts o
 # [fit] **Sign up at** `meetup.com`
 
 ^
-- If you know someone that wants go get started in Ruby - bring them to the InstallFest, currently scheduled for April 17 at Coder Factory, also held by reinteractive.<br />
+- If you know someone that wants go get started in Ruby - bring them to the InstallFest, currently scheduled for March 20 at Coder Factory, also held by reinteractive.<br />
 - You'll get Ruby and Rails installed on your machine and create a simple blog using Rails and get it deployed to the internet.
 
 ---
@@ -322,8 +322,8 @@ DHH has a new set of videos on his YouTube channel where he goes through parts o
 # [fit] **Sign up at** `meetup.com`
 
 ^
-Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on March 20 at Fishburners co-working space.<br />
-Hack together, learn together, get some help from mentors.
+Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on April 17 at Fishburners fancy new co-working space next to Wynyard station in the building with all the other cool startups.<br />
+This night is simply an unstructured night to hack together, learn together, get some help from mentors.
 
 ---
 
