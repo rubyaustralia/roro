@@ -1,5 +1,5 @@
 theme: Scherzkeks, 3
-footer: @rubyaustralia #rorosyd
+footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
 # [fit] **_Ruby on Rails_**
@@ -7,7 +7,53 @@ slidenumbers: true
 # *13 March 2018*
 
 ^
-Welcome to Sydney RORO
+Welcome to the March edition of Sydney RORO.
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![fit](https://www.dropbox.com/s/6jphgsvr0y7gggk/rubyconf-2018-logo.jpg?dl=1)
+
+^
+Before we start, some of you may know that Rubyconf was on last week here in Sydney.<br />
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![](https://www.dropbox.com/s/piqwdr9dffguj2u/venue-rubyconf.jpg?dl=1)
+
+^
+It was at a pretty awesome venue...
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![](https://www.dropbox.com/s/birvzges7ezh56e/sandi-metz-rubyconf.jpg?dl=1)![](https://www.dropbox.com/s/s30y8jlaltm4box/paolo-perotta-rubyconf.jpg?dl=1)
+
+^
+We had a fantastic line up of speakers...
+
+---
+
+![inline fill](https://www.dropbox.com/s/0uzflyfjuujffn6/morning-tea-rubyconf.jpg?dl=1)![inline fill](https://www.dropbox.com/s/n28zu49iafpahvz/mcs-rubyconf.jpg?dl=1)
+![inline fill](https://www.dropbox.com/s/p4o693ov24mhhgr/lauren-tan-ruby-conf.jpg?dl=1)![inline fill](https://www.dropbox.com/s/n6ccfz1h5hqzc0s/group-sitting-rubyconf.jpg?dl=1)
+
+^
+And it was all in all an awesome community event.<br />
+- Who here went to Rubyconf?
+- Is there anyone on an extended visit to Sydney on the back of RubyConf? Welcome!
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![](https://www.dropbox.com/s/2c0z5ap101nvp82/tom-ridge-rubyconf-tweet.png?dl=1)
+
+^
+I think this tweet from Tom Ridge pretty much summed up many people's feelings about the event: I'm not sure what I expected, but I'm coming away from Rubyconf with a strong sense of feeling like I've had my community glass refilled.
 
 ---
 
@@ -15,6 +61,9 @@ Welcome to Sydney RORO
 ## *- Talks*
 ## *- Events / Tips / Jobs*
 ## *- Pub / Gelato*
+
+^
+And so, tonight that cup runneth over with even more speakers with a full roster of talks!
 
 ---
 
@@ -46,6 +95,7 @@ If you have any issues you want to raise about anything that has happened at a R
 # [fit] ![inline](https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1)
 
 ^
+RORO has many sponsors, without which these meetups would be very bare bones, so<br />
 Thanks to Pivotal, who've provided both our venue for tonight, and the drinks.<br />
 Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.<br />
 I think at least some of their clients have Ruby in their technical stack, and they're probably always hiring, so go talk to (?) to find out about any current positions.
@@ -57,7 +107,7 @@ I think at least some of their clients have Ruby in their technical stack, and t
 
 ^
 Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.<br />
-So thanks to Ruby Australia and their sponsors who are...
+That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
 ---
 
@@ -72,17 +122,33 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 ---
 
 # [fit] **_Thanks to our_** *Sponsors*
-<br />
 
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
-Lookahead: Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.
+Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.<br />
+
+---
+
+# [fit] **_Thanks to our_** *Sponsors*
+
+![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
+
+^
+Culture Amp, providers of Company Culture Analytics
+
+---
+
+# [fit] **_Thanks to our_** *Sponsors*
+
+![inline](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
+
+^
+Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
 
 ---
 
 # [fit] **_Talks_**
-
 
 ---
 [.hide-footer]
@@ -178,6 +244,7 @@ We are looking for speakers!
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
+- The repo now also has 7 extra presentation requests added, so check them out if you're looking for an idea to do a talk about.
 - Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...<br />
 - Also, if you need any help creating or critiquing your presentation or want someone to do a dry run with, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
@@ -218,13 +285,14 @@ Update your system gems. Last month a bunch of vulnerabilities were discovered s
 # [fit] **_Releases_**
 
 - Rails 5.1.5
+- Hanami 1.2.0.beta1
 - Sinatra 2.0.1
 - JRuby 9.1.16.0
 
 ---
 
-# [fit] On Writing
-# [fit] Software Well
+# [fit] **_On Writing_**
+# [fit] **_Software_** *Well*
 ![right](https://www.dropbox.com/s/nqnxppowblr257m/1_gRfu1IS-JPLMCzm-OL_9kw.jpeg?dl=1)
 
 
@@ -233,16 +301,8 @@ DHH has a new set of videos on his YouTube channel where he goes through parts o
 
 ---
 
+# [fit] **_Upcoming_**
 # [fit] **_Events_**
-
----
-
-# *Ruby* ![](https://www.dropbox.com/s/6jphgsvr0y7gggk/rubyconf-2018-logo.jpg?dl=1) *Conf*
-# [fit] **_8-9 March 2018_** in **_Sydney_**
-
-^
-- Who went? Have fun?
-- Show photos?
 
 ---
 
