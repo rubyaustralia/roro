@@ -17,8 +17,8 @@ information you need.
 
 ## I want to see the pretty meetup slide decks!
 
-Feel free to clone this repo! The markdown in the slide decks can be used in
-[Deckset][].
+Feel free to clone this repo! The markdown in the slide decks can be used and
+viewed in [Deckset][], or you can simply view the PDF versions of the slides.
 
 ```sh
 git clone git@github.com:rails-oceania/roro.git
