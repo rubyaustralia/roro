@@ -1,13 +1,17 @@
-theme: Scherzkeks, 3
+theme: Sketchnote, 3
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
 # [fit] **_Ruby on Rails_**
-# [fit] **_Oceania_** :surfer:
+# [fit] **_Oceania_**
 # *10 April 2018*
 
 ^
-Welcome to the April edition of Sydney RORO.
+Welcome to Sydney RORO. Some of you might have noticed that something is a
+little different this month. If you haven't yet, well we're at the fantastics
+offices of Airtasker. I'll take this chance to say a big thank you to Pivotal
+who sponsored RoRo for the last 2 years but it's fantastic that Airtasker have
+stepped up to take on sponsorship. 
 
 ---
 
@@ -17,7 +21,9 @@ Welcome to the April edition of Sydney RORO.
 ## *- Pub / Gelato*
 
 ^
-And so, tonight that cup runneth over with even more speakers with a full roster of talks, followed by events, tips, job, and then optionally continuing on afterwards at the pub or going for gelato.
+Again tonight we have a great lineup of speakers, we'll cover some upcoming
+events, tips and secrets and jobs opportunities. Then it's off to the pub or for
+those with a sweeter tooth, gelato. 
 
 ---
 
@@ -46,13 +52,12 @@ If you have any issues you want to raise about anything that has happened at a R
 ---
 
 # [fit] **_Thanks to our_** *Sponsors*
-# [fit] ![inline](https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1)
+<br />
+# [fit] ![inline](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
 
 ^
-RORO has many sponsors, without which these meetups would be very bare bones, so<br />
-Thanks to Pivotal, who've provided both our venue for tonight, and the drinks.<br />
-Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.<br />
-I think at least some of their clients have Ruby in their technical stack, and they're probably always hiring, so go talk to (?) to find out about any current positions.
+RORO has many sponsors, without which these meetups would not be possible, so
+again a big thanks to Airtasker, who've provided both our venue for tonight, and the drinks.<br />
 
 ---
 
@@ -108,13 +113,12 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/bcmvjyeaxj47ekm/jon-rowe.jpg?dl=1)
+![left](https://avatars0.githubusercontent.com/u/12670?s=400&v=4)
 
-# [fit] **_Learning From_**
-# [fit] **_Other Languages:_**
-# [fit] **_Immutability_**
-# [fit] Jon Rowe
-# [fit] `@JonRowe`
+# [fit] **_Lessons Learned from_**
+# [fit] **_Remote Work_**
+# [fit] Peter Sumskas
+# [fit] `@brushbox`
 
 ---
 [.hide-footer]
@@ -160,11 +164,14 @@ So, now if you're new to Roro, can you please put up your hand- don't worry we'r
 ---
 
 # [fit] **_Next Meetup's Exercism_**
-# [fit] *Nucleotide Count* 
-# [fit] `exercism fetch ruby nucleotide-count`
+# [fit] *Rail Fence Cypher* 
+# [fit] `exercism fetch ruby rail-fence-cypher`
 
 ^
-In this problem you are given a DNA string, and you need to compute how many times each nucleotide occurs in the string, which is a fancy science-way of saying count the number of times particular letters appear in strings, so this is a great problem for a junior developer and/or first time speaker<br />
+A Rail Fence Cypher is type of transposition cypher that gets it's name from the
+way the message is encoded. The letters of the message are written downward on
+successive rails of an imaginary fence, then move upward when they hit the
+bottom forming a zig-zag pattern. The message is then read across the rows. 
 So, if you haven't already, go and join the rorosyd Exercism team, take a crack at this problem, and then tell us all about how you solved it!
 
 ---
