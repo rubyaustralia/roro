@@ -53,7 +53,8 @@ If you have any issues you want to raise about anything that has happened at a R
 
 # [fit] **_Thanks to our_** *Sponsors*
 <br />
-# [fit] ![inline](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
+
+![inline](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
 
 ^
 RORO has many sponsors, without which these meetups would not be possible, so
@@ -124,34 +125,34 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/ay1oqcl2knx5blj/joss-paling.jpg?dl=1)
+![right](https://avatars0.githubusercontent.com/u/210123?s=400&v=4)
 
-# [fit] **_Understanding complex_**
-# [fit] **_Linux commands_**
-# [fit] Joss Paling
-# [fit] `@joshuapaling`
-
----
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://www.dropbox.com/s/poypa380zuu6cqg/jenny-nguyen.jpg?dl=1)
-
-# [fit] **_Memory Hack a_**
-# [fit] **_TODO_**
-# [fit] Jenny Nguyen
-# [fit] `@knockycode`
+# [fit] **_Wallaby_**
+# [fit] **_Yet Another Rails Admin Interface_**
+# [fit] Tian Chen
+# [fit] `@tian_im`
 
 ---
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/ll1glegqc1zk3dj/ezra-mizrahi.jpg?dl=1)
+![left](https://avatars0.githubusercontent.com/u/5628393?s=400&v=4)
+
+# [fit] **_When Sorry Seems the_**
+# [fit] **_Hardest Word_**
+# [fit] Catherine Jones
+# [fit] `@...`
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/f73n1jrqsmsi2st/donna-zhou.jpg?dl=1)
 
 # [fit] **_Exercism_**
-# [fit] **_Beer Song_**
-# [fit] Ezra Mizrahi
-# [fit] `@monsieurmizrahi`
+# [fit] **_Nucleotide Count_**
+# [fit] Donna Zhou
+# [fit] `@dancingTeeth`
 
 ---
 
@@ -214,47 +215,32 @@ We are looking for speakers!
 # [fit] **_News_**
 
 ---
-[.hide-footer]
-[.slidenumbers: false]
 
-![fit](https://www.dropbox.com/s/dal4o2savblz5gs/ruby25.jpg?dl=1)
+# [fit] **_Rails 5.2.0 RC2_**
+
+- Active Storage 
+- Redis Cache Store 
+- HTTP/2 Early Hints 
+- CSP 
+- Credentials
 
 ^
-- On February 24, Ruby turned 25 years old, and an anniversary event was held for it with Matz in attendance in Tokyo.<br />
-- The event was streamed, but it was all in Japanese and I haven't seen the video uploaded anywhere else, with or without subtitles<br />
-- Talk about how Matz created Ruby blocks with Teddy Bear programming
+The rails team are keen to get 5.2 done and dusted before rails conf starting
+April 17th. DHH feels strongly that this release candidate is sound enough that
+if you starting a new project you could base it off RC2. Check the rails blog
+for more information .
 
 ---
 
-# [fit] `#ruby25th`
-
-^
-- If you want to get some warm fuzzies, have a look at the Ruby love fest that is the #ruby25th hashtag
-
----
-
+# [fit] **_Ruby updates_**
 <br />
-# [fit] `gem update --system`
+## [fit] `2.5.1, 2.4.4, 2.3.7, 2.2.10`
 
-- https://www.ruby-lang.org/en/news/2018/02/17/multiple-vulnerabilities-in-rubygems/
+read more here **https://www.ruby-lang.org/**
 
-^
-Update your system gems. Last month a bunch of vulnerabilities were discovered so running an update will help protect you. You can find out more at this link.
-
----
-
-# [fit] **_Releases_**
-
-
----
-
-# [fit] **_On Writing_**
-# [fit] **_Software_** *Well*
-![right](https://www.dropbox.com/s/nqnxppowblr257m/1_gRfu1IS-JPLMCzm-OL_9kw.jpeg?dl=1)
-
-
-^
-DHH has a new set of videos on his YouTube channel where he goes through parts of the Basecamp codebase and gives his thoughts on it, Ruby, and programming. So if you're at all interested in getting inside his head, then that video series might be something you may be interested in.
+^ 
+On the 28th of March several versions of Ruby were updated to fix bugs and some
+security issues. Again you can read more on the ruby page.
 
 ---
 
