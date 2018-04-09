@@ -228,7 +228,7 @@ We are looking for speakers!
 
 ---
 
-# [fit] **_Rails 5.2.0 RC2_**
+# [fit] **_Rails 5.2.0**
 
 - Active Storage 
 - Redis Cache Store 
