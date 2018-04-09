@@ -152,7 +152,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/f73n1jrqsmsi2st/donna-zhou.jpg?dl=1)
+![right](https://www.dropbox.com/s/mbln0ansbn0doqk/donna-zhou.jpeg?dl=1)
 
 # [fit] **_Exercism_**
 # [fit] **_Nucleotide Count_**
