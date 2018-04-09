@@ -9,9 +9,10 @@ slidenumbers: true
 ^
 Welcome to Sydney RORO. Some of you might have noticed that something is a
 little different this month. If you haven't yet, well we're at the fantastics
-offices of Airtasker. I'll take this chance to say a big thank you to Pivotal
+offices of Airtasker. Airtasker have taken on venue and drink sponsorship of our
+meetup going forward. I'd like to take this chance to say a big thank you to Pivotal
 who sponsored RoRo for the last 2 years but it's fantastic that Airtasker have
-stepped up to take on sponsorship. 
+stepped up to help make RoRo, in my opinion, the best tech meetup around. 
 
 ---
 
@@ -22,7 +23,7 @@ stepped up to take on sponsorship.
 
 ^
 Again tonight we have a great lineup of speakers, we'll cover some upcoming
-events, tips and secrets and jobs opportunities. Then it's off to the pub or for
+events, tips, tricks and jobs opportunities. Then it's off to the pub or for
 those with a sweeter tooth, gelato. 
 
 ---
@@ -58,7 +59,8 @@ If you have any issues you want to raise about anything that has happened at a R
 
 ^
 RORO has many sponsors, without which these meetups would not be possible, so
-again a big thanks to Airtasker, who've provided both our venue for tonight, and the drinks.<br />
+again a big thanks to Airtasker, who've provided both our venue, and drinks
+tonight.<br />
 
 ---
 
@@ -111,17 +113,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **_Talks_**
 
 ---
-[.hide-footer]
-[.slidenumbers: false]
 
-![left](https://avatars0.githubusercontent.com/u/12670?s=400&v=4)
-
-# [fit] **_Lessons Learned from_**
-# [fit] **_Remote Work_**
-# [fit] Peter Sumskas
-# [fit] `@brushbox`
-
----
 [.hide-footer]
 [.slidenumbers: false]
 
@@ -133,15 +125,28 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] `@tian_im`
 
 ---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://avatars0.githubusercontent.com/u/12670?s=400&v=4)
+
+# [fit] **_Lessons Learned from_**
+# [fit] **_Remote Work_**
+# [fit] Peter Sumskas
+# [fit] `@brushbox`
+
+---
+
 [.hide-footer]
 [.slidenumbers: false]
 
 ![left](https://avatars0.githubusercontent.com/u/5628393?s=400&v=4)
 
-# [fit] **_When Sorry Seems the_**
-# [fit] **_Hardest Word_**
+# [fit] **_When Sorry Seems to be_**
+# [fit] **_the Hardest Word_**
 # [fit] Catherine Jones
-# [fit] `@...`
+# [fit] `@cathjones0`
 
 ---
 [.hide-footer]
@@ -152,7 +157,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **_Exercism_**
 # [fit] **_Nucleotide Count_**
 # [fit] Donna Zhou
-# [fit] `@dancingTeeth`
+# [fit] `@failscasts`
 
 ---
 
@@ -160,19 +165,26 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] Say **Hello!** :wave:
 
 ^
-So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have [speaker-name].
+So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Tian.
 
 ---
 
 # [fit] **_Next Meetup's Exercism_**
 # [fit] *Rail Fence Cypher* 
-# [fit] `exercism fetch ruby rail-fence-cypher`
+# [fit] **OR**
+# [fit] *Roman Numerals*
+
+### `exercism fetch ruby roman-numerals || exercism fetch ruby rail-fence-cypher`
 
 ^
-A Rail Fence Cypher is type of transposition cypher that gets it's name from the
+This month there are two options. Either the Rail Fence Cypher or Roman
+Numerals. A Rail Fence Cypher is type of transposition cypher that gets it's name from the
 way the message is encoded. The letters of the message are written downward on
 successive rails of an imaginary fence, then move upward when they hit the
-bottom forming a zig-zag pattern. The message is then read across the rows. 
+bottom forming a zig-zag pattern. The message is then read across the rows. This
+is more challenging than some of the previous challenges we've set so
+if you feel it's a little to much check out Roman Numerals where you need to
+convert a normal number to it's Roman equivalent.  
 So, if you haven't already, go and join the rorosyd Exercism team, take a crack at this problem, and then tell us all about how you solved it!
 
 ---
@@ -249,30 +261,15 @@ security issues. Again you can read more on the ruby page.
 
 ---
 
-![inline](https://www.dropbox.com/s/y59vmte450e50km/installfest_logo.png?dl=1)
-
-# [fit] **_March 20 2018_** at **_Coder Factory Academy_**
-# [fit] **Sign up at** `meetup.com`
-
-^
-- If you know someone that wants go get started in Ruby - bring them to the InstallFest, currently scheduled for March 20 at Coder Factory, also held by reinteractive.<br />
-- You'll get Ruby and Rails installed on your machine and create a simple blog using Rails and get it deployed to the internet.
-
----
-
 # [fit] **_Development Hub_**
-# [fit] *April 17 2018* at *Fishburners*
+# [fit] *May 15 2018* at *Fishburners*
 # [fit] **Sign up at** `meetup.com`
 
 ^
-Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on April 17 at Fishburners fancy new co-working space next to Wynyard station in the building with all the other cool startups.<br />
-This night is simply an unstructured night to hack together, learn together, get some help from mentors.
-
----
-
-![inline](https://www.dropbox.com/s/xrgzus2v7d96nlx/Elixir_Camp_3.png?dl=1)
-
-# [fit] `http://elixir.camp`
+Ruby on Rails consultancy reinteractive is holding the Development Hub meetup on
+May 15. Unfortunately the April dev hub has been cancelled due to a lack of
+venue and I believe the location for May is still to be decided. Despite that,
+if you up for some hacking or are looking for help from mentors sign up.<br />
 
 ---
 
@@ -316,7 +313,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] **_Next Meetup_**
-# [fit] *10 April, 2018*
+# [fit] *8th May, 2018*
 # [fit] **(2nd Tuesday of the month)**
 
 ---
