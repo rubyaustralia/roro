@@ -37,7 +37,7 @@ those with a sweeter tooth, gelato.
 - Location of bathrooms
 - Feel free to take any leftover food home with you
 - Once you've finished your food and drinks, please be sure to put your plates in the bins provided out the front.
-- White bin liner is for recycling, and black bin liner is for general rubbish.
+- Bottles can go in the green bin with the black liner and general rubbish in the smaller bins. 
 
 ---
 
@@ -219,8 +219,10 @@ We are looking for speakers!
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
 - The repo now also has 7 extra presentation requests added, so check them out if you're looking for an idea to do a talk about.
-- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more...(like Jenny)<br />
-- Also, if you need any help creating or critiquing your presentation or want someone to do a dry run with, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
+- Remember, It is *good* to throw yourself out of your comfort zone and try
+something different, and who knows, you might even end up liking it and wanting
+to do more.<br />
+- Also, if you need any help creating or critiquing your presentation or want someone to do a dry run, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
 ---
 
@@ -237,10 +239,9 @@ We are looking for speakers!
 - Credentials
 
 ^
-The rails team are keen to get 5.2 done and dusted before rails conf starting
-April 17th. DHH feels strongly that this release candidate is sound enough that
-if you starting a new project you could base it off RC2. Check the rails blog
-for more information .
+Last night at 9pm DHH posted on the rails blog to announce the release of rails 5.2. The rails team
+were keen to get 5.2 done and dusted before rails conf starting April 17th. Check the rails blog
+for more information.
 
 ---
 
@@ -251,7 +252,7 @@ for more information .
 read more here **https://www.ruby-lang.org/**
 
 ^ 
-On the 28th of March several versions of Ruby were updated to fix bugs and some
+On the 28th of March several versions of Ruby were updated to fix bugs and 
 security issues. Again you can read more on the ruby page.
 
 ---
