@@ -186,16 +186,14 @@ And Tracy Mu Sung will be re-assuring you to don't be so hard on yourself, dummy
 [.header-strong: #EC7063]
 [.header-emphasis: #D4AC0D]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/a21179phi6vtqal/mathew-button.jpeg?dl=1)
 
 # [fit] **Exercism**
-# [fit] Roman Numerals/
-# [fit] Rail Fence Cipher
-# [fit] _Mystery Person_
-# [fit] _`@mysteryperson`_
+# [fit] Roman Numerals
+# [fit] _Mathew Button_
 
 ^
-And finally we'll have our Exercism talk by xxx
+And finally we'll have Mathew Button doing the Exercism talk going through his implementation of the Roman Numerals problem.
 
 ---
 [.header-strong: #EC7063]
