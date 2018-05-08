@@ -302,7 +302,7 @@ case result
 when %p([:error, status])
   p status
 end
-=> 404
+#=> 404
 ```
 
 - `https://bugs.ruby-lang.org/issues/14709`
