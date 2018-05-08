@@ -297,15 +297,21 @@ something different, and we do have repeat customers here whom once they get a t
 # [fit] Pattern Matching in Ruby's future..?
 
 ```ruby
-result = [:error, 500]
+result = [:error, 404]
 case result
 when %p([:error, status])
   p status
 end
-=> 500
+=> 404
 ```
 
 - `https://bugs.ruby-lang.org/issues/14709`
+
+^
+This is not real Ruby code, but it could be an indication of what an implementation of pattern matching could look like in Ruby.<br />
+Pattern matching is something that is very handy for de-structuring complex data types, and is an essential part of languages like Elixir.<br />
+In this case, after, say, an API call, we'd get back a result array that contains an `:error` symbol and the error number, in this case a 404 for "not found". If Ruby had pattern matching we'd be able to say, match on a 2-element array, where the first element is :error and assign the number we get to a `status` variable, which we can then print out.<br />
+Like I said, not real Ruby, but if you want to follow the progress of a potential pattern matching solution, check out the link on the slide to Ruby's issue tracker.
 
 ---
 [.code: text-scale(2)]
@@ -320,6 +326,10 @@ end
 #=> 42..nil
 ```
 
+^
+Next, something that *is* coming to Ruby in the next release: endless ranges.<br />
+Where previously you would need to set your range's endpoint to Float::INFINITY, Ruby 2.6 will allow you to omit the endpoint altogether to essentially match infinity.
+
 ---
 [.code: text-scale(2)]
 
@@ -332,6 +342,9 @@ end
 [:a, :b, :c, :d][2..]
 #=> [:c, :d]
 ```
+
+^
+Somewhere where you might actually use this is when you want to specify a range within an array to the end of said array, instead of saying you want the values up to the -1 index, you omit that to say you want values to the end of the array.
 
 ---
 
@@ -392,6 +405,7 @@ Development Hub has been cancelled for this month due to being unable to find a 
 
 ^
 [Anything speakers want to add...?]
+- Here’s Why All Your Projects Are Always Late — and What to Do About It: http://freakonomics.com/podcast/project-management/
 
 ---
 [.hide-footer]
