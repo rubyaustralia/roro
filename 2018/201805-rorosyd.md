@@ -196,6 +196,22 @@ And Tracy Mu Sung will be re-assuring you to don't be so hard on yourself, dummy
 And finally we'll have Mathew Button doing the Exercism talk going through his implementation of the Roman Numerals problem.
 
 ---
+[.hide-footer]
+[.slidenumbers: false]
+[.header-strong: #EC7063]
+[.header-emphasis: #D4AC0D]
+
+![left](https://www.dropbox.com/s/gk188aq1zjjlonm/rob-cornish.jpg?dl=1)
+
+# [fit] **Exercism**
+# [fit] Rail Fence Cipher
+# [fit] _Rob Cornish_
+# [fit] _`@robcornish`_
+
+^
+And Rob will be taking us through his implementation of the Rail Fence Cipher problem, because if no one steps up to solve the problem that you set as an organiser, it's your responsibility to provide a solution.
+
+---
 [.header-strong: #EC7063]
 
 # [fit] Who's New?
