@@ -125,18 +125,6 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
-
-# [fit] **_Mystery_**
-# [fit] **_Full length talk_**
-# [fit] Mystery Person
-# [fit] `@mystery`
-
----
-
-[.hide-footer]
-[.slidenumbers: false]
-
 ![left](https://www.dropbox.com/s/61seamfbcf1vw5e/cath-jones.jpeg?dl=1)
 
 # [fit] **_When Sorry_**
@@ -146,15 +134,29 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] `@cathjones0`
 
 ---
+
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/n33rp88kbi68iqf/rob-howard.jpg?dl=1)
+
+# [fit] **_Procs_**
+# [fit] **_and_**
+# [fit] **_Lambdas_**
+# [fit] Rob Howard
+# [fit] `@damncabbage`
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/grd4ypz5fgr9tq1/paul-fioravanti.jpg?dl=1)
 
 # [fit] **_Exercism_**
 # [fit] **_Grade School_**
-# [fit] Mystery Person
-# [fit] `@mystery`
+# [fit] Paul Fioravanti
+# [fit] `@paulfioravanti`
 
 ---
 
@@ -167,12 +169,12 @@ So, now if you're new to Roro, can you please put up your hand- don't worry we'r
 ---
 
 # [fit] **_Next Meetup's Exercism_**
-# [fit] *!!Insert Problem here!!* 
+# [fit] *Accumulate* 
 
-### `exercism fetch ruby xxxx`
+### `exercism fetch ruby accumulate`
 
 ^
-Problem explanation
+Implement the `accumulate` operation, which, given a collection and an operation to perform on each element of the collection, returns a new collection containing the result of applying that operation to each element of the input collection.
 
 ---
 
