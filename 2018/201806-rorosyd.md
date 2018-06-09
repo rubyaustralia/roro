@@ -118,7 +118,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **_Elm_**
 # [fit] **_into a Rails app_**
 # [fit] Nick Hibberd
-# [fit] `@not_sure@`
+# [fit] `@nickhibberd`
 
 ---
 
@@ -215,9 +215,14 @@ to do more.<br />
 
 # [fit] **_News_**
 
+## RailsConf 2018 Videos are now available from Confreaks
+
+![inline](https://www.youtube.com/watch?v=zKyv-IGvgGE&list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH)
+
 ---
 
-# [fit] **_News 1_**
+# [fit] **_Ruby 2.6 Features_**
+
 
 ^
 
@@ -241,6 +246,22 @@ to do more.<br />
 ^
 Ruby on Rails consultancy reinteractive is holding InstallFest on
 June 19.
+
+---
+
+# [fit] _YOW! Conference_
+
+- ## YOW! Connected
+### Melbourne 17-18 September
+
+- ## YOW! Sydney
+### 27-30 Novemeber
+
+*`http://yowconference.com.au/`*
+
+^
+Not directly related to ruby but great for sorftware and tech in general, YOW
+conf run several events through the year.
 
 ---
 
