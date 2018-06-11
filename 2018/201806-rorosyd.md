@@ -125,19 +125,6 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/61seamfbcf1vw5e/cath-jones.jpeg?dl=1)
-
-# [fit] **_When Sorry_**
-# [fit] **_Seems to be the_**
-# [fit] **_Hardest Word_**
-# [fit] Catherine Jones
-# [fit] `@cathjones0`
-
----
-
-[.hide-footer]
-[.slidenumbers: false]
-
 ![right](https://www.dropbox.com/s/n33rp88kbi68iqf/rob-howard.jpg?dl=1)
 
 # [fit] **_Procs_**
@@ -145,6 +132,19 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **_Lambdas_**
 # [fit] Rob Howard
 # [fit] `@damncabbage`
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/61seamfbcf1vw5e/cath-jones.jpeg?dl=1)
+
+# [fit] **_When Sorry_**
+# [fit] **_Seems to be the_**
+# [fit] **_Hardest Word_**
+# [fit] Catherine Jones
+# [fit] `@cathjones0`
 
 ---
 
@@ -217,22 +217,35 @@ to do more.<br />
 
 # [fit] **_News_**
 
+___
+
 ## RailsConf 2018 Videos are now available from Confreaks
 
 ![inline](https://www.youtube.com/watch?v=zKyv-IGvgGE&list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH)
 
 ---
 
-# [fit] **_Ruby 2.6 Features_**
+# [fit] **_Ruby 2.6.0-preview2_**
+- JIT compliation
+- `then` alias for `yield_self`
+- Infinite range syntax
+- New constant naming rules
+- exception keyword arguments
 
+`https://www.ruby-lang.org/en/news/2018/05/31/ruby-2-6-0-preview2-released/`
 
 ^
 
 ---
 
-# [fit] **_News 2_**
+# [fit] **_Type checking_**
+# [fit] **_in Ruby_**
+## [fit] **_Sorbet by Stripe_**
 
-^ 
+## [fit] `https://medium.com/byteconf/stripe-is-building-a-ruby-typechecker-d6cd7cee6abf`
+
+^
+Stripe announced at RubyKaigi in Japan that they're working on a type checker for Ruby called Sorbet. A release date hasn't been announced as it's development so far has been focused on internal use at Stripe.
 
 ---
 
