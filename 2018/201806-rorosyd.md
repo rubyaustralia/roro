@@ -54,7 +54,8 @@ If you have any issues you want to raise about anything that has happened at a R
 
 ^
 RORO has many sponsors, without which these meetups would not be possible, so
-again a big thanks to Airtasker, who've provided both our venue, and drinks
+again a big thanks to Airtasker who are an online and mobile marketplace
+supporting the future of work. They kindly provide both the venue and drinks
 tonight.<br />
 
 ---
@@ -222,6 +223,10 @@ ___
 ## RailsConf 2018 Videos are now available from Confreaks
 
 ![inline](https://www.youtube.com/watch?v=zKyv-IGvgGE&list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH)
+
+^
+If you're unfamiliar with Confreaks.tv it's a huge repository of conference
+videos spanning heaps of languages from all over the world. Check it out. 
 
 ---
 
