@@ -169,12 +169,13 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/mhm3nszrm4mip8k/yilmaz-gunduzalp.jpeg?dl=1)
 
 # [fit] **Exercism**
 # [fit] **_Accumulate_**
+# [fit]  
+# [fit]  
 # [fit] Yilmaz Gunduzalp
-# [fit] `@xxxx`
 
 ---
 [.header: alignment(center)]
