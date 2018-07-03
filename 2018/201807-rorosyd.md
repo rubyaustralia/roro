@@ -176,6 +176,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit]  
 # [fit]  
 # [fit] Yilmaz Gunduzalp
+# [fit] `@WebDevOs`
 
 ---
 [.header: alignment(center)]
