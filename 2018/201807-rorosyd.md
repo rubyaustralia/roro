@@ -53,7 +53,8 @@ Then it's off to the pub or gelato.
 ^
 If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
 This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
-If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.
+If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.<br />
+In case you haven't been following the RORO Twitter account, you should be aware that there was an incident where a RORO member was the recipient of unwanted communications by another member that were clearly in violation of our code of conduct. Organisers did attempt to take action to remove the offender from the RORO group, but the user account couldn't be found in our list of members, which led us to think the account had already been removed from meetup.com for similar behaviour, or that it was a bot. Nevertheless, the RORO organisers would like to re-emphasise that harassment of any kind is not tolerated in our community, both online and offline, and that we (or someone from Ruby Australia) will take action when notified of potential code of conduct violations.
 
 ---
 
@@ -174,6 +175,14 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] Yilmaz
 # [fit] Gunduzalp
 # [fit] `@WebDevOs`
+
+---
+
+![inline](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
+# [fit] `@rorosyd`
+
+^
+If you are social media-inclined, please point your Twitters at the rorosyd Twitter account, and let our speakers know how much you enjoyed their talks, as it is the best feedback you can give, and can make a speaker feel that all the time and effort invested in their talk was worth it for more than just an addition to their presentation portfolio. You can also get meetup announcements from here as well.
 
 ---
 [.header: alignment(center)]
