@@ -251,6 +251,64 @@ to do more.<br />
 
 ---
 
+# [fit] **Support of Ruby 2.2**
+# [fit] **_ENDED_**
+# [fit] `https://www.ruby-lang.org/en/news/2018/06/20/support-of-ruby-2-2-has-ended/`
+
+^
+Support of Ruby version 2.2 has now ended after being in a security maintenance phase for the last year, so if you have a project that still uses it, you are highly recommended to upgrade to Ruby 2.4 or 2.5 as soon as possible to make sure that you take advantage of all bug and security fixes to Ruby moving forward.
+
+---
+
+# [fit] Rails Asset Pipeline
+# [fit] Directory Traversal Vulnerability
+
+```rb
+# config/environments/production.rb
+# setting to true makes your app vulnerable
+config.assets.compile = true
+```
+
+# [fit] `https://blog.heroku.com/rails-asset-pipeline-vulnerability`
+
+^
+If you compile your assets in your Rails production environment using code that looks like this, you may want to look into this Rails Asset Pipeline Directory Traversal Vulnerability as secrets contained in your repo or your environment variables have the possibility of being compromised. The fix for this is to set this flag to false, upgrade your Sprockets version, and probably also rotate any credentials you may have had stored in your app environment variables. More information about this is on Heroku's blog.
+
+---
+
+# [fit] `dry-monads 1.0` RELEASED
+
+```rb
+class Divide
+  include Dry::Monads::Result::Mixin
+
+  def call(x, y)
+    if !y.zero?
+      Success(x / y)
+    else
+      Failure(:division_by_zero)
+    end
+  end
+end
+```
+
+# [fit] `http://dry-rb.org/news/2018/06/26/dry-monads-1-0-released/`
+
+^
+If you are a fan of the dry libraries of gems and functional programming, you may be pleased to hear that dry-monads version 1.0 has been released. So, if you want to bring some Haskell-isms into your codebase or are looking for a different way to handle errors, exceptions and method chaining, you may want to check this out.
+
+---
+
+# [fit] **FIE FRAMEWORK** ![inline](https://www.dropbox.com/s/wqa2i0i1psig3ii/fie-logo.png?dl=1)
+# [fit] A Rails-centric frontend framework
+# [fit]
+# [fit] `https://fie.eranpeer.co/`
+
+^
+Finally, the Fie Framework is a project that caught my eye that looks like it may be in the same space as Basecamp's Stimulus, being a Rails-centric front-end framework that shares the state of your views with the application back-end. There are a few interesting examples of how it does this in the application documentation and showcase areas, so if this kind of thing appeals to you, go and check out Fie on the link you can see on screen. Or, even better, do a presentation about it at RORO: I've added a presentation requests for an introduction to Fie, and introduction to dry monads for anyone that's looking for presentation ideas.
+
+---
+
 ![](https://www.dropbox.com/s/x1df2k9v8idbptd/Cheesy-Business-Stock-Photo-1-1024x829.jpg?dl=1)
 
 # [fit] **_Upcoming_**
