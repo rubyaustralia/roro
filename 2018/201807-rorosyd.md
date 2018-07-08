@@ -129,11 +129,10 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 
 ![right](https://www.dropbox.com/s/wv4diomzxq964ob/georgina-robilliard.jpg?dl=1)
 
-# [fit] **Pivoting your**
+# [fit] **_Pivoting your_**
 # [fit] **_Career_**
-# [fit]  
-# [fit]  
-# [fit] Georgina Robilliard
+# [fit] Georgina
+# [fit] Robilliard
 # [fit] `@GRobilliard`
 
 ---
@@ -143,12 +142,11 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 
 ![right](https://www.dropbox.com/s/6yiakj6qdq0q0oa/simon-arneaud.jpg?dl=1)
 
-# [fit] **Production**
-# [fit] **ready**
+# [fit] **_Production ready_**
 # [fit] **_Web Service_**
-# [fit] **Checklist**
-# [fit] Simon Arneaud
-# [fit] `@xxxx`
+# [fit] **_Checklist_**
+# [fit] Simon
+# [fit] Arneaud
 
 ---
 
@@ -157,11 +155,11 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 
 ![left](https://www.dropbox.com/s/poypa380zuu6cqg/jenny-nguyen.jpg?dl=1)
 
-# [fit] **Learn to**
-# [fit] **teach a**
+# [fit] **_Learn to teach a_**
 # [fit] **_Junior_**
 # [fit] **_Developer_**
-# [fit] Jenny Nguyen
+# [fit] Jenny
+# [fit] Nguyen
 # [fit] `@knockycode`
 
 ---
@@ -171,11 +169,10 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 
 ![left](https://www.dropbox.com/s/mhm3nszrm4mip8k/yilmaz-gunduzalp.jpeg?dl=1)
 
-# [fit] **Exercism**
+# [fit] **_Exercism:_**
 # [fit] **_Accumulate_**
-# [fit]  
-# [fit]  
-# [fit] Yilmaz Gunduzalp
+# [fit] Yilmaz
+# [fit] Gunduzalp
 # [fit] `@WebDevOs`
 
 ---
