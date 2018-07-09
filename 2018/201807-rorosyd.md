@@ -181,7 +181,8 @@ The first of our full length talks tonight comes from...
 
 ---
 
-![inline](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
+![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
+# [fit] `@GRobilliard` `@knockycode` `@WebDevOs`
 # [fit] `@rorosyd`
 
 ^
@@ -197,7 +198,7 @@ If you are social media-inclined, please point your Twitters at the rorosyd Twit
 # [fit] :wave:
 
 ^
-So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you, we're going to have a 5 minute break so we can welcome them, and when we come back - we're going to have Georgina.
+So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
 
 ---
 [.header: alignment(center)]
@@ -351,7 +352,7 @@ Ruby on Rails consultancy reinteractive is holding Development Hub on July 19 ri
 ## Melbourne 17-18 September
 
 # YOW! Sydney
-## 27-30 Novemeber
+## 27-30 November
 
 *`http://yowconference.com.au/`*
 
