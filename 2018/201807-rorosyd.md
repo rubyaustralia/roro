@@ -6,11 +6,11 @@ slidenumbers: true
 ![](https://www.dropbox.com/s/hhax3mmn7mw68u6/business.jpg?dl=1)
 
 # [fit] **_Ruby on Rails_**
-# [fit] **_Oceania_**
+# [fit] **_Oceania_** :chart_with_upwards_trend:
 # **10 July 2018**
 
 ^
-Welcome to Sydney RORO for this, the new financial year 2018-2019. May all of your businesses that you send those hockey stick profit graphs through the roof.
+Welcome to Sydney RORO for this, the new financial year 2018-2019. May all of your businesses have hockey stick profit graphs through the roof.
 
 ---
 
@@ -51,7 +51,7 @@ Then it's off to the pub or gelato.
 # [fit] **`conduct@ruby.org.au`**
 
 ^
-If this is your first RORO, or if you were previously unaware, Ruby Australia's events are run under a code of conduct.<br />
+If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.<br />
 This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
 If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.<br />
 In case you haven't been following the RORO Twitter account, you should be aware that there was an incident where a RORO member was the recipient of unwanted communications by another member that were clearly in violation of our code of conduct. Organisers did attempt to take action to remove the offender from the RORO group, but the user account couldn't be found in our list of members, which led us to think the account had already been removed from meetup.com for similar behaviour, or that it was a bot. Nevertheless, the RORO organisers would like to re-emphasise that harassment of any kind is not tolerated in our community, both online and offline, and that we (or someone from Ruby Australia) will take action when notified of potential code of conduct violations, so please do report them to us so we can continue to keep our community a nice place for everyone.
@@ -122,6 +122,9 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 ![](https://www.dropbox.com/s/a0boxy167yk5nxa/be8.png?dl=1)
 
 # [fit] **TALKS**
+
+^
+The first of our full length talks tonight comes from...
 
 ---
 
@@ -199,12 +202,18 @@ So, now if you're new to Roro, can you please put up your hand- don't worry we'r
 ---
 [.header: alignment(center)]
 
-![](https://www.dropbox.com/s/21euv2r7dy4rf2e/istock-unfinished-business-hed-2015.jpg?dl=1)
 
-# [fit] **Next Meetup's Exercism**
-# [fit] **_Anagram_** 
+# [fit] Next Meetup's Exercism
+# [fit] _Anagram_ 
 
-### [fit] **`exercism fetch ruby anagram`**
+```rb
+detector = Anagram.new("listen")
+detector.match(["enlists", "google", "inlets", "banana"])
+
+# => ["inlets"]
+```
+
+### [fit] `exercism fetch ruby anagram`
 
 ^
 Given a word and a list of possible anagrams, select the correct sublist.<br />
@@ -231,9 +240,9 @@ Thanks so much to all the speakers tonight, and if anyone is interested in givin
 ^
 We are looking for speakers!
 - We want *you* to present something at RORO because presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.<br />
-- It's great public speaking practice in front of a sympathetic audience that wants you to succeed, and is all very aware of the courage that it can take to deliver a talk in front of your peers.<br />
-- Any talk you present here is great fodder for your resume and portfolio, and just by virtue of presenting, you potentially get turned into an expert in your audience's eyes.<br />
-- So if you've got something to say or cool to show and tell that you think the Ruby community would love to hear about...
+- It's great public speaking practice in front of an audience that wants you to succeed because we're all here to learn cool new things, and...<br />
+- Any talk you present here is great fodder for your resume and portfolio, and just by virtue of presenting, everyone will think you're an expert, which will surely lead to at least an endorsement on LinkedIn<br />
+- So if you've got something to say, or to show and tell, that you think the Ruby community would love to hear about...
 
 ---
 
@@ -246,7 +255,7 @@ We are looking for speakers!
 
 ^
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
-- The repo now also has 7 extra presentation requests added, so check them out if you're looking for an idea to do a talk about.
+- The repo has presentation requests added, so check them out if you're looking for an idea to do a talk about.
 - Remember, It is *good* to throw yourself out of your comfort zone and try
 something different, and who knows, you might even end up liking it and wanting
 to do more.<br />
@@ -332,7 +341,7 @@ Finally, the Fie Framework is a project that caught my eye that looks like it ma
 # [fit] **Sign up at** `meetup.com`
 
 ^
-Ruby on Rails consultancy reinteractive is holding Development Hub on July 19.
+Ruby on Rails consultancy reinteractive is holding Development Hub on July 19 right here at Airtasker.
 
 ---
 
@@ -401,10 +410,11 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 We might be having the next meetup in Airtasker's new rennovated space on the 2nd floor, so be sure not to miss that!
 
 ---
+![](https://www.dropbox.com/s/21euv2r7dy4rf2e/istock-unfinished-business-hed-2015.jpg?dl=1)
 
 # [fit] **And Now...**
 # [fit] **- _Red Oak Pub (up the street)_** :beer:
 # [fit] **- _Gelato Rivareno (Barangaroo)_** :ice_cream:
 
 ^
-Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles on the far table (not the recycling bins as they end up getting too heavy)<br />
+Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
