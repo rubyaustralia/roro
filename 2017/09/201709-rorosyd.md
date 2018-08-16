@@ -322,7 +322,3 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] **Red Oak Pub (up the street)**
 # _or_
 # [fit] **Gelato Rivareno (Barangaroo)**
-
-^
-This presentation was written in a Markdown format designed to work with
-Deckset (https://www.decksetapp.com/)

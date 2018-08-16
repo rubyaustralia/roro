@@ -298,4 +298,3 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles on the far table (not the recycling bins as they end up getting too heavy)<br />
 Please feel free to continue the conversations at the pub or at gelato but **you can't stay here**, so please move on to your venue of choice as soon as you can.<br />
-NOTE: This presentation was written in a Markdown format designed to work with Deckset (https://www.decksetapp.com/)
