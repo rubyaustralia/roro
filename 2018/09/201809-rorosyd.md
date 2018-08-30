@@ -2,7 +2,6 @@ theme: Letters from Sweden, 2
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
-![](https://www.dropbox.com/s/hhax3mmn7mw68u6/business.jpg?dl=1)
 
 # [fit] **_Ruby on Rails_**
 # [fit] **_Oceania_**
@@ -13,7 +12,6 @@ Welcome to Sydney RORO
 
 ---
 
-![](https://www.dropbox.com/s/pntzlyhhod2arsf/maxresdefault.jpg?dl=1)
 
 # [fit] **Tonight**
 ## **_- Talks_**
@@ -26,7 +24,6 @@ Then it's off to the pub or gelato.
 
 ---
 
-![](https://www.dropbox.com/s/tjrg3d1mdc7awzr/F7J8kOd.jpg?dl=1)
 
 # [fit] **Housekeeping**
 ## **_- Bathrooms_**
@@ -41,7 +38,6 @@ Then it's off to the pub or gelato.
 
 ---
 
-![](https://www.dropbox.com/s/vahv4j9yigaeeap/2018-05-27-00_11_03-Emilia-Clarke-Recreates-Business-Stock-Photos.jpg?dl=1)
 
 # [fit] **Code Of Conduct**
 # [fit] **`ruby.org.au/code-of-conduct`**
@@ -116,7 +112,6 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 
 ---
 
-![](https://www.dropbox.com/s/a0boxy167yk5nxa/be8.png?dl=1)
 
 # [fit] **TALKS**
 
@@ -128,71 +123,67 @@ The first of our full length talks tonight comes from...
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/d515rg4a4c65n1r/john-coote.jpg?dl=1)
+![right](https://www.dropbox.com/s/cofp6em3cbfdmyz/mark-turner.jpg?dl=1)
 
-# [fit] **_Breadth First_**
-# [fit] **_Analysis_**
-# [fit] John
-# [fit] Coote
-# [fit] `@johnofsydney`
-
----
-
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://www.dropbox.com/s/54aygsrpo4cobqp/costa-koulis.jpg?dl=1)
-
-# [fit] **_Successfully Outsourcing_**
-# [fit] **_an Offshore_**
-# [fit] **_RoR Team_**
-# [fit] Costa
-# [fit] Koulis
-# [fit] `@costakoulis`
+# [fit] **_Introduction to_**
+# [fit] **_dry-monads_**
+# [fit] Mark
+# [fit] Turner
+# [fit] `@paradisaeidae`
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
+![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
 
-# [fit] **_Fun with_**
-# [fit] **_Enumerator_**
-# [fit] Aidan
-# [fit] Samuel
-# [fit] `@cyclotron3k `
+# [fit] **_Some other_**
+# [fit] **_Talk_**
+# [fit] Mystery
+# [fit] Person
+# [fit] `@mystery_person`
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/098icz3exah32o7/richard-heycock.jpg?dl=1)
+![right](https://www.dropbox.com/s/f73n1jrqsmsi2st/donna-zhou.jpg?dl=1)
+
+# [fit] **_Upgrading to_**
+# [fit] **_Rails 5_**
+# [fit] Donna
+# [fit] Zhou
+# [fit] `@failscasts`
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/63itd0w5ztu1pgf/tim-caldwell.jpg?dl=1)
 
 # [fit] **_Exercism:_**
-# [fit] **_Anagram**
-# [fit] Richard
-# [fit] Heycock
-# [fit] `@filterfish `
+# [fit] **_Leap Year_**
+# [fit] Tim
+# [fit] Caldwell
+# [fit] `@TimCSolutions`
 
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@johnofsydney` `@costakoulis`
-# [fit] `@cyclotron3k` `@filterfish`
+# [fit] `@paradisaeidae` `@mystery_person`
+# [fit] `@failscasts` `@TimCSolutions`
 # [fit] `@rorosyd`
 
 ^
-If you're twitter inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night alltogether. 
+If you're twitter inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night altogether. 
 
 ---
 
-![](https://www.dropbox.com/s/z9u9hzjnfuzj9vy/pexels-photo-886465.jpeg?dl=1)
-
 # [fit] **Who's New?**
-# [fit] Say **Hello!**
-# [fit] :wave:
+# [fit] Say **Hello!** :wave:
 
 ^
 So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
@@ -200,21 +191,13 @@ So, now if you're new to Roro, can you please put up your hand- don't worry we'r
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] _Leap Year_ 
+# [fit] _???_ 
 
-Given a year, return if it's a leap year or not.
-
-### [fit] `exercism download --exercise=leap --track=ruby`
+### [fit] `exercism download --exercise=??? --track=ruby`
 
 ^
-Next months challenge will be Leap Year. Given a year, the program should determine if it's a leap year or not.</br>
-Now over the past month there have been some major changes to Exercism. If you've logged in recently you would have noticed that all your previous complete challenge have been moved to the new site. As part of the transition, the new teams feature hasn't been rolled out yet either so at the moment we don't know what will happen to the RoRo team. I belive this will be coming soon and we'll keep you updated next month with more information.</br>
-In the meantime, login to the new site, check it out, there's a real focus now on mentor feedback and you can choose it you prefer to complete the challenges independently or receive feedback before moving on to the next. </br>
-As always, if you'd like to present your solution let Paul or I know and raise an issue on the RoRo github page. 
 
 ---
-
-![](https://www.dropbox.com/s/lx7eypzowwxeanm/employ-people.png?dl=1)
 
 # [fit] **Thank you!**
 
@@ -222,8 +205,6 @@ As always, if you'd like to present your solution let Paul or I know and raise a
 Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
 
 ---
-
-![](https://www.dropbox.com/s/h05ftukfmf7oyik/large-group-multiethnic-business-people-pointing-their-finger-you-94269957.jpg?dl=1)
 
 # [fit] **We are always looking for**
 # [fit] SPEAKERS!
@@ -254,70 +235,38 @@ to do more.<br />
 
 ---
 
-![](https://www.dropbox.com/s/ybbux8d9aqyn294/20469966-business-people-cheering-at-laptop.jpg?dl=1)
-
 # [fit] **NEWS**
 
 ---
 
-# [fit] **Rails 5.2.1**
-# [fit] **_RELEASED_**
-# [fit] `https://weblog.rubyonrails.org/`
+# [fit] **News 1**
+# [fit] `https://example.com/`
 
 ^
-Rails 5.2.1 was released on the 7th of August. Notable changes include
-- Better error handling of active storage adapters
-- Support for skupping caching of nil entries
-- and a fix for the issue where build wasn't getting called on extension for has_many associations.
-For more details please read the changelog.
 
 ---
 
-# [fit] **Hanami 1.3.0.beta1**
-# [fit] **_RELEASED_**
-
-# [fit] `http://hanamirb.org/blog/2018/08/08/announcing-hanami-130beta1.html`
+# [fit] **News 2**
+# [fit] `http://example.com`
 
 ^
-Hanami 1.3.0.beta1 has been released with a switch to RSpec for testing some minor enhancements and bug fixes.</br>
-For those that don't know what Hamani is, it's an alternative Ruby based we framework to Rails. And if you already know a thing or two about it or would like to learn more there's a open presentation request waiting for you on the issues page and we'd love to have you talk about it here at RoRo. 
 
 ---
-
-# [fit] **Pundit 2.0.0beta1**
-# [fit] **_RELEASED_**
-
-# [fit] `https://github.com/varvet/pundit/blob/master/CHANGELOG.md#200beta1-2018-07-04`
-
-^
-After 2 years of update silence, Pundit 2.0.0beta1 has been released. If you use Pundit for authorisation in your app you can read more about the fixes and new features on their GitHub.
-
----
-
-# [fit] **Webpacker for Rails 6** 
-
-![inline 80%](https://www.dropbox.com/s/fq164hmb60mv6tf/dhh_webpacker_rails_tweet.png?dl=1)
-# [fit] `https://github.com/rails/rails/pull/33079`
-
-^
-One of the new features that looks like it's making it's way to Rails 6 will be Webpacker as the default javascript complier. There's a bit of discussion around this on the PR from DHH so take a read and decide how you feel about the it.  Either way it looks like Rails 6 is getting close. 
-
----
-
-![](https://www.dropbox.com/s/x1df2k9v8idbptd/Cheesy-Business-Stock-Photo-1-1024x829.jpg?dl=1)
 
 # [fit] **_Upcoming_**
 # [fit] **EVENTS**
 
 ---
 
-# [fit] **Development Hub**
-# [fit] *August 16 2018* at
+# [fit] **InstallFest**
+# [fit] **_September 20 2018_** at
 # [fit] **Airtasker**
 # [fit] **Sign up at** `meetup.com`
 
+
 ^
-Ruby on Rails consultancy reinteractive is holding Development Hub on August 16 right here at Airtasker.
+- Ruby on Rails consultancy reinteractive is holding InstallFest on September 20 right here at Airtasker.
+- Talk about what it is and who it's aimed at.
 
 ---
 
@@ -347,8 +296,6 @@ Rail camp is on again in November down in Hobart. Tickets went on sale yesterday
 
 ---
 
-![](https://www.dropbox.com/s/kwhv3o9h51ixp3q/depositphotos_31730697-stock-photo-excited-business-people-push-colleague.jpg?dl=1)
-
 # [fit] **TIPS and TRICKS**
 # [fit] **_Stuff that makes your life_**
 # [fit] **_easier/better/faster_**
@@ -358,8 +305,6 @@ Rail camp is on again in November down in Hobart. Tickets went on sale yesterday
 
 ---
 
-![](https://www.dropbox.com/s/sz764xlbwvujz74/starting-a-business.png?dl=1)
-
 # [fit] **JOBS**
 # **_Offering work?_**
 
@@ -368,35 +313,24 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-![](https://www.dropbox.com/s/aah9uo3ex72og9f/800px_COLOURBOX2293027.jpg?dl=1)
-
 # [fit] **Slack/Forum**
 ## [fit] *- `ruby-au-join.herokuapp.com`*
 ## [fit] *- `forum.ruby.org.au`*
 
 ---
 
-![](https://www.dropbox.com/s/wg5g7clnzvr6zys/8e1a01_82b552d1812f4d31bd04d36d2177e296.jpg?dl=1)
-
 # [fit] **Online**
-
 ## [fit] **Twitter: `@rorosyd`, `@rubyaustralia`**
 ## **Web: `ruby.org.au`**
 ## **Google group: `rails-oceania`**
 
 ---
 
-![](https://www.dropbox.com/s/spl3i5bxv5pi3gs/28380922-portrait-of-an-executive-gesturing-thumbs-up-with-recruiters-during-a-job-interview-at-office.jpg?dl=1)
-
 # [fit] **Next Meetup**
-# [fit] **_11th September, 2018_**
+# [fit] **_9th October, 2018_**
 # [fit] **(2nd Tuesday of the month)**
 
-^
-We might be having the next meetup in Airtasker's new rennovated space on the 2nd floor, so be sure not to miss that!
-
 ---
-![](https://www.dropbox.com/s/21euv2r7dy4rf2e/istock-unfinished-business-hed-2015.jpg?dl=1)
 
 # [fit] **And Now...**
 # [fit] **- _Red Oak Pub (up the street)_** :beer:
