@@ -7,6 +7,7 @@
 ## Presentations - 15 minutes
 
 - **Introduction to dry-monads** - _Mark Turner_ :: [@paradisaeidae](https://twitter.com/paradisaeidae)
+- **Fail to Succeed - TDD with RSpec** - _Sonia Parker_ :: [@sonicakes1207](https://twitter.com/sonicakes1207)
 
 ## Lightning Talks - 5 minutes
 

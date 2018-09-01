@@ -136,13 +136,14 @@ The first of our full length talks tonight comes from...
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/v2uxvit647q6rl7/sonia-parker.jpg?dl=1)
 
-# [fit] **_Some other_**
-# [fit] **_Talk_**
-# [fit] Mystery
-# [fit] Person
-# [fit] `@mystery_person`
+# [fit] **_Fail to_**
+# [fit] **_Succeed_**
+# [fit] **_TDD with RSpec_**
+# [fit] Sonia
+# [fit] Parker
+# [fit] `@sonicakes1207`
 
 ---
 
@@ -173,7 +174,7 @@ The first of our full length talks tonight comes from...
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@paradisaeidae` `@mystery_person`
+# [fit] `@paradisaeidae` `@sonicakes1207`
 # [fit] `@failscasts` `@TimCSolutions`
 # [fit] `@rorosyd`
 
