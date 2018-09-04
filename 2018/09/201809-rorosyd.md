@@ -5,7 +5,7 @@ slidenumbers: true
 
 # [fit] **_Ruby on Rails_**
 # [fit] **_Oceania_**
-# **14 August 2018**
+# **11 September 2018**
 
 ^
 Welcome to Sydney RORO
@@ -282,7 +282,7 @@ to do more.<br />
 *`http://yowconference.com.au/`*
 
 ^
-We had this slide up last month but I'll mention it again as I'm attending in September. If you or your business have an interest in IoT technologies YOW Connected is the place to be. In their own words 'It is a place for IoT product designers, architects, developers and data engineers to network and learn from others while sharing their experience.' You can find out more about Connected and YOW Sydney at yowconference.com.au.
+After plugging this for the last couple of months it's been cancelled!  Unfortunately due to lack of ticket sales and a clash with another related conference YOW connected isn't happening. YOW Sydney is still currently on but I'd keep checking the site just incase.
 
 ---
 
