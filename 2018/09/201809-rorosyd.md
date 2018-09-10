@@ -187,16 +187,17 @@ If you're twitter inclined please let tonight's speakers know how much you appre
 # [fit] Say **Hello!** :wave:
 
 ^
-So, now if you're new to Roro, can you please put up your hand- don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
+So if you're new to Roro can you please put up your hand, don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] _???_ 
+# [fit] Sum of Multiples
 
-### [fit] `exercism download --exercise=??? --track=ruby`
+### [fit] `exercism download --exercise=sum-of-multiples --track=ruby`
 
 ^
+In this challenge you need to find the sum of all unique multiples of a particular number up to a given limit. To complete it head over to exercism and download it using the command through the CLI. And if like Tim you'd like present your solution next month please let me know and submit an issue to the RoRo GitHub.
 
 ---
 
@@ -240,17 +241,20 @@ to do more.<br />
 
 ---
 
-# [fit] **News 1**
-# [fit] `https://example.com/`
+# [fit] **Ruby Conf 2019**
+# [fit] `ti.to/ruby-australia/rubyconf-au-2019/`
+#[fit] `rubyconf.org.au/2019`
 
 ^
+Ruby conf 2019 tickets went on sale earlier today. Next year the conference will be down in Melbourne and early bird tickets are available now in very limited numbers so get your employer to hook you up. Or, if you have something you'd like to share with the community presentation submissions are open till the 15th of October. For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
 
 ---
 
-# [fit] **News 2**
-# [fit] `http://example.com`
+# [fit] **Ruby Conf 2018 Videos**
+![inline]( https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
 
 ^
+While were talking about ruby conf, some of the videos from this years conference are online including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
 
 ---
 
@@ -293,7 +297,7 @@ After plugging this for the last couple of months it's been cancelled!  Unfortun
 *`https://railscamp24.wordpress.com/`*
 
 ^
-Rail camp is on again in November down in Hobart. Tickets went on sale yesterday morning so check out the link for more info and some good reasons to attend.
+Rail camp is on again in November down in Hobart. Tickets have been on sale for a month now, is anyone going? ...
 
 ---
 
