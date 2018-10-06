@@ -1,8 +1,8 @@
 Thanks for proposing or suggesting a talk for RORO Sydney!
 
-For **proposals**, please provide the following information:
+For proposals, please provide the following information:
 
-- Name of talk
+- Name of talk (in the title field)
 - Brief summary of the talk content
 - Intended audience - beginners, intermediates, advanced, all levels
   (feel free to use the Github Labels to specify this)
@@ -10,10 +10,10 @@ For **proposals**, please provide the following information:
 - Is this a full-length (15 minute) or lightning (5 minute) talk?
   (feel free to use the Github Labels for this)
 - Your Twitter username (if you have one)
-- Link to a photo of yourself you would like to use on the meetup slide deck
-  (if you don't specify one, we'll use one from your social media accounts)
+- Link to, or upload of, a photo of yourself that will appear in the meetup slide deck
+  (if you don't specify one, we'll see if we can find one from your social media accounts)
 
-For **suggestions**, please provide the following information:
+For suggestions, please provide the following information:
 
 - What you would like to see a talk about
 - What kinds of things you would like to see covered in such a talk
