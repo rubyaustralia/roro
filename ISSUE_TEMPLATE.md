@@ -1,8 +1,19 @@
-We'd love to have you speak, or suggest a talk for Sydney Ruby. In addition to your talk topic, please mention the following:
+Thanks for proposing or suggesting a talk for RORO Sydney!
 
-- Is this a proposal (you want to give this talk yourself) or a request (you'd like someone else to give this talk)?
-- Intended audience (beginners, intermediates, advanced)
+For **proposals**, please provide the following information:
 
-For proposals:
-- Which month would you be ready for?
-- Is this a 5m (lightning) talk, or a 15m talk?
+- Name of talk
+- Brief summary of the talk content
+- Intended audience - beginners, intermediates, advanced, all levels
+  (feel free to use the Github Labels to specify this)
+- Which month's meetup you would like you present at
+- Is this a full-length (15 minute) or lightning (5 minute) talk?
+  (feel free to use the Github Labels for this)
+- Your Twitter username (if you have one)
+- Link to a photo of yourself you would like to use on the meetup slide deck
+  (if you don't specify one, we'll use one from your social media accounts)
+
+For **suggestions**, please provide the following information:
+
+- What you would like to see a talk about
+- What kinds of things you would like to see covered in such a talk
