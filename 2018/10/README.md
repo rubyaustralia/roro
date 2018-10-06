@@ -7,11 +7,12 @@
 ## Presentations - 15 minutes
 
 - **Combining the Powers of SEM and BIO for Improving CSS** - _Ryan Yu_ :: [@iamryanyu](https://twitter.com/iamryanyu)
+- **Fantastic passwords and where to find them** - _Phil Nash_ :: [@philnash](https://twitter.com/philnash)
 
 ## Lightning Talks - 5 minutes
 
-- **A Developer's Guide to Ergonomics** - _Krzysztof Kotlarek_ :: [@???](https://twitter.com/???)
-- **Exercism: Sum of Multiples** - _???_ :: [@???](https://twitter.com/???)
+- **A Developer's Guide to Ergonomics** - _Krzysztof Kotlarek_
+- **Exercism: Sum of Multiples** - _Hamish Lees_
 
 ### Slide Deck
 
