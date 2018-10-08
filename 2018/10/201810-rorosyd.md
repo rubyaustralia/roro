@@ -307,16 +307,12 @@ Rail camp is on again in November down in Hobart. Tickets have been on sale for 
 
 # [fit] _YOW! Conference_
 
-# YOW! Connected
-## Melbourne 17-18 September
-
 # YOW! Sydney
 ## 27-30 November
 
 *`http://yowconference.com.au/`*
 
 ^
-After plugging this for the last couple of months it's been cancelled!  Unfortunately due to lack of ticket sales and a clash with another related conference YOW connected isn't happening. YOW Sydney is still currently on but I'd keep checking the site just incase.
 
 ---
 
