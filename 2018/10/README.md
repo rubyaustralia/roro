@@ -11,7 +11,7 @@
 
 ## Lightning Talks - 5 minutes
 
-- **A Developer's Guide to Ergonomics** - _Krzysztof Kotlarek_
+- **A Developer's Guide to Ergonomics** - _Krzysztof Kotlarek_:: [@krzkot](https://twitter.com/krzkot)
 - **Exercism: Sum of Multiples** - _Hamish Lees_
 
 ### Slide Deck
