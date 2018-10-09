@@ -260,6 +260,9 @@ Basecamp has extracted a gem for common operations dealing with basic use cases 
 
 - https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/
 
+^
+Following on from Donna's talk last month about how easy it is to upgrade to Rails 5.1, GitHub have blogged about their experience. You can read more by following this link.
+
 ---
 
 # [fit] **_Upcoming_**
@@ -271,7 +274,7 @@ Basecamp has extracted a gem for common operations dealing with basic use cases 
 # [fit] `rubyconf.org.au/2019`
 
 ^
-Ruby conf 2019 tickets went on sale earlier today. Next year the conference will be down in Melbourne and early bird tickets are available now in very limited numbers for $570 so get your employer to hook you up. Or, if you have something you'd like to share with the community presentation submissions are open till the 15th of October. For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
+Ruby conf 2019 earlybird tickets may have now gone however if you have something you'd like to share with the community presentation submissions are open till the 15th of October. For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
 
 ---
 
