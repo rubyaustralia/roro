@@ -1,4 +1,5 @@
 footnote: "@rorosyd @rubyaustralia"
 slide-number: true
 # theme: moon
+theme-override : 2018/11/PITCHME.css
 transition: none

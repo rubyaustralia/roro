@@ -1,0 +1,8 @@
+/* Don't put borders around images. This was needed due to the Prawn
+ * emoji not displaying properly in full screen mode, so it had to
+ * be replaced with an image of itself to display properly.
+ */
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
