@@ -23,6 +23,6 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@ivan_rahn]: https://twitter.com/ivan_rahn
 [GitPitch]: https://gitpitch.com/
 [GitPitch Badge]: https://gitpitch.com/assets/badge.svg
-[GitPitch Presentation]: https://gitpitch.com/rails-oceania/roro/2018/11/
+[GitPitch Presentation]: https://gitpitch.com/rails-oceania/roro?p=2018/11/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyxpbrb/
