@@ -1,11 +1,10 @@
 @title[Title Screen]
 
-@snap[north]
-# **Ruby on Rails**
-# **Oceania**
+@snap[midpoint]
+**Ruby on Rails Oceania**
 @snapend
 @snap[south]
-# **13 November 2018**
+**13 November 2018**
 @snapend
 
 Note:
