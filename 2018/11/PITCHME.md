@@ -117,9 +117,6 @@ The first of our full length talks tonight comes from...
 
 ---
 
-[.hide-footer]
-[.slidenumbers: false]
-
 ![right](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
 
 # **Combining the**
@@ -131,9 +128,6 @@ The first of our full length talks tonight comes from...
 
 ---
 
-[.hide-footer]
-[.slidenumbers: false]
-
 ![left](https://www.dropbox.com/s/6g0inq1rt6yjhhy/phil-nash.jpeg?dl=1)
 
 # **Fantastic**
@@ -144,9 +138,6 @@ The first of our full length talks tonight comes from...
 
 ---
 
-[.hide-footer]
-[.slidenumbers: false]
-
 ![right](https://www.dropbox.com/s/2qugiv54q6wez3n/kryzsztof-kotlarek.jpg?dl=1)
 
 # **A Developer's**
@@ -156,9 +147,6 @@ The first of our full length talks tonight comes from...
 # **_Kotlarek_**
 
 ---
-
-[.hide-footer]
-[.slidenumbers: false]
 
 ![left](https://www.dropbox.com/s/0ina45leq7d8at4/hamish-lees.jpg?dl=1)
 
@@ -276,7 +264,7 @@ Ruby conf 2019 earlybird tickets may have now gone however if you have something
 ---
 
 # **Ruby Conf 2018 Videos**
-![inline]( https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
+![inline](https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
 
 Note:
 While were talking about ruby conf, some of the videos from this years conference are online including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
