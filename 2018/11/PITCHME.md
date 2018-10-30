@@ -167,7 +167,7 @@ If you're twitter inclined please let tonight's speakers know how much you appre
 ---
 
 # **Who's New?**
-# Say **Hello!** :wave:
+# Say **Hello!**
 
 Note:
 So if you're new to Roro can you please put up your hand, don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
@@ -205,10 +205,10 @@ We are looking for speakers!
 
 # **_Where do I sign up?_**
 
-- :globe_with_meridians: `github.com/rails-oceania/roro/issues`
+- `github.com/rails-oceania/roro/issues`
 - _`@paulfioravanti`_
 - _`@robcornish`_
-- :email: `rorosydmeetup@gmail.com`
+- `rorosydmeetup@gmail.com`
 
 Note:
 - Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
@@ -341,8 +341,8 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # **And Now...**
-# **- _Red Oak Pub (up the street)_** :beer:
-# **- _Gelato Rivareno (Barangaroo)_** :ice_cream:
+# **- _Red Oak Pub (up the street)_**
+# **- _Gelato Rivareno (Barangaroo)_**
 
 Note:
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
