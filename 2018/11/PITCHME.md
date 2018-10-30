@@ -10,9 +10,9 @@ Welcome to Sydney RORO
 
 
 # **Tonight**
-## **_- Talks_**
-## **_- Events / Tips / Jobs_**
-## **_- Pub / Gelato_**
+## **- Talks**
+## **- Events / Tips / Jobs**
+## **- Pub / Gelato**
 
 Note:
 
@@ -23,9 +23,9 @@ Note:
 
 
 # **Housekeeping**
-## **_- Bathrooms_**
-## **_- Hot food_**
-## **_- Glass bottles_**
+## **- Bathrooms**
+## **- Hot food**
+## **- Glass bottles**
 
 Note:
 - Location of bathrooms
@@ -37,9 +37,9 @@ Note:
 
 
 # **Code Of Conduct**
-# **`ruby.org.au/code-of-conduct`**
-# **`ruby.org.au/committee-members`**
-# **`conduct@ruby.org.au`**
+## **`ruby.org.au/code-of-conduct`**
+## **`ruby.org.au/committee-members`**
+## **`conduct@ruby.org.au`**
 
 Note:
 If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.<br />
@@ -123,7 +123,7 @@ The first of our full length talks tonight comes from...
 # **Powers of**
 # **SEM and BIO for**
 # **Improving CSS**
-# **_Ryan Yu_**
+# **Ryan Yu**
 # **`@iamryanyu`**
 
 ---
@@ -133,7 +133,7 @@ The first of our full length talks tonight comes from...
 # **Fantastic**
 # **passwords**
 # **and where to find them**
-# **_Phil Nash_**
+# **Phil Nash**
 # `@philnash`
 
 ---
@@ -143,8 +143,8 @@ The first of our full length talks tonight comes from...
 # **A Developer's**
 # **Guide to**
 # **Ergonomics**
-# **_Krzysztof_**
-# **_Kotlarek_**
+# **Krzysztof**
+# **Kotlarek**
 
 ---
 
@@ -153,7 +153,7 @@ The first of our full length talks tonight comes from...
 # **Exercism:**
 # **Sum of**
 # **Multiples**
-# **_Hamish Lees_**
+# **Hamish Lees**
 
 ---
 
@@ -175,7 +175,7 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # Next Meetup's Exercism
-# **_Flatten Array_**
+# **Flatten Array**
 
 ### `exercism download --exercise=flatten-array --track=ruby`
 
@@ -203,11 +203,11 @@ We are looking for speakers!
 
 ---
 
-# **_Where do I sign up?_**
+# **Where do I sign up?**
 
 - `github.com/rails-oceania/roro/issues`
-- _`@paulfioravanti`_
-- _`@robcornish`_
+- `@paulfioravanti`
+- `@robcornish`
 - `rorosydmeetup@gmail.com`
 
 Note:
@@ -241,7 +241,7 @@ Basecamp has extracted a gem for common operations dealing with basic use cases 
 ---
 
 # **Github upgrades**
-# **to** **_Rails 5.2_**
+# **to** **Rails 5.2**
 
 - https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/
 
@@ -250,7 +250,7 @@ Following on from Donna's talk last month about how easy it is to upgrade to Rai
 
 ---
 
-# **_Upcoming_**
+# **Upcoming**
 # **EVENTS**
 
 ---
@@ -283,7 +283,7 @@ Rail camp is on again in November down in Hobart. Tickets have been on sale for 
 ---
 
 # **Development Hub**
-# **_October 18 2018_** at
+# **October 18 2018** at
 # **Airtasker**
 # **Sign up at** `meetup.com`
 
@@ -293,7 +293,7 @@ Note:
 
 ---
 
-# _YOW! Conference_
+# YOW! Conference
 
 # YOW! Sydney
 ## 27-30 November
@@ -305,8 +305,8 @@ Note:
 ---
 
 # **TIPS and TRICKS**
-# **_Stuff that makes your life_**
-# **_easier/better/faster_**
+# **Stuff that makes your life**
+# **easier/better/faster**
 
 Note:
 [Anything speakers want to add...?]
@@ -314,7 +314,7 @@ Note:
 ---
 
 # **JOBS**
-# **_Offering work?_**
+# **Offering work?**
 
 Note:
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
@@ -335,14 +335,14 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # **Next Meetup**
-# **_13th November, 2018_**
+# **11 December 2018**
 # **(2nd Tuesday of the month)**
 
 ---
 
 # **And Now...**
-# **- _Red Oak Pub (up the street)_**
-# **- _Gelato Rivareno (Barangaroo)_**
+# **- Red Oak Pub (up the street)**
+# **- Gelato Rivareno (Barangaroo)**
 
 Note:
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
