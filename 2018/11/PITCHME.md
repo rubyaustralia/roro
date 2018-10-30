@@ -2,7 +2,8 @@
 # **_Oceania_**
 # **13 November 2018**
 
-^
+Note:
+
 Welcome to Sydney RORO
 
 ---
@@ -13,9 +14,10 @@ Welcome to Sydney RORO
 ## **_- Events / Tips / Jobs_**
 ## **_- Pub / Gelato_**
 
-^
-Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.<br />
-Then it's off to the pub or gelato. 
+Note:
+
+- Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.
+- Then, it's off to the pub or gelato. 
 
 ---
 
