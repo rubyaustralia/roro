@@ -62,7 +62,7 @@ Note:
 - If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.
 
 ---?color=#EDDEDB
-@title[Venue Sponsor]
+@title[Venue Sponsor: Airtasker]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -75,7 +75,7 @@ Note:
 - so again a big thanks to Airtasker who are an online and mobile marketplace supporting the future of work. They kindly provide both the venue and drinks tonight.
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor 1]
+@title[Ruby Australia]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -90,7 +90,7 @@ Note:
 That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor 2]
+@title[Ruby Australia Sponsor: Envato]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -102,7 +102,7 @@ Note:
 - Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor 3]
+@title[Ruby Australia Sponsor: Lookahead]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -114,7 +114,7 @@ Note:
 - Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor 4]
+@title[Ruby Australia Sponsor: Culture Amp]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -128,7 +128,7 @@ Note:
 - Culture Amp, providers of Company Culture Analytics
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor 5]
+@title[Ruby Australia Sponsor: Reinteractive]
 
 @snap[north w-90]
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
@@ -149,16 +149,31 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 Note:
 The first of our full length talks tonight comes from...
 
----
+---?color=#EDDEDB
+@title[Speaker 1: XXXX]
 
-![right](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
+@snap[west split-screen-text w-50]
+@css[f14 light-pink uppercase work-sans](Combining the<br />Powers of<br />SEM and BIO for<br />Improving CSS<br />)
+@css[f14 capitalize grey work-sans](Ryan Yu<br />)
+@css[f14 light-pink uppercase work-sans](`@iamryanyu`)
+@snapend
 
-# **Combining the**
-# **Powers of**
-# **SEM and BIO for**
-# **Improving CSS**
-# **Ryan Yu**
-# **`@iamryanyu`**
+@snap[east split-screen-img w-50 img-w-100]
+![](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
+@snapend
+
+---?color=#EDDEDB
+@title[Speaker 2: XXXX]
+
+@snap[east split-screen-text w-50]
+@css[f14 light-pink uppercase work-sans](Combining the<br />Powers of<br />SEM and BIO for<br />Improving CSS<br />)
+@css[f14 capitalize grey work-sans](Ryan Yu<br />)
+@css[f14 light-pink uppercase work-sans](`@iamryanyu`)
+@snapend
+
+@snap[west split-screen-img w-50 img-w-100]
+![](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
+@snapend
 
 ---
 
