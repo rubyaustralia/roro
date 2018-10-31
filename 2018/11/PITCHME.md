@@ -203,15 +203,21 @@ Note:
 - Everyone have a look around at any new people standing near you with their hands up.
 - We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
 
----
+---?color=#EDDEDB
+@title[Next Meetup's Exercism]
 
-# Next Meetup's Exercism
-# **Flatten Array**
-
-### `exercism download --exercise=flatten-array --track=ruby`
+@snap[midpoint w-90]
+@css[f2 grey uppercase work-sans](Next Meetup's Exercism<br />)
+@css[f3 capitalize light-pink work-sans](Panagram<br />)
+@css[b-code f06-code grey](`exercism download --exercise=panagram --track=ruby`)
+@snapend
 
 Note:
-The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure and returns a flattened structure without any nil values. To complete it head over to exercism and download it using the command through the CLI. And if you'd like present your solution next month please let me know and submit an issue to the RoRo GitHub issues page.
+-The challenge is to write a write a program to determine if a sentence is a panagram
+- A panagram is a sentence using every letter of the alphabet at least once.
+- The best known English panagram is: The quick brown fox jumps over the lazy dog.
+- To complete it head over to exercism and download it using the command through the CLI.
+- And if you'd like present your solution next month please let me know and submit an issue to the RoRo GitHub issues page.
 
 ---
 

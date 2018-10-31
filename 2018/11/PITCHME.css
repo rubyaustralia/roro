@@ -8,6 +8,10 @@
   text-transform: capitalize;
 }
 
+.f06-code > code {
+  font-size: 0.6em !important;
+}
+
 .f115 {
   font-size: 1.15em !important;
 }
@@ -28,8 +32,16 @@
   font-size: 1.4em !important;
 }
 
+.f2 {
+  font-size: 2.0em !important;
+}
+
 .f21 {
   font-size: 2.1em !important;
+}
+
+.f25 {
+  font-size: 2.5em !important;
 }
 
 .f28 {
