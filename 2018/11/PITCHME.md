@@ -2,9 +2,9 @@
 
 @title[Title Screen]
 
-# Ruby on Rails
-# Oceania
-# 13 November 2018
+# @color[#575657](Ruby on Rails)
+# @color[#575657](Oceania)
+# @color[#FE7F76](13 November 2018)
 
 Note:
 
