@@ -2,8 +2,7 @@
 
 @title[Title Screen]
 
-# @color[#575657](Ruby on Rails)
-# @color[#575657](Oceania)
+# @color[#575657](Ruby on Rails<br />Oceania)
 # @color[#FE7F76](13 November 2018)
 
 Note:
