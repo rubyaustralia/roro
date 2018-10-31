@@ -192,13 +192,16 @@ Note:
 - Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio.
 - Don't forget to mention rorosyd to tie the night altogether. 
 
----
+---?color=#EDDEDB
+@title[Who's New? Say Hello!]
 
-# **Who's New?**
-# Say **Hello!**
+# @css[f135 grey uppercase work-sans](Who's New?)
+# @css[capitalize light-pink](Say Hello! @fa[hand-spock-o])
 
 Note:
-So if you're new to Roro can you please put up your hand, don't worry we're not going to make you stand up or say anything.  Everyone have a look around at any new people standing near you with their hands up. We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
+- So if you're new to Roro can you please put up your hand, don't worry we're not going to make you stand up or say anything.
+- Everyone have a look around at any new people standing near you with their hands up.
+- We're going to have a 5 minute break, so please welcome them, and we'll kick off the talks.
 
 ---
 
