@@ -8,8 +8,20 @@
   font-size: 1.15em !important;
 }
 
+.f125 {
+  font-size: 1.25em !important;
+}
+
 .f15 {
   font-size: 1.5em !important;
+}
+
+.f2 {
+  font-size: 2.0em !important;
+}
+
+.f25 {
+  font-size: 2.5em !important;
 }
 
 .f3 {
@@ -22,6 +34,10 @@
 
 .grey {
   color: #575657;
+}
+
+.lh-1 {
+  line-height: 1 !important;
 }
 
 .light-pink {

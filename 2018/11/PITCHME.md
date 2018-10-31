@@ -44,17 +44,23 @@ Note:
 - Once you've finished your food and drinks, please be sure to put your plates in the bins provided.
 - Bottles can go in the green bin with the black liner and general rubbish in the smaller bins. 
 
----
+---?color=#EDDEDB
+@title[Code of Conduct]
 
-# **Code Of Conduct**
-## **`ruby.org.au/code-of-conduct`**
-## **`ruby.org.au/committee-members`**
-## **`conduct@ruby.org.au`**
+@snap[north]
+  @css[f25 lh-1 light-pink uppercase work-sans](Code of Conduct)
+@snapend
+<br />
+@ul[f115 grey](false)
+- @css[grey work-sans](**`ruby.org.au/code-of-conduct`**)
+- @css[grey work-sans](**`ruby.org.au/committee-members`**)
+- @css[grey work-sans](**`conduct@ruby.org.au`**)
+@ulend
 
 Note:
-If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.<br />
-This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.<br />
-If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.<br />
+- If this is your first RORO, or if you were previously unaware, Ruby Australia events are run under a code of conduct.
+- This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.
+- If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.
 
 ---
 
