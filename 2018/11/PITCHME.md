@@ -62,16 +62,16 @@ Note:
 - This is the link where you can find it and have a read, but in summary we want this meetup to provide a friendly and welcoming environment for everyone who attends, and harassment of any kind is not tolerated.
 - If you have any issues you want to raise about anything that has happened at a RORO, you can talk to any of the organisers who are Paul and Rob, or you can go straight to a Ruby Australia committee member if you don't think you can reach out to a RORO organiser.
 
----
+---?color=#EDDEDB
+@title[Venue Sponsor]
 
-# **Thanks to our Sponsors**
+## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
 
-<br />
-
-![inline](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
+![](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
 
 Note:
-RORO has many sponsors, without which these meetups would not be possible, so again a big thanks to Airtasker who are an online and mobile marketplace supporting the future of work. They kindly provide both the venue and drinks tonight.<br />
+- RORO has many sponsors, without which these meetups would not be possible
+- so again a big thanks to Airtasker who are an online and mobile marketplace supporting the future of work. They kindly provide both the venue and drinks tonight.
 
 ---
 

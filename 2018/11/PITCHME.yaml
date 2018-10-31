@@ -1,6 +1,8 @@
+# NOTE: background-color is only used when an image does not cover the whole
+# screen and a colour is needed to fill the empty space
 background-color: "#EDDEDB"
 footnote: "@rorosyd @rubyaustralia"
-layout : center
+# layout : center
 logo: https://www.dropbox.com/s/hqxsppcuvul76g2/rorosyd-logo.png?dl=1
 logo-position: top-left
 slide-number: true
