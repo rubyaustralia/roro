@@ -2,12 +2,9 @@
 
 @title[Title Screen]
 
-@snap[midpoint]
-Ruby on Rails Oceania
-@snapend
-@snap[south]
-**13 November 2018**
-@snapend
+@size[2.0em](Ruby on Rails)
+@size[3.0em](Oceania)
+@size[1.0em](13 November 2018)
 
 Note:
 
