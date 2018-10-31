@@ -2,9 +2,9 @@
 
 @title[Title Screen]
 
-@size[2.0em](Ruby on Rails)
-@size[3.0em](Oceania)
-@size[1.0em](13 November 2018)
+# Ruby on Rails
+# Oceania
+# 13 November 2018
 
 Note:
 
