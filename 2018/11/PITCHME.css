@@ -1,3 +1,5 @@
+@import("https://fonts.google.com/?thickness=9&selection.family=Work+Sans:900");
+
 /* Don't put borders around images cause they don't look so good around
  * sponsor images.
  */
@@ -8,6 +10,7 @@
 
 .meetup-name {
   color: #575657;
+  font-family: "Work Sans", sans-serif;
   font-size: 1.2em !important;
 }
 
