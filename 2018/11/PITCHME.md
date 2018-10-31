@@ -1,9 +1,9 @@
 ---?color=#EDDEDB
 
-@title[Title Screen]
+@title[Meetup Title Screen]
 
-# @css[headline](Ruby on Rails Oceania)
-## @color[#FE7F76](13 November 2018)
+# @css[meetup-name](Ruby on Rails Oceania)
+# @css[meetup-date](13 November 2018)
 
 Note:
 - Welcome to Sydney RORO

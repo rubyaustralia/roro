@@ -6,7 +6,11 @@
   box-shadow: none;
 }
 
-.headline {
+.meetup-name {
   color: #575657;
   font-size: 1.2em !important;
+}
+
+.meetup-date {
+  color: #FE7F76;
 }
