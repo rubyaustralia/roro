@@ -141,9 +141,10 @@ Note:
 Note:
 Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
 
----
+---?color=#EDDEDB
+@title[Talks]
 
-# **TALKS**
+# @css[f28 light-pink uppercase work-sans](Talks)
 
 Note:
 The first of our full length talks tonight comes from...
