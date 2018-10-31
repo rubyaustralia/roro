@@ -2,8 +2,12 @@
 
 @title[Meetup Title Screen]
 
-# @css[meetup-name](Ruby on Rails Oceania)
-## @css[meetup-date](13 November 2018)
+@snap[north meetup-name]
+Ruby on Rails Oceania
+@snapend
+@snap[south meetup-date]
+13 November 2018
+@snapend
 
 Note:
 - Welcome to Sydney RORO

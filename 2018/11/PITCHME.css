@@ -11,10 +11,11 @@
 .meetup-name {
   color: #575657;
   font-family: "Work Sans", sans-serif !important;
-  font-size: 1.1em !important;
+  font-size: 3.0em !important;
 }
 
 .meetup-date {
   color: #FE7F76;
+  font-size: 2.5em !important;
   text-transform: capitalize;
 }
