@@ -4,8 +4,16 @@
   text-transform: capitalize;
 }
 
-.f1 {
+.f115 {
   font-size: 1.15em !important;
+}
+
+.f15 {
+  font-size: 1.5em !important;
+}
+
+.f35 {
+  font-size: 4.0em !important;
 }
 
 .grey {
@@ -22,6 +30,10 @@
 .reveal section img {
   border: 0;
   box-shadow: none;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .work-sans {
