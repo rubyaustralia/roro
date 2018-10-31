@@ -1,7 +1,9 @@
+---?color=#EDDEDB
+
 @title[Title Screen]
 
 @snap[midpoint]
-**Ruby on Rails Oceania**
+Ruby on Rails Oceania
 @snapend
 @snap[south]
 **13 November 2018**
