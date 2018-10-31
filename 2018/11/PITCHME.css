@@ -16,12 +16,12 @@
   font-size: 1.5em !important;
 }
 
-.f2 {
-  font-size: 2.0em !important;
+.f14 {
+  font-size: 1.4em !important;
 }
 
-.f25 {
-  font-size: 2.5em !important;
+.f21 {
+  font-size: 2.1em !important;
 }
 
 .f3 {
@@ -36,8 +36,12 @@
   color: #575657;
 }
 
-.lh-1 {
-  line-height: 1 !important;
+.h-75 {
+  height: 75%;
+}
+
+.lh-05 {
+  line-height: 0.5 !important;
 }
 
 .light-pink {
@@ -52,7 +56,20 @@
   font-family: "Work Sans", sans-serif !important;
 }
 
+.w-90 {
+  width: 90%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
 /* Theme overrides */
+
+/* .reveal .slides { */
+/*   /1* current default is 960px, which is quite constraining *1/ */
+/*   width: 1280px !important; */
+/* } */
 
 /* Don't put borders around images cause they don't look so good around
  * sponsor images.

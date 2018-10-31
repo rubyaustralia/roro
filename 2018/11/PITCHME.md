@@ -1,7 +1,7 @@
 ---?color=#EDDEDB
 @title[Meetup Title Screen]
 
-# @css[f115 grey work-sans](Ruby on Rails Oceania)
+# @css[f115 grey lh-05 work-sans](Ruby on Rails Oceania)
 ## @css[capitalize light-pink](13 November 2018)
 
 Note:
@@ -35,7 +35,7 @@ Note:
 @ul[f15 grey](false)
 - @css[grey work-sans](Bathrooms)
 - @css[grey work-sans](Hot food)
-- @css[grey work-sans](Glass Bottles)
+- @css[grey work-sans w-100](Glass Bottles)
 @ulend
 
 Note:
@@ -47,10 +47,9 @@ Note:
 ---?color=#EDDEDB
 @title[Code of Conduct]
 
-@snap[north]
-  @css[f25 lh-1 light-pink uppercase work-sans](Code of Conduct)
+@snap[north w-90]
+  @css[f21 lh-1 light-pink uppercase work-sans](Code of Conduct)
 @snapend
-<br />
 @ul[f115 grey](false)
 - @css[grey work-sans](**`ruby.org.au/code-of-conduct`**)
 - @css[grey work-sans](**`ruby.org.au/committee-members`**)
@@ -65,7 +64,9 @@ Note:
 ---?color=#EDDEDB
 @title[Venue Sponsor]
 
-## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
 ![](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
 
@@ -73,50 +74,55 @@ Note:
 - RORO has many sponsors, without which these meetups would not be possible
 - so again a big thanks to Airtasker who are an online and mobile marketplace supporting the future of work. They kindly provide both the venue and drinks tonight.
 
----
+---?color=#EDDEDB
+@title[Ruby Australia Sponsor 1]
 
-# **Thanks to our Sponsors**
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
-![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
+@snap[south]
+![](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
+@snapend
 
 Note:
-Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.<br />
+- Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.
 That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
 
----
+---?color=#EDDEDB
+@title[Ruby Australia Sponsor 2]
 
-# **Thanks to our Sponsors**
-
-<br />
+## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
 
 ![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 
 Note:
-Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
+- Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
----
+---?color=#EDDEDB
+@title[Ruby Australia Sponsor 3]
 
-# **Thanks to our Sponsors**
-
-<br />
+## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
 
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 Note:
-Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.<br />
+- Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.
 
----
+---?color=#EDDEDB
+@title[Ruby Australia Sponsor 4]
 
-# **Thanks to our Sponsors**
+## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
 
 ![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 
 Note:
-Culture Amp, providers of Company Culture Analytics
+- Culture Amp, providers of Company Culture Analytics
 
----
+---?color=#EDDEDB
+@title[Ruby Australia Sponsor 5]
 
-# **Thanks to our Sponsors**
+## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
 
 ![inline](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
 
@@ -124,7 +130,6 @@ Note:
 Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
 
 ---
-
 
 # **TALKS**
 
