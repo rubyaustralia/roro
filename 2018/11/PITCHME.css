@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:900");
 
+.b-code > code {
+  font-weight: bold;
+}
+
 .capitalize {
   text-transform: capitalize;
 }
@@ -62,6 +66,10 @@
 
 .work-sans {
   font-family: "Work Sans", sans-serif !important;
+}
+
+.w-20 {
+  width: 20%;
 }
 
 .w-90 {

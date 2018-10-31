@@ -175,43 +175,22 @@ The first of our full length talks tonight comes from...
 ![](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
 @snapend
 
----
+---?color=#EDDEDB
+@title[Tonight's Twitter Handles]
 
-![left](https://www.dropbox.com/s/6g0inq1rt6yjhhy/phil-nash.jpeg?dl=1)
+@snap[north w-20]
+![](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
+@snapend
 
-# **Fantastic**
-# **passwords**
-# **and where to find them**
-# **Phil Nash**
-# `@philnash`
-
----
-
-![right](https://www.dropbox.com/s/2qugiv54q6wez3n/kryzsztof-kotlarek.jpg?dl=1)
-
-# **A Developer's**
-# **Guide to**
-# **Ergonomics**
-# **Krzysztof**
-# **Kotlarek**
-
----
-
-![left](https://www.dropbox.com/s/0ina45leq7d8at4/hamish-lees.jpg?dl=1)
-
-# **Exercism:**
-# **Sum of**
-# **Multiples**
-# **Hamish Lees**
-
----
-
-![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# `@iamryanyu` `@philnash`
-# `@rorosyd`
+@snap[midpoint w-90]
+@css[b-code f14 light-pink uppercase work-sans](`@iamryanyu` `@philnash`)
+@css[b-code f14 light-pink uppercase work-sans](`@rorosyd`)
+@snapend
 
 Note:
-If you're twitter inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night altogether. 
+- If you're twitter inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it.
+- Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio.
+- Don't forget to mention rorosyd to tie the night altogether. 
 
 ---
 
