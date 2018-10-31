@@ -2,10 +2,12 @@
 @title[Meetup Title Screen]
 
 @snap[north]
-  @css[f115 grey uppercase work-sans](Ruby on Rails)
-  @css[f115 grey uppercase work-sans](Oceania)
+  @css[f35 grey uppercase work-sans](Ruby on Rails)
+  @css[f35 grey uppercase work-sans](Oceania)
 @snapend
-## @css[capitalize light-pink](13 November 2018)
+@snap[south]
+  @css[f35 capitalize light-pink](13 November 2018)
+@snapend
 
 Note:
 - Welcome to Sydney RORO
