@@ -8,5 +8,5 @@
 
 .headline {
   color: #575657;
-  font-size: 7em;
+  font-size: 7em !important;
 }
