@@ -12,9 +12,8 @@
   font-size: 1.5em !important;
 }
 
-.f2 {
-  font-size: 2.5em !important;
-  line-height: normal;
+.f3 {
+  font-size: 3.0em !important;
 }
 
 .f4 {
@@ -29,18 +28,20 @@
   color: #FE7F76;
 }
 
-/* Don't put borders around images cause they don't look so good around
- * sponsor images.
- */
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-}
-
 .uppercase {
   text-transform: uppercase;
 }
 
 .work-sans {
   font-family: "Work Sans", sans-serif !important;
+}
+
+/* Theme overrides */
+
+/* Don't put borders around images cause they don't look so good around
+ * sponsor images.
+ */
+.reveal section img {
+  border: 0;
+  box-shadow: none;
 }

@@ -1,13 +1,8 @@
 ---?color=#EDDEDB
 @title[Meetup Title Screen]
 
-@snap[north]
-  @css[f2 grey uppercase work-sans](Ruby On Rails)
-  @css[f2 grey uppercase work-sans](Oceania)
-@snapend
-@snap[south]
-  @css[f115 capitalize light-pink](13 November 2018)
-@snapend
+# @css[f115 grey work-sans](Ruby on Rails Oceania)
+## @css[capitalize light-pink](13 November 2018)
 
 Note:
 - Welcome to Sydney RORO
@@ -30,21 +25,26 @@ Note:
   events, tips, tricks and jobs opportunities.
 - Then, it's off to the pub or gelato. 
 
----
+---?color=#EDDEDB
+@title[Housekeeping]
 
-# **Housekeeping**
-## **- Bathrooms**
-## **- Hot food**
-## **- Glass bottles**
+@snap[north]
+  @css[f3 light-pink uppercase work-sans](Housekeeping)
+@snapend
+
+@ul[f15 grey](false)
+- @css[grey work-sans](Bathrooms)
+- @css[grey work-sans](Hot food)
+- @css[grey work-sans](Glass Bottles)
+@ulend
 
 Note:
 - Location of bathrooms
 - Feel free to take any leftover food home with you
-- Once you've finished your food and drinks, please be sure to put your plates in the bins provided out the front.
+- Once you've finished your food and drinks, please be sure to put your plates in the bins provided.
 - Bottles can go in the green bin with the black liner and general rubbish in the smaller bins. 
 
 ---
-
 
 # **Code Of Conduct**
 ## **`ruby.org.au/code-of-conduct`**
