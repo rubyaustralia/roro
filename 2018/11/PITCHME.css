@@ -1,5 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:900");
 
+.capitalize {
+  text-transform: capitalize;
+}
+
+.f1 {
+  font-size: 1.15em !important;
+}
+
+.grey {
+  color: #575657;
+}
+
+.light-pink {
+  color: #FE7F76;
+}
+
 /* Don't put borders around images cause they don't look so good around
  * sponsor images.
  */
@@ -8,22 +24,6 @@
   box-shadow: none;
 }
 
-.grey {
-  color: #575657;
-}
-
-.f1 {
-  font-size: 1.15em !important;
-}
-
-.light-pink {
-  color: #FE7F76;
-}
-
 .work-sans {
   font-family: "Work Sans", sans-serif !important;
-}
-
-.capitalize {
-  text-transform: capitalize;
 }

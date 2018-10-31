@@ -2,8 +2,8 @@
 
 @title[Meetup Title Screen]
 
-# @css[work-sans grey f1](Ruby on Rails Oceania)
-## @css[light-pink capitalize](13 November 2018)
+# @css[f1 grey work-sans](Ruby on Rails Oceania)
+## @css[capitalize light-pink](13 November 2018)
 
 Note:
 - Welcome to Sydney RORO
@@ -12,18 +12,20 @@ Note:
 
 @title[Tonight]
 
-# **Tonight**
-## **- Talks**
-## **- Events / Tips / Jobs**
-## **- Pub / Gelato**
+# @css[f1 light-pink work-sans](Tonight)
+
+@ul[grey](false)
+- @css[grey work-sans](Talks)
+- @css[grey work-sans](Events / Tips / Jobs)
+- @css[grey work-sans](Pub / Gelato)
+@ulend
 
 Note:
-
-- Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.
+- Again tonight we have a great lineup of speakers, we'll cover some upcoming
+  events, tips, tricks and jobs opportunities.
 - Then, it's off to the pub or gelato. 
 
 ---
-
 
 # **Housekeeping**
 ## **- Bathrooms**
