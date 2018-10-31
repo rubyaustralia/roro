@@ -8,9 +8,15 @@
   box-shadow: none;
 }
 
-.meetup-name {
+.theme-grey {
   color: #575657;
+}
+
+.work-sans {
   font-family: "Work Sans", sans-serif !important;
+}
+
+.theme-h1 {
   font-size: 1.1em !important;
 }
 
