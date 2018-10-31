@@ -2,12 +2,13 @@
 
 @title[Title Screen]
 
+@snap[midpoint]
 # @css[headline](Ruby on Rails Oceania)
 # @color[#FE7F76](13 November 2018)
+@snapend
 
 Note:
-
-Welcome to Sydney RORO
+- Welcome to Sydney RORO
 
 ---
 
