@@ -2,11 +2,11 @@
 @title[Meetup Title Screen]
 
 @snap[north]
-  @css[f35 grey uppercase work-sans](Ruby on Rails)
-  @css[f35 grey uppercase work-sans](Oceania)
+  @css[f2 grey uppercase work-sans](Ruby On Rails)
+  @css[f2 grey uppercase work-sans](Oceania)
 @snapend
 @snap[south]
-  @css[f35 capitalize light-pink](13 November 2018)
+  @css[f115 capitalize light-pink](13 November 2018)
 @snapend
 
 Note:
@@ -16,7 +16,7 @@ Note:
 @title[Tonight]
 
 @snap[north]
-  @css[f35 light-pink uppercase work-sans](Tonight)
+  @css[f4 light-pink uppercase work-sans](Tonight)
 @snapend
 
 @ul[f15 grey](false)
