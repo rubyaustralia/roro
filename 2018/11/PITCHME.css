@@ -5,3 +5,8 @@
   border: 0;
   box-shadow: none;
 }
+
+.headline {
+  color: #575657;
+  font-size: 7em;
+}
