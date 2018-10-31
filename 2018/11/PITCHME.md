@@ -2,7 +2,7 @@
 
 @title[Title Screen]
 
-# @css[headline](Ruby on Rails<br />Oceania)
+# @css[headline](Ruby on Rails Oceania)
 # @color[#FE7F76](13 November 2018)
 
 Note:
