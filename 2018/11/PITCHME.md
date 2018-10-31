@@ -92,9 +92,11 @@ That food budget is covered by Ruby Australia, and hence their sponsors are our 
 ---?color=#EDDEDB
 @title[Ruby Australia Sponsor 2]
 
-## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
-![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
+![](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 
 Note:
 - Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
@@ -102,9 +104,11 @@ Note:
 ---?color=#EDDEDB
 @title[Ruby Australia Sponsor 3]
 
-## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
-![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
+![](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 Note:
 - Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.
@@ -112,9 +116,11 @@ Note:
 ---?color=#EDDEDB
 @title[Ruby Australia Sponsor 4]
 
-## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
-![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
+![](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 
 Note:
 - Culture Amp, providers of Company Culture Analytics
@@ -122,9 +128,11 @@ Note:
 ---?color=#EDDEDB
 @title[Ruby Australia Sponsor 5]
 
-## @css[light-pink uppercase work-sans](Thanks to our Sponsors)
+@snap[north w-90]
+@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
+@snapend
 
-![inline](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
+![](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
 
 Note:
 Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
