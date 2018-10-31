@@ -120,7 +120,9 @@ Note:
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
 @snapend
 
+@snap[midpoint w-100 img-w-100]
 ![](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
+@snapend
 
 Note:
 - Culture Amp, providers of Company Culture Analytics
@@ -132,7 +134,9 @@ Note:
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
 @snapend
 
+@snap[midpoint w-100 img-w-100]
 ![](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
+@snapend
 
 Note:
 Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
