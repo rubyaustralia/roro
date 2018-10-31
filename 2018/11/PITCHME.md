@@ -1,7 +1,9 @@
 ---?color=#EDDEDB
 @title[Meetup Title Screen]
 
-# @css[f115 grey work-sans](Ruby on Rails Oceania)
+@snap[north]
+  @css[f35 grey uppercase work-sans](Ruby on Rails<br />Oceania)
+@snapend
 ## @css[capitalize light-pink](13 November 2018)
 
 Note:
