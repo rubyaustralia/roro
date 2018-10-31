@@ -2,7 +2,8 @@
 @title[Meetup Title Screen]
 
 @snap[north]
-  @css[f35 grey uppercase work-sans](Ruby on Rails<br />Oceania)
+  @css[f115 grey uppercase work-sans](Ruby on Rails)
+  @css[f115 grey uppercase work-sans](Oceania)
 @snapend
 ## @css[capitalize light-pink](13 November 2018)
 
