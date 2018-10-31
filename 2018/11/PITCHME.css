@@ -8,19 +8,22 @@
   box-shadow: none;
 }
 
-.theme-grey {
+.grey {
   color: #575657;
+}
+
+.f1 {
+  font-size: 1.15em !important;
+}
+
+.light-pink {
+  color: #FE7F76;
 }
 
 .work-sans {
   font-family: "Work Sans", sans-serif !important;
 }
 
-.theme-h1 {
-  font-size: 1.1em !important;
-}
-
-.meetup-date {
-  color: #FE7F76;
+.capitalize {
   text-transform: capitalize;
 }

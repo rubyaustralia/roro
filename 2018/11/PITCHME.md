@@ -2,8 +2,8 @@
 
 @title[Meetup Title Screen]
 
-# @css[work-sans theme-grey theme-h1](Ruby on Rails Oceania)
-## @css[meetup-date](13 November 2018)
+# @css[work-sans grey f1](Ruby on Rails Oceania)
+## @css[light-pink capitalize](13 November 2018)
 
 Note:
 - Welcome to Sydney RORO
