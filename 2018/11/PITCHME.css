@@ -8,8 +8,12 @@
   text-transform: capitalize;
 }
 
-.f06-code > code {
+.f06-code code {
   font-size: 0.6em !important;
+}
+
+.f08-code code {
+  font-size: 0.8em !important;
 }
 
 .f115 {
@@ -32,6 +36,10 @@
   font-size: 1.4em !important;
 }
 
+.f18 {
+  font-size: 1.8em !important;
+}
+
 .f2 {
   font-size: 2.0em !important;
 }
@@ -50,6 +58,10 @@
 
 .f3 {
   font-size: 3.0em !important;
+}
+
+.f32 {
+  font-size: 3.2em !important;
 }
 
 .f4 {
@@ -74,6 +86,10 @@
 
 .light-pink {
   color: #FE7F76;
+}
+
+.list {
+  list-style-type: none !important;
 }
 
 .uppercase {

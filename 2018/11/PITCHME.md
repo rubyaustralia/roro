@@ -11,7 +11,7 @@ Note:
 @title[Tonight]
 
 @snap[north]
-  @css[f4 light-pink uppercase work-sans](Tonight)
+@css[f4 light-pink uppercase work-sans](Tonight)
 @snapend
 
 @ul[f15 grey](false)
@@ -29,7 +29,7 @@ Note:
 @title[Housekeeping]
 
 @snap[north]
-  @css[f3 light-pink uppercase work-sans](Housekeeping)
+@css[f3 light-pink uppercase work-sans](Housekeeping)
 @snapend
 
 @ul[f15 grey](false)
@@ -48,8 +48,9 @@ Note:
 @title[Code of Conduct]
 
 @snap[north w-90]
-  @css[f21 lh-1 light-pink uppercase work-sans](Code of Conduct)
+@css[f21 lh-1 light-pink uppercase work-sans](Code of Conduct)
 @snapend
+
 @ul[f115 grey](false)
 - @css[grey work-sans](**`ruby.org.au/code-of-conduct`**)
 - @css[grey work-sans](**`ruby.org.au/committee-members`**)
@@ -183,8 +184,11 @@ The first of our full length talks tonight comes from...
 @snapend
 
 @snap[midpoint w-90]
-@css[b-code f14 light-pink uppercase work-sans](`@iamryanyu` `@philnash`)
-@css[b-code f14 light-pink uppercase work-sans](`@rorosyd`)
+@ul[f115 grey list](false)
+- @css[b-code f14 light-pink work-sans](`@iamryanyu`)
+- @css[b-code f14 light-pink work-sans](`@philnash`)
+- @css[b-code f14 grey work-sans](`@rorosyd`)
+@ulend
 @snapend
 
 Note:
@@ -219,40 +223,50 @@ Note:
 - To complete it head over to exercism and download it using the command through the CLI.
 - And if you'd like present your solution next month please let me know and submit an issue to the RoRo GitHub issues page.
 
----
+---?color=#EDDEDB
+@title[Thank you!]
 
-# **Thank you!**
-
-Note:
-Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
-
----
-
-# **We are always looking for**
-# SPEAKERS!
+@snap[midpoint w-90]
+@css[f32 light-pink uppercase work-sans](Thank You!)
+@snapend
 
 Note:
-We are looking for speakers!
-- We want *you* to present something at RORO because presenting at RORO is a win/win situation. You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.<br />
-- It's great public speaking practice in front of an audience that wants you to succeed because we're all here to learn cool new things, and...<br />
+- Thanks so much to all the speakers tonight, and if anyone is interested in giving a talk at a future RORO...
+
+---?color=#EDDEDB
+@title[Looking for Speakers]
+
+@snap[midpoint w-90]
+@css[f25 grey uppercase work-sans](We are always looking for<br />)
+@css[f32 capitalize light-pink uppercase work-sans](Speakers!)
+@snapend
+
+Note:
+- We are looking for speakers!
+- We want *you* to present something at RORO because presenting at RORO is a win/win situation.
+- You, the speaker, practice a skill and learn new things, and we, the audience, leverage your knowledge to learn new things that can potentially help us.
+- It's great public speaking practice in front of an audience that wants you to succeed because we're all here to learn cool new things, and...
 - Any talk you present here is great fodder for your resume and portfolio, and just by virtue of presenting, everyone will think you're an expert, which will surely lead to at least an endorsement on LinkedIn<br />
 - So if you've got something to say, or to show and tell, that you think the Ruby community would love to hear about...
 
----
+---?color=#EDDEDB
+@title[Where do I sign up?]
 
-# **Where do I sign up?**
+@snap[north w-90]
+@css[f18 light-pink uppercase work-sans](Where do I sign up?)
+@snapend
 
-- `github.com/rails-oceania/roro/issues`
-- `@paulfioravanti`
-- `@robcornish`
-- `rorosydmeetup@gmail.com`
+@ul[f115 grey](false)
+- @css[f08-code grey work-sans](**`github.com/rails-oceania/roro/issues`**)
+- @css[grey work-sans](**`@paulfioravanti`**)
+- @css[grey work-sans](**`@robcornish`**)
+- @css[grey work-sans](**`rorosydmeetup@gmail.com`**)
+@ulend
 
 Note:
-- Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.<br />
+- Open up an issue at the RORO Github repo and tell us about the talk you want to submit, or feel free to message any of the organisers.
 - The repo has presentation requests added, so check them out if you're looking for an idea to do a talk about.
-- Remember, It is *good* to throw yourself out of your comfort zone and try
-something different, and who knows, you might even end up liking it and wanting
-to do more.<br />
+- Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more.
 - Also, if you need any help creating or critiquing your presentation or want someone to do a dry run, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
 ---
