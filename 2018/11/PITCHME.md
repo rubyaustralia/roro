@@ -269,80 +269,90 @@ Note:
 - Remember, It is *good* to throw yourself out of your comfort zone and try something different, and who knows, you might even end up liking it and wanting to do more.
 - Also, if you need any help creating or critiquing your presentation or want someone to do a dry run, then please feel free to approach any of the RORO organisers and we're happy to help you in any way we can to make you look awesome up on stage.
 
----
+---?color=#EDDEDB
+@title[News]
 
-# **NEWS**
+# @css[f28 light-pink uppercase work-sans](News)
 
----
+---?color=#EDDEDB
+@title[Ruby 2.5.3 Released]
 
-# **Action Text**
-# **for** **_Rails 6_**
+@snap[midpoint w-90 lh-1]
+@css[f37 light-pink uppercase work-sans](Ruby 2.5.3<br />)
+@css[f39 grey uppercase work-sans](Released<br />)
+@css[b-code grey work-sans](`https://www.ruby-lang.org/en/`<br />`news/2018/10/18/ruby-2-5-3-released/`)
+@snapend
 
-- https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/
+---?color=#EDDEDB
+@title[Hanami 1.3 Released]
 
----
+@snap[midpoint w-90 lh-1]
+@css[f35 light-pink uppercase work-sans](Hanami 1.3<br />)
+@css[f39 grey uppercase work-sans](Released<br />)
+@css[b-code grey work-sans](`http://hanamirb.org/blog/2018/10/24/`<br />`announcing-hanami-130.html`)
+@snapend
 
-# **Name of Person**
+---?color=#EDDEDB
+@title[Hyperstack]
 
-- `https://github.com/basecamp/name_of_person`
+![](https://www.dropbox.com/s/lxl76zyj9rsf90i/Hyperstack.png?dl=1)
 
-Note:
-Basecamp has extracted a gem for common operations dealing with basic use cases around human names in English-speaking applications
+@css[b-code f15 grey work-sans](`https://hyperstack.org/`)
 
----
+---?color=#EDDEDB
+@title[Upcase is Free]
 
-# **Github upgrades**
-# **to** **Rails 5.2**
+@snap[midpoint w-90 lh-1]
+@css[f25 grey uppercase work-sans](Upcase is now<br />)
+@css[f39 light-pink uppercase work-sans](Free!<br />)
+@css[b-code grey work-sans](`https://robots.thoughtbot.com/`<br />`announcing-upcase-is-free`)
+@snapend
 
-- https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/
+---?color=#EDDEDB
+@title[Upcoming Events]
 
-Note:
-Following on from Donna's talk last month about how easy it is to upgrade to Rails 5.1, GitHub have blogged about their experience. You can read more by following this link.
+@snap[midpoint w-90 lh-1]
+@css[f37 light-pink uppercase work-sans](Upcoming)
+@css[f39 grey uppercase work-sans](Events)
+@snapend
 
----
+---?color=#EDDEDB
+@title[Ruby Conf 2019]
 
-# **Upcoming**
-# **EVENTS**
-
----
 # **Ruby Conf 2019**
 # `ti.to/ruby-australia/rubyconf-au-2019/`
 # `rubyconf.org.au/2019`
 
 Note:
-Ruby conf 2019 earlybird tickets may have now gone however if you have something you'd like to share with the community presentation submissions are open till the 15th of October. For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
+- Ruby conf 2019 earlybird tickets are gone, and the CFP ended on October 15, but standard tickets are still available.
+- For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
 
----
-
-# **Ruby Conf 2018 Videos**
-![inline](https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
-
-Note:
-While were talking about ruby conf, some of the videos from this years conference are online including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
-
----
+---?color=#EDDEDB
+@title[Rails Camp Hobart]
 
 # **Rails Camp**
 # **HOBART**
 ## November 23 to 26
-## Tickets on sale NOW!
+## Tickets now SOLD OUT!
 *`https://railscamp24.wordpress.com/`*
 
 Note:
-Rail camp is on again in November down in Hobart. Tickets have been on sale for a month now, is anyone going? ...
+- Rails camp is on again in November down in Hobart. Tickets are sold out, but is anyone here going? ...
 
----
+---?color=#EDDEDB
+@title[Development Hub]
 
 # **Development Hub**
-# **October 18 2018** at
+# **November 15 2018** at
 # **Airtasker**
 # **Sign up at** `meetup.com`
 
 Note:
-- Ruby on Rails consultancy reinteractive is holding Development Hub on October 18 right here at Airtasker.
+- Ruby on Rails consultancy reinteractive is holding Development Hub on November 15 right here at Airtasker.
 - Talk about what it is and who it's aimed at.
 
----
+---?color=#EDDEDB
+@title[YOW! Conference]
 
 # YOW! Conference
 
@@ -353,7 +363,8 @@ Note:
 
 Note:
 
----
+---?color=#EDDEDB
+@title[Tips and Tricks]
 
 # **TIPS and TRICKS**
 # **Stuff that makes your life**
@@ -362,7 +373,8 @@ Note:
 Note:
 [Anything speakers want to add...?]
 
----
+---?color=#EDDEDB
+@title[Jobs]
 
 # **JOBS**
 # **Offering work?**
@@ -370,30 +382,35 @@ Note:
 Note:
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
 
----
+---?color=#EDDEDB
+@title[Slack/Forum Info]
 
 # **Slack/Forum**
 ## *- `ruby-au-join.herokuapp.com`*
 ## *- `forum.ruby.org.au`*
 
----
+---?color=#EDDEDB
+@title[ROROSyd Online Info]
 
 # **Online**
 ## **Twitter: `@rorosyd`, `@rubyaustralia`**
 ## **Web: `ruby.org.au`**
 ## **Google group: `rails-oceania`**
 
----
+---?color=#EDDEDB
+@title[Next Meetup]
 
 # **Next Meetup**
 # **11 December 2018**
 # **(2nd Tuesday of the month)**
 
----
+---?color=#EDDEDB
+@title[And now...]
 
 # **And Now...**
 # **- Red Oak Pub (up the street)**
 # **- Gelato Rivareno (Barangaroo)**
 
 Note:
-Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
+- Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins.
+- Thanks for coming along and we hope to see you next month!

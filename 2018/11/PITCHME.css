@@ -64,6 +64,18 @@
   font-size: 3.2em !important;
 }
 
+.f35 {
+  font-size: 3.5em !important;
+}
+
+.f37 {
+  font-size: 3.7em !important;
+}
+
+.f39 {
+  font-size: 3.9em !important;
+}
+
 .f4 {
   font-size: 4.0em !important;
 }
@@ -82,6 +94,10 @@
 
 .lh-05 {
   line-height: 0.5 !important;
+}
+
+.lh-1 {
+  line-height: 1.0 !important;
 }
 
 .light-pink {
