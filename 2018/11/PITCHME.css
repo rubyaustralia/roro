@@ -16,12 +16,20 @@
   font-size: 0.8em !important;
 }
 
+.f14-code code {
+  font-size: 1.4em !important;
+}
+
 .f115 {
   font-size: 1.15em !important;
 }
 
 .f125 {
   font-size: 1.25em !important;
+}
+
+.f13 {
+  font-size: 1.3em !important;
 }
 
 .f135 {
@@ -36,8 +44,16 @@
   font-size: 1.4em !important;
 }
 
+.f17 {
+  font-size: 1.7em !important;
+}
+
 .f18 {
   font-size: 1.8em !important;
+}
+
+.f19 {
+  font-size: 1.9em !important;
 }
 
 .f2 {
@@ -48,12 +64,28 @@
   font-size: 2.1em !important;
 }
 
+.f22 {
+  font-size: 2.2em !important;
+}
+
+.f23 {
+  font-size: 2.3em !important;
+}
+
+.f24 {
+  font-size: 2.4em !important;
+}
+
 .f25 {
   font-size: 2.5em !important;
 }
 
 .f28 {
   font-size: 2.8em !important;
+}
+
+.f29 {
+  font-size: 2.9em !important;
 }
 
 .f3 {
@@ -80,12 +112,20 @@
   font-size: 4.0em !important;
 }
 
+.f65 {
+  font-size: 6.5em !important;
+}
+
 .grey {
   color: #575657;
 }
 
 .h-75 {
   height: 75%;
+}
+
+.img-w-40 > img {
+  width: 40%;
 }
 
 .img-w-100 > img {
@@ -117,6 +157,10 @@
 }
 
 .w-20 {
+  width: 20%;
+}
+
+.w-40 {
   width: 20%;
 }
 
