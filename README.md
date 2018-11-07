@@ -17,8 +17,12 @@ information you need.
 
 ## I want to see the pretty meetup slide decks!
 
-Feel free to clone this repo! The markdown in the slide decks can be used and
-viewed in [Deckset][], or you can simply view the PDF versions of the slides.
+Feel free to clone this repo! Depending on the slide deck (see the `README`
+file in the dated meetup directory for details), the markdown in the slide
+decks can be used and viewed in either:
+
+- [Deckset][]
+- [GitPitch][]
 
 ```sh
 git clone git@github.com:rails-oceania/roro.git
@@ -32,6 +36,7 @@ All RORO events are sponsored by [Ruby Australia][] and are run under its
 
 [code of conduct]: https://ruby.org.au/code-of-conduct
 [Deckset]: https://www.decksetapp.com/
+[GitPitch]: https://gitpitch.com/
 [RORO Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/
 [Ruby Australia]: http://ruby.org.au
 [Ruby Australia logo]: https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=0
