@@ -168,14 +168,40 @@ The first of our full length talks tonight comes from...
 ---?color=#EDDEDB
 @title[Speaker: Aidan Samuel]
 
-@snap[west split-screen-text w-50]
-@css[f1 light-pink uppercase work-sans](Managing concurrent<br />workloads: forks,<br />threads and events<br />)
-@css[f14 capitalize grey work-sans](Aidan Samuel<br />)
+@snap[west img-w-40 w-50]
+![](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
+@snapend
+
+@snap[east split-screen-text w-50]
+@css[f105 light-pink uppercase work-sans](Managing concurrent<br />workloads: forks,<br />threads and events<br />)
+@css[f19 capitalize grey work-sans](Aidan Samuel<br />)
 @css[b-code f14 light-pink uppercase work-sans](`@cyclotron3k`)
 @snapend
 
-@snap[east img-w-40 w-50]
-![](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
+---?color=#EDDEDB
+@title[Speaker: Lachie Cox]
+
+@snap[west split-screen-text w-50]
+@css[f18 light-pink uppercase work-sans](Know Thy App<br />)
+@css[f25 capitalize grey work-sans](Lachie Cox<br />)
+@css[b-code f23 light-pink uppercase work-sans](`@lachiecox`)
+@snapend
+
+@snap[east]
+![](https://www.dropbox.com/s/p5fcegmhllh3ygh/lachie-cox.jpg?dl=1)
+@snapend
+
+---?color=#EDDEDB
+@title[Speaker: Keith Pitty]
+
+@snap[west]
+![](https://www.dropbox.com/s/4rs3k1whaj3u3xy/keith-pitty.jpeg?dl=1)
+@snapend
+
+@snap[east split-screen-text w-50]
+@css[f125 light-pink uppercase work-sans](How not to have<br />future developers<br />curse you<br />)
+@css[f25 capitalize grey work-sans](Keith Pitty<br />)
+@css[b-code f2 light-pink uppercase work-sans](`@keithpitty`)
 @snapend
 
 ---?color=#EDDEDB
@@ -187,21 +213,23 @@ The first of our full length talks tonight comes from...
 
 @snap[east split-screen-text w-50]
 @css[f22 grey uppercase work-sans](Exercism:<br />)
-@css[f14 light-pink uppercase work-sans](Flatten Array<br />)
+@css[f15 light-pink uppercase work-sans](Flatten Array<br />)
 @css[f23 capitalize grey work-sans](Ivan Rahn<br />)
-@css[b-code f14-code light-pink uppercase work-sans](`@ivan_rahn`)
+@css[b-code f2 light-pink uppercase work-sans](`@ivan_rahn`)
 @snapend
 
 ---?color=#EDDEDB
 @title[Tonight's Twitter Handles]
 
-@snap[north w-20]
+@snap[west w-40]
 ![](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 @snapend
 
-@snap[midpoint w-90]
+@snap[east w-90]
 @ul[f115 grey list](false)
 - @css[b-code f14 light-pink work-sans](`@cyclotron3k`)
+- @css[b-code f14 light-pink work-sans](`@lachiecox`)
+- @css[b-code f14 light-pink work-sans](`@keithpitty`)
 - @css[b-code f14 light-pink work-sans](`@ivan_rahn`)
 - @css[b-code f14 grey work-sans](`@rorosyd`)
 @ulend
@@ -264,7 +292,7 @@ Note:
 
 @snap[midpoint w-90]
 @css[f25 grey uppercase work-sans](We are always looking for<br />)
-@css[f32 capitalize light-pink uppercase work-sans](Speakers!)
+@css[f29 capitalize light-pink uppercase work-sans](Speakers! @fa[bullhorn])
 @snapend
 
 Note:
