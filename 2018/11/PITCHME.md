@@ -143,21 +143,6 @@ Note:
 - Culture Amp, providers of Company Culture Analytics
 
 ---?color=#EDDEDB
-@title[Ruby Australia Sponsor: Reinteractive]
-
-@snap[north w-90]
-@css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
-@snapend
-
-@snap[midpoint w-100 img-w-100]
-![](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
-@snapend
-
-Note:
-- Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related
-  events, which we'll talk about later on.
-
----?color=#EDDEDB
 @title[Talks]
 
 # @css[f28 light-pink uppercase work-sans](Talks)
