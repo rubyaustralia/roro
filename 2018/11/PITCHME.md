@@ -261,20 +261,20 @@ Note:
 
 @snap[midpoint w-90]
 @css[f2 grey uppercase work-sans](Next Meetup's Exercism<br />)
-@css[f3 capitalize light-pink work-sans](Panagram<br />)
-@css[b-code f06-code grey](`exercism download --exercise=panagram --track=ruby`)
+@css[f3 capitalize light-pink work-sans](Pangram<br />)
+@css[b-code f06-code grey](`exercism download --exercise=pangram --track=ruby`)
 @snapend
 
 Note:
 - The challenge is to write a write a program to determine if a sentence is a
-  panagram
-- A panagram is a sentence using every letter of the alphabet at least once.
-- The best known English panagram is: The quick brown fox jumps over the lazy
+  pangram
+- A pangram is a sentence using every letter of the alphabet at least once.
+- The best known English pangram is: The quick brown fox jumps over the lazy
   dog.
 - To complete it head over to exercism and download it using the command
   through the CLI.
 - And if you'd like present your solution next month please let us know and
-  submit an issue to the RoRo GitHub issues page.
+  submit an issue to the RORO GitHub issues page.
 
 ---?color=#EDDEDB
 @title[Thank you!]
