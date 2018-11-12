@@ -77,7 +77,7 @@ Note:
 @css[f14 light-pink uppercase work-sans](Thanks to our Sponsors)
 @snapend
 
-![](https://www.dropbox.com/s/imtgwbcrqdmjlsm/airtasker-logo-blue.png?dl=1)
+![](https://ucfe43fb52aaef16c93afcaf7e98.dl.dropboxusercontent.com/cd/0/get/AVW5C0qKkc4WWBAfYnF5go_KVdXdygDoh0ZUH2yC5MYVLpNmah7ZswsBx8DZhlO5m8j_dMUa17xLuBUCOn81RVCkE-LI9thvrvd0h2zTiQJDA3X6i582kRkCL4xHpLHBdLF7lzFWDSajhFLxLOF7Rp4ls8g0KVvi_BU1qgVcLLj52BiN6ilbzUNP17p2tCJTyVg/file?dl=1)
 
 Note:
 - RORO has many sponsors, without which these meetups would not be possible
