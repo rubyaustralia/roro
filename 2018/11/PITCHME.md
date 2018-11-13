@@ -151,19 +151,6 @@ Note:
 The first of our full length talks tonight comes from...
 
 ---?color=#EDDEDB
-@title[Speaker: Aidan Samuel]
-
-@snap[west img-w-40 w-50]
-![](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
-@snapend
-
-@snap[east split-screen-text w-50]
-@css[f105 light-pink uppercase work-sans](Managing concurrent<br />workloads: forks,<br />threads and events<br />)
-@css[f19 capitalize grey work-sans](Aidan Samuel<br />)
-@css[b-code f14 light-pink uppercase work-sans](`@cyclotron3k`)
-@snapend
-
----?color=#EDDEDB
 @title[Speaker: Lachie Cox]
 
 @snap[west split-screen-text w-50]
@@ -177,16 +164,29 @@ The first of our full length talks tonight comes from...
 @snapend
 
 ---?color=#EDDEDB
-@title[Speaker: Keith Pitty]
+@title[Speaker: Aidan Samuel]
 
-@snap[west]
-![](https://www.dropbox.com/s/4rs3k1whaj3u3xy/keith-pitty.jpeg?dl=1)
+@snap[west img-w-40 w-50]
+![](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
 @snapend
 
 @snap[east split-screen-text w-50]
+@css[f105 light-pink uppercase work-sans](Managing concurrent<br />workloads: forks,<br />threads and events<br />)
+@css[f19 capitalize grey work-sans](Aidan Samuel<br />)
+@css[b-code f14 light-pink uppercase work-sans](`@cyclotron3k`)
+@snapend
+
+---?color=#EDDEDB
+@title[Speaker: Keith Pitty]
+
+@snap[west split-screen-text w-50]
 @css[f125 light-pink uppercase work-sans](How not to have<br />future developers<br />curse you<br />)
 @css[f25 capitalize grey work-sans](Keith Pitty<br />)
 @css[b-code f2 light-pink uppercase work-sans](`@keithpitty`)
+@snapend
+
+@snap[east]
+![](https://www.dropbox.com/s/4rs3k1whaj3u3xy/keith-pitty.jpeg?dl=1)
 @snapend
 
 ---?color=#EDDEDB
