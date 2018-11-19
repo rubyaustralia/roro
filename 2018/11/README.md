@@ -25,7 +25,6 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@ivan_rahn]: https://twitter.com/ivan_rahn
 [@keithpitty]: https://twitter.com/keithpitty
 [@lachiecox]: https://twitter.com/lachiecox
-[Dropbox]: https://www.dropbox.com
 [GitPitch]: https://gitpitch.com/
 [GitPitch Badge]: https://gitpitch.com/assets/badge.svg
 [GitPitch Presentation]: https://gitpitch.com/rails-oceania/roro?p=2018/11/
