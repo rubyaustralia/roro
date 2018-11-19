@@ -31,4 +31,3 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [GitPitch Presentation]: https://gitpitch.com/rails-oceania/roro?p=2018/11/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyxpbrb/
-[Remote images not showing in PDF]: https://github.com/gitpitch/gitpitch/issues/224
