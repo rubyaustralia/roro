@@ -21,14 +21,6 @@ This meetup's slide deck was written in a Markdown format designed to work with
 
 [![GitPitch][GitPitch Badge]][GitPitch Presentation]
 
-#### Gotchas
-
-There are currently issues around generating PDFs from presentations that have
-remote images. The issue has been raised in
-[this Github issue on GitPitch's repo][Remote images not showing in PDF], so
-once there is a fix, a PDF version of this presentation can be added to the
-repo.
-
 [@cyclotron3k]: https://twitter.com/cyclotron3k
 [@ivan_rahn]: https://twitter.com/ivan_rahn
 [@keithpitty]: https://twitter.com/keithpitty
