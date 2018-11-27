@@ -7,11 +7,13 @@
 ## Presentations - 15 minutes
 
 - **Introduction to Hanami** - _Daniel Deng_
+- **File Uploading with ActiveStorage in Rails 5.2** - _Hemanth Haridas_ :: [@hhemanth]
 
 ## Lightning Talks - 5 minutes
 
 - **Exercism: Pangram** - _David Armour_ :: [@DavArmour][]
 
 [@DavArmour]: https://twitter.com/DavArmour
+[@hhemanth]: https://twitter.com/hhemanth
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyxqbpb/
