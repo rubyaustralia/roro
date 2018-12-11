@@ -128,7 +128,6 @@ Tonight we some great topics and it's worth mentioning that all out speakers ton
 # [fit] **Intoduction to**
 # [fit] **Hanami**
 # [fit] **_Daniel Deng_**
-# [fit] **`@`**
 
 ---
 
@@ -147,7 +146,7 @@ Tonight we some great topics and it's worth mentioning that all out speakers ton
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/0ina45leq7d8at4/hamish-lees.jpg?dl=1)
+![left](https://www.dropbox.com/s/6j9y6stuxpc2wws/david-armour.jpeg?dl=1)
 
 # [fit] **Exercism:**
 # [fit] **Pangram**
@@ -174,12 +173,12 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_Flatten Array_**
+# [fit] **_Twelve Days_**
 
-### [fit] `exercism download --exercise=flatten-array --track=ruby`
+### [fit] `exercism download --exercise=twelve-days --track=ruby`
 
 ^
-The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure and returns a flattened structure without any nil values. To complete it head over to exercism and download it using the command through the CLI. And if you'd like present your solution next month please let me know and submit an issue to the RoRo GitHub issues page.
+In the spirit of the festive season this months challenge requires you to write a program that outputs the lyrics to the twelve days of christmas. Head to over to the exercism website, check out the code and give it a go.
 
 ---
 
