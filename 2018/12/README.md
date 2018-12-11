@@ -13,7 +13,13 @@
 
 - **Exercism: Pangram** - _David Armour_ :: [@DavArmour][]
 
+### Slide Deck
+
+This meetup's slide deck was written in a Markdown format designed to work with
+[Deckset][].
+
 [@DavArmour]: https://twitter.com/DavArmour
 [@hhemanth]: https://twitter.com/hhemanth
+[Deckset]: https://www.decksetapp.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyxqbpb/
