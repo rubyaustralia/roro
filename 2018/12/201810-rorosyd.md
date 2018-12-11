@@ -116,47 +116,31 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **TALKS**
 
 ^
-The first of our full length talks tonight comes from...
+Tonight we some great topics and it's worth mentioning that all out speakers tonight are presenting for the first time so give them plenty of encouragement.
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/cnwj4ril2yxcu9u/ryan-yu.jpg?dl=1)
+![right](https://www.dropbox.com/s/mpf4mxslve3dpwi/daniel-deng.jpg?dl=1)
 
-# [fit] **Combining the**
-# [fit] **Powers of**
-# [fit] **SEM and BIO for**
-# [fit] **Improving CSS**
-# [fit] **_Ryan Yu_**
-# [fit] **`@iamryanyu`**
+# [fit] **Intoduction to**
+# [fit] **Hanami**
+# [fit] **_Daniel Deng_**
+# [fit] **`@`**
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/6g0inq1rt6yjhhy/phil-nash.jpeg?dl=1)
+![left](https://www.dropbox.com/s/91n23cnkozhf3k2/hemanth-haridas.jpg?dl=1)
 
-# [fit] **Fantastic**
-# [fit] **passwords**
-# [fit] **and where to find them**
-# [fit] **_Phil Nash_**
-# [fit] `@philnash`
-
----
-
-[.hide-footer]
-[.slidenumbers: false]
-
-![right](https://www.dropbox.com/s/2qugiv54q6wez3n/kryzsztof-kotlarek.jpg?dl=1)
-
-# [fit] **A Developer's**
-# [fit] **Guide to**
-# [fit] **Ergonomics**
-# [fit] **_Krzysztof_**
-# [fit] **_Kotlarek_**
+# [fit] **File Uploading with**
+# [fit] **ActiveStorage**
+# [fit] **_Hemanth Haridas_**
+# [fit] `@hhemanth`
 
 ---
 
@@ -166,14 +150,14 @@ The first of our full length talks tonight comes from...
 ![left](https://www.dropbox.com/s/0ina45leq7d8at4/hamish-lees.jpg?dl=1)
 
 # [fit] **Exercism:**
-# [fit] **Sum of**
-# [fit] **Multiples**
-# [fit] **_Hamish Lees_**
+# [fit] **Pangram**
+# [fit] **_Dave Armour_**
+# [fit] `@DavArmour`
 
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@iamryanyu` `@philnash`
+# [fit] `@hhemanth` `@DavArmour`
 # [fit] `@rorosyd`
 
 ^
@@ -239,29 +223,57 @@ to do more.<br />
 
 ---
 
-# [fit] **Action Text**
-# [fit] **for** **_Rails 6_**
+# [fit] **Rails 5.2.2**
+# [fit] **_Released_**
 
-- https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/
+- https://github.com/rails/rails/releases/tag/v5.2.2
+
+^
+Rails 5.2.2 has been released. I was reading through the list and there are plenty of changes to keep you on your toes so take a read when you can.
 
 ---
 
-# [fit] **Name of Person**
+# [fit] **Rails Updates**
+# [fit] **_4.2.11 5.0.7.1 5.1.6.1 5.2.1.1_**
 
-- `https://github.com/basecamp/name_of_person`
+- https://weblog.rubyonrails.org/2018/11/27/Rails-4-2-5-0-5-1-5-2-have-been-released/
 
 ^
-Basecamp has extracted a gem for common operations dealing with basic use cases around human names in English-speaking applications
+Updates to these Rails versions have also been released. They can be found in the usual places according to the post along with the specifics at the GitHub repo. There is one noted security fix for Broken Access Control vulnerability in Active Job that should drive you to update. 
+
 
 ---
 
-# [fit] **Github upgrades**
-# [fit] **to** **_Rails 5.2_**
+# [fit] **AWS Lambda**
+# [fit] **now supports**
+# [fit] **_RUBY_**
 
-- https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/
+- https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/
 
 ^
-Following on from Donna's talk last month about how easy it is to upgrade to Rails 5.1, GitHub have blogged about their experience. You can read more by following this link.
+This is really cool. Prior to now if Ruby was your preferred language you needed to get stuck into Python, Java or several other languages that were not Ruby if you wanted to use AWS lambda. Now you can create serverless functions using AWS in the comfort of your own Ruby encrusted office chair. 
+
+---
+
+# [fit] **Stealth framework**
+# [fit] **for** **_ChatBots_**
+
+- https://hellostealth.org/
+- https://github.com/hellostealth/stealth
+
+^
+This also looks really cool. Taken from their docs, Stealth is a Ruby based framework for creating voice & text chatbots. It's design is inspired by Ruby on Rails's philosophy of convention over configuration. It has an MVC architecture with the slight caveat that views are aptly named replies. I've been wanting to build a chatbot for work so this might be the time. If you already have experience with Stealth or plan on getting some over the festive season, there's a presentation request in the RoRo issues if you'd like to share with the rest of us. 
+
+---
+
+# [fit] **Keep Ruby Weird**
+# [fit] **_Videos released_**
+
+- https://www.youtube.com/playlist?list=PLE7tQUdRKcyaxIbXihF5bRdMumqVtGrT4
+- https://keeprubyweird.com/
+
+^
+Keep Ruby Weird took place on the 9th November in Austin Texas. If you want to check out the presentation you can hit the youtube link above. 
 
 ---
 
@@ -269,12 +281,14 @@ Following on from Donna's talk last month about how easy it is to upgrade to Rai
 # [fit] **EVENTS**
 
 ---
+
 # [fit] **Ruby Conf 2019**
 # [fit] `ti.to/ruby-australia/rubyconf-au-2019/`
 # [fit] `rubyconf.org.au/2019`
 
 ^
-Ruby conf 2019 earlybird tickets may have now gone however if you have something you'd like to share with the community presentation submissions are open till the 15th of October. For ticket information follow the first link and for details on the current speaker lineup and how to submit your presentation follow the bottom link. 
+Ruby conf 2019 is happening and there's an awesome lineup of speakers now listed
+on their site. If you don't have a ticket yet, get one. 
 
 ---
 
@@ -282,23 +296,21 @@ Ruby conf 2019 earlybird tickets may have now gone however if you have something
 ![inline]( https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
 
 ^
-While were talking about ruby conf, some of the videos from this years conference are online including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
+While were talking about ruby conf, you can always checkout videos from this years conference including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
 
 ---
 
 # [fit] **Rails Camp**
 # [fit] **HOBART**
-## [fit] November 23 to 26
-## [fit] Tickets on sale NOW!
-*`https://railscamp24.wordpress.com/`*
+## [fit] It's happened.
 
 ^
-Rail camp is on again in November down in Hobart. Tickets have been on sale for a month now, is anyone going? ...
+Rails camp Hobart has come and gone. Is there anyone here that went and has some stories they'd like to share?
 
 ---
 
 # [fit] **Development Hub**
-# [fit] **_October 18 2018_** at
+# [fit] **_?_** at
 # [fit] **Airtasker**
 # [fit] **Sign up at** `meetup.com`
 
@@ -308,12 +320,17 @@ Rail camp is on again in November down in Hobart. Tickets have been on sale for 
 
 ---
 
-# [fit] _YOW! Conference_
+# [fit] **Christmas**
+# [fit] **_25th December_** at
+# [fit] **Where ever you are at the time**
 
-# YOW! Sydney
-## 27-30 November
+^
+Christmas is happening. If that's something you celebrate then I hope you're ready and have a great time. But more importantly...
 
-*`http://yowconference.com.au/`*
+---
+
+# [fit] **December 25th is**
+# [fit] **_New RUBY Day!_**
 
 ^
 
@@ -350,8 +367,12 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] **Next Meetup**
-# [fit] **_13th November, 2018_**
+# [fit] **_12th February, 2019_**
 # [fit] **(2nd Tuesday of the month)**
+
+^
+The next meetup will be the 12th of February. Ignore what meetup says, Ruby
+won't be happening here on the 8th of January. 
 
 ---
 
