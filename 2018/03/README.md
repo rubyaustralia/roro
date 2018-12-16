@@ -15,7 +15,7 @@
 
 - **[Memory Hack a TODO][]**
   - Jenny Nguyen :: [@knockycode][] ([#150][])
-- **Exercism: Beer Song** ([Exercise Page][])
+- **Exercism: Beer Song** ([Exercism Page][])
   - Ezra Mizrahi :: [@monsieurmizrahi][] ([#149][])
 
 ### Slide Deck
