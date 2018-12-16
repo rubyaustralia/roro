@@ -3,6 +3,7 @@
 - From 6:00 (for 6:30pm start) @ [Pivotal Labs][]
 - [Level 11, 155 Clarence St Sydney][]
 - [Meetup page][]
+- [Tweets][]
 
 ## Presentations - 15 minutes
 
@@ -37,4 +38,5 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Pivotal Labs]: https://pivotal.io/locations/sydney
 [Level 11, 155 Clarence St Sydney]: https://goo.gl/maps/k6v9wdomLWF2
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/nnvkcpyxfbrb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2018-03-13%20until%3A2018-03-16&src=typd
 [Deckset]: https://www.decksetapp.com/

@@ -3,6 +3,7 @@
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
 - [Level 3, 71 York St, Sydney][]
 - [Meetup page][]
+- [Tweets][]
 
 ## Presentations - 15 minutes
 
@@ -34,4 +35,5 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/nnvkcpyxgbnb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2018-04-10%20until%3A2018-04-18&src=typd
 [Deckset]: https://www.decksetapp.com/
