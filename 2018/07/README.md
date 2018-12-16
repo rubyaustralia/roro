@@ -16,7 +16,7 @@
 
 - **Learn to teach a Junior Developer**
   - Jenny Nguyen :: [@knockycode][] ([#165][])
-- **Exercism: Accumulate**
+- **Exercism: Accumulate** ([Exercism Page][])
   - Yilmaz Gunduzalp :: [@WebDevOs][] ([#176][])
 
 ### Slide Deck
@@ -31,6 +31,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#164]: https://github.com/rails-oceania/roro/issues/164
 [@knockycode]: https://twitter.com/knockycode
 [#165]: https://github.com/rails-oceania/roro/issues/165
+[Exercism Page]: https://exercism.io/tracks/ruby/exercises/accumulate
 [@WebDevOs]: https://twitter.com/WebDevOs
 [#176]: https://github.com/rails-oceania/roro/issues/176
 [Airtasker]: https://www.airtasker.com/
