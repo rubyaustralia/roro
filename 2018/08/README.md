@@ -1,7 +1,7 @@
 # ROROSyd Tuesday, 14 August 2018
 
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
-- [Level 3, 71 York St, Sydney](https://goo.gl/maps/dADqL1QY5Hp)
+- [Level 3, 71 York St, Sydney][]
 - [Meetup page][]
 - [Tweets][]
 
