@@ -15,7 +15,7 @@
 
 - **[Memory Hack a TODO][]**
   - Jenny Nguyen :: [@knockycode][] ([#150][])
-- **Exercism: Beer Song**
+- **Exercism: Beer Song** ([Exercise Page][])
   - Ezra Mizrahi :: [@monsieurmizrahi][] ([#149][])
 
 ### Slide Deck
@@ -32,6 +32,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@knockycode]: https://twitter.com/knockycode
 [#150]: https://github.com/rails-oceania/roro/issues/150
 [@monsieurmizrahi]: https://twitter.com/monsieurmizrahi
+[Exercise Page]: https://exercism.io/tracks/ruby/exercises/beer-song
 [#149]: https://github.com/rails-oceania/roro/issues/149
 [Pivotal Labs]: https://pivotal.io/locations/sydney
 [Level 11, 155 Clarence St Sydney]: https://goo.gl/maps/k6v9wdomLWF2
