@@ -8,12 +8,16 @@
 
 - **Introduction to Infrastructure as Code**
   - Simon Arneaud ([#197][])
+- **Deep dive into Serverless Ruby on AWS Lambda**
+  - Steven Ringo :: [@stevenringo][] ([#202][])
 
 ## Lightning Talks - 5 minutes
 
 - **Exercism: Twelve Days** ([Exercism Page][])
 
 [#197]: https://github.com/rails-oceania/roro/issues/197
+[@stevenringo]: https://twitter.com/stevenringo
+[#202]: https://github.com/rails-oceania/roro/issues/202
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/twelve-days
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
