@@ -16,6 +16,7 @@
 - **Inspecting the Accessibility Inspector**
   - Jack Lo Russo :: [lol_russo][] ([#204][])
 - **Exercism: Twelve Days** ([Exercism Page][])
+  - Peter Sumskas :: [@brushbox]
 
 [#197]: https://github.com/rails-oceania/roro/issues/197
 [#205]: https://github.com/rails-oceania/roro/issues/205
