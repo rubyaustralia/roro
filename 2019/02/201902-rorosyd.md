@@ -125,7 +125,8 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 ![right](https://www.dropbox.com/s/6yiakj6qdq0q0oa/simon-arneaud.jpg?dl=1)
 
 # [fit] **Intoduction to**
-# [fit] **Infrastructure as Code**
+# [fit] **Infrastructure**
+# [fit] **as Code**
 # [fit] **_Simon Arneaud_**
 
 ---
@@ -133,22 +134,24 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/91n23cnkozhf3k2/hemanth-haridas.jpg?dl=1)
+![left](https://www.dropbox.com/s/ro82bk0x54v9aiv/steven-chang.jpeg?dl=1)
 
-# [fit] **Automation in your workflow**
-# [fit] **to ease mundane tasks**
+# [fit] **Automation in**
+# [fit] **your workflow**
+# [fit] **to ease**
+# [fit] **mundane tasks**
 # [fit] **_Steven Chang_**
-# [fit] `@`
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/91n23cnkozhf3k2/hemanth-haridas.jpg?dl=1)
+![right](https://www.dropbox.com/s/ncqys9495sjgiun/jack-lo-russo.jpg?dl=1)
 
 # [fit] **Inspecting the**
-# [fit] **Accessibility Incpector**
+# [fit] **Accessibility**
+# [fit] **Inspector**
 # [fit] **_Jack Lo Russo_**
 # [fit] `@lol_russo`
 
@@ -157,7 +160,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/6j9y6stuxpc2wws/david-armour.jpeg?dl=1)
+![left](https://www.dropbox.com/s/15jglsm8jckoy28/peter-sumskas.jpg?dl=1)
 
 # [fit] **Exercism:**
 # [fit] **12 Days**
@@ -167,7 +170,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@hhemanth` `@DavArmour`
+# [fit] `@lol_russo` `@brushbox`
 # [fit] `@rorosyd`
 
 ^
