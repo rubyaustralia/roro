@@ -243,57 +243,54 @@ to do more.<br />
 
 ---
 
-# [fit] **Rails 5.2.2**
+# [fit] **Ruby 2.6.1**
 # [fit] **_Released_**
 
-- https://github.com/rails/rails/releases/tag/v5.2.2
+- https://www.ruby-lang.org/en/news/2019/01/30/ruby-2-6-1-released/
+- https://bugs.ruby-lang.org/issues/15468
 
 ^
-Rails 5.2.2 has been released. I was reading through the list and there are plenty of changes to keep you on your toes so take a read when you can.
+Ruby 2.6.1 released (and Ruby 2.6.0 got released Xmas Day):  Deals primarily with fixing an issue around handling large binary data (ie big strings). Details in the bug report: https://bugs.ruby-lang.org/issues/15468
 
 ---
 
-# [fit] **Rails Updates**
-# [fit] **_4.2.11 5.0.7.1 5.1.6.1 5.2.1.1_**
+# [fit] **Rails 6 Beta**
+# [fit] **_Available_**
 
-- https://weblog.rubyonrails.org/2018/11/27/Rails-4-2-5-0-5-1-5-2-have-been-released/
+- https://weblog.rubyonrails.org/2019/1/18/Rails-6-0-Action-Mailbox-Action-Text-Multiple-DBs-Parallel-Testing/
 
 ^
-Updates to these Rails versions have also been released. They can be found in the usual places according to the post along with the specifics at the GitHub repo. There is one noted security fix for Broken Access Control vulnerability in Active Job that should drive you to update. 
-
+Rails 6 is available in beta
 
 ---
 
-# [fit] **AWS Lambda**
-# [fit] **now supports**
-# [fit] **_RUBY_**
+# [fit] **Run.rb**
+# [fit] **Run Ruby in the browser**
+# [fit] **_using WebAssembly_**
 
-- https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/
+- https://jasoncharnes.com/run-rb/ 
 
 ^
-This is really cool. Prior to now if Ruby was your preferred language you needed to get stuck into Python, Java or several other languages that were not Ruby if you wanted to use AWS lambda. Now you can create serverless functions using AWS in the comfort of your own Ruby encrusted office chair. 
 
 ---
 
-# [fit] **Stealth framework**
-# [fit] **for** **_ChatBots_**
+# [fit] **Cuprite**
+# [fit] **_a headless Chrome driver_**
+# [fit] **_for Capybara_**
 
-- https://hellostealth.org/
-- https://github.com/hellostealth/stealth
+- https://github.com/machinio/cuprite
 
 ^
-This also looks really cool. Taken from their docs, Stealth is a Ruby based framework for creating voice & text chatbots. It's design is inspired by Ruby on Rails's philosophy of convention over configuration. It has an MVC architecture with the slight caveat that views are aptly named replies. I've been wanting to build a chatbot for work so this might be the time. If you already have experience with Stealth or plan on getting some over the festive season, there's a presentation request in the RoRo issues if you'd like to share with the rest of us. 
 
 ---
 
-# [fit] **Keep Ruby Weird**
+# [fit] **Suggest**
 # [fit] **_Videos released_**
 
-- https://www.youtube.com/playlist?list=PLE7tQUdRKcyaxIbXihF5bRdMumqVtGrT4
-- https://keeprubyweird.com/
+- https://github.com/jbodah/suggest_rb 
 
 ^
-Keep Ruby Weird took place on the 9th November in Austin Texas. If you want to check out the presentation you can hit the youtube link above. 
+tells you which method does the thing you want to do (this might be good for a lightning talk request as well)
 
 ---
 
@@ -321,11 +318,10 @@ While were talking about ruby conf, you can always checkout videos from this yea
 ---
 
 # [fit] **Rails Camp**
-# [fit] **HOBART**
+# [fit] **PERTH**
 ## [fit] It's happened.
 
 ^
-Rails camp Hobart has come and gone. Is there anyone here that went and has some stories they'd like to share?
 
 ---
 
@@ -337,22 +333,6 @@ Rails camp Hobart has come and gone. Is there anyone here that went and has some
 ^
 - Ruby on Rails consultancy reinteractive is holding Development Hub on October 18 right here at Airtasker.
 - Talk about what it is and who it's aimed at.
-
----
-
-# [fit] **Christmas**
-# [fit] **_25th December_** at
-# [fit] **Where ever you are at the time**
-
-^
-Christmas is happening. If that's something you celebrate then I hope you're ready and have a great time. But more importantly...
-
----
-
-# [fit] **December 25th is**
-# [fit] **_New RUBY Day!_**
-
-^
 
 ---
 
