@@ -194,12 +194,12 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_Twelve Days_**
+# [fit] **_Luhn_**
 
-### [fit] `exercism download --exercise=twelve-days --track=ruby`
+### [fit] `exercism download --exercise=luhn --track=ruby`
 
 ^
-In the spirit of the festive season this months challenge requires you to write a program that outputs the lyrics to the twelve days of christmas. Head to over to the exercism website, check out the code and give it a go.
+To kick the year off with challenges, this month we're going to work through creating the Luhn algorithm. The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. As always you can find more details and download the challenge at the exercism.io and it you'd like to present your solution at next months meetup submit an issue on the RoRo github or contact myself or one of the other organisers. 
 
 ---
 
