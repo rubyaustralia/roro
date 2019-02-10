@@ -8,7 +8,7 @@ slidenumbers: true
 # **12 February 2019**
 
 ^
-Welcome to Sydney RORO
+Welcome to the first RORO of 2019. I hope everyone had a great holiday season and is ready for another year of exploring all that Ruby and the greater world of software has to offer.  
 
 ---
 
@@ -109,6 +109,13 @@ Culture Amp, providers of Company Culture Analytics
 
 ^
 Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
+
+---
+
+# [fit] **RubyConf2019**
+
+^
+Before we get into who's presenting tonight I wanted to give a quick recap of RubyConf which took place last week in Melbourne. Who was there? It was great yeah.. For those that couldn't make it all the talks have been put up online already so you can watch it all from the Ruby Australia you tube channel.  Personal favorites of mine include Tom Stuarts talk on concept representation where he implemented negative numbers in a version of ruby that didn't have them and followed by that Adam Cuppy's talk where he trolled Tom's use of blocks to represent numbers in a pretty hilarious way. Go check it out. Other take aways, don't buy bitcoin, it's killing the planet and apparently it's very hard to convert the theme from Game of Thrones into cat meows. As you can tell all the important topics were covered last week, but seriously there were many great talk on serious stuff and you can watch them all right now. So onto tonights talks. 
 
 ---
 
