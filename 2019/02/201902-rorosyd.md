@@ -1,4 +1,4 @@
-theme: Letters from Sweden, 2
+theme: Ostrich
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
@@ -115,7 +115,7 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 # [fit] **RubyConf2019**
 
 ^
-Before we get into who's presenting tonight I wanted to give a quick recap of RubyConf which took place last week in Melbourne. Who was there? It was great yeah.. For those that couldn't make it all the talks have been put up online already so you can watch it all from the Ruby Australia you tube channel.  Personal favorites of mine include Tom Stuarts talk on concept representation where he implemented negative numbers in a version of ruby that didn't have them and followed by that Adam Cuppy's talk where he trolled Tom's use of blocks to represent numbers in a pretty hilarious way. Go check it out. Other take aways, don't buy bitcoin, it's killing the planet and apparently it's very hard to convert the theme from Game of Thrones into cat meows. As you can tell all the important topics were covered last week, but seriously there were many great talk on serious stuff and you can watch them all right now. So onto tonights talks. 
+Before we get into who's presenting tonight I wanted to give a quick recap of RubyConf which took place last week in Melbourne. Who was there? It was great yeah.. For those that couldn't make it all the talks have been put up online already so you can watch it all from the Ruby Australia you tube channel.  Personal favorites of mine include Tom Stuarts talk on concept representation where he implemented negative numbers in a version of ruby that didn't have them and followed by that Adam Cuppy's talk where he trolled Tom's use of blocks to represent numbers in a pretty hilarious way. If this makes on sense to you, go check it out. Other take aways, don't buy bitcoin, it's killing the planet and apparently it's very hard to convert the theme from Game of Thrones into cat meows. As you can tell all the important topics were covered last week, but seriously there were many great talk on serious stuff and you can watch them all right now. So onto tonights talks. 
 
 ---
 
@@ -260,7 +260,7 @@ Ruby 2.6.1 released (and Ruby 2.6.0 got released Xmas Day):  Deals primarily wit
 - https://weblog.rubyonrails.org/2019/1/18/Rails-6-0-Action-Mailbox-Action-Text-Multiple-DBs-Parallel-Testing/
 
 ^
-Rails 6 is available in beta
+Rails 6 beta1 is available. It includes Action Text and Action Mailbox, both recently merged into rail. There's a new rake/rails task allowing you to change database systems after you already created the app. It also leverages Ruby 2.6's endless ranges in where conditions. You can read more about these features on the rails blog.  
 
 ---
 
@@ -268,9 +268,11 @@ Rails 6 is available in beta
 # [fit] **Run Ruby in the browser**
 # [fit] **_using WebAssembly_**
 
+- https://runrb.io/
 - https://jasoncharnes.com/run-rb/ 
 
 ^
+Run rb is a project that gives you a ruby console right in the browser. If you visit the first site listed here you get a page with a console that allows you to execute ruby scripts.
 
 ---
 
@@ -299,39 +301,26 @@ tells you which method does the thing you want to do (this might be good for a l
 
 ---
 
-# [fit] **Ruby Conf 2019**
-# [fit] `ti.to/ruby-australia/rubyconf-au-2019/`
-# [fit] `rubyconf.org.au/2019`
-
-^
-Ruby conf 2019 is happening and there's an awesome lineup of speakers now listed
-on their site. If you don't have a ticket yet, get one. 
-
----
-
-# [fit] **Ruby Conf 2018 Videos**
-![inline]( https://www.dropbox.com/s/3cxo9mlt25ccut4/Screen%20Shot%202018-09-10%20at%209.21.43%20PM.png?dl=1)
-
-^
-While were talking about ruby conf, you can always checkout videos from this years conference including the keynote from Sandi Metz. Visit the YouTube channel to check them out.
-
----
-
-# [fit] **Rails Camp**
+# [fit] **_Rails Camp_**
 # [fit] **PERTH**
-## [fit] It's happened.
+
+- Woodman Point Recreation Camp, Perth, Western Australia
+- **_10 - 13th May 2019_**
+
+- https://rails.camp/
 
 ^
+The first rails camp for 2019 is taking place over in Perth from the 10th of May till the 13th of May. If you keen to attend you can get more information at rails.camp.  
 
 ---
 
-# [fit] **Development Hub**
-# [fit] **_?_** at
-# [fit] **Airtasker**
+# [fit] **_Development Hub_**
+# **at Airtasker**
+</br>
 # [fit] **Sign up at** `meetup.com`
 
 ^
-- Ruby on Rails consultancy reinteractive is holding Development Hub on October 18 right here at Airtasker.
+- Ruby on Rails consultancy reinteractive is holding Development Hub right here at Airtasker.
 - Talk about what it is and who it's aimed at.
 
 ---
@@ -359,10 +348,9 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-# [fit] **Online**
-## [fit] **Twitter: `@rorosyd`, `@rubyaustralia`**
-## **Web: `ruby.org.au`**
-## **Google group: `rails-oceania`**
+### **Twitter:** `@rorosyd`, `@rubyaustralia`
+### **Web:** `ruby.org.au`
+### **Google group:** `rails-oceania`
 
 ---
 
