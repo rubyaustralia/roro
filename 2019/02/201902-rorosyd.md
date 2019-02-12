@@ -283,11 +283,11 @@ Run rb is a project that gives you a ruby console right in the browser. If you v
 - https://github.com/machinio/cuprite
 
 ^
+According to the Cuprite repo readme it's a pure Ruby driver for Capybara that allows you to run Capybara tests on a headless Chrome or Chromium browser using the CDP protocol. It enables you to do some cool things like click co-ordinates on the screen and alter request headers.  
 
 ---
 
 # [fit] **Suggest**
-# [fit] **_Videos released_**
 
 - https://github.com/jbodah/suggest_rb 
 
@@ -355,12 +355,11 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] **Next Meetup**
-# [fit] **_12th February, 2019_**
+# [fit] **_12th March, 2019_**
 # [fit] **(2nd Tuesday of the month)**
 
 ^
-The next meetup will be the 12th of February. Ignore what meetup says, Ruby
-won't be happening here on the 8th of January. 
+The next meetup will be the 12th of March.
 
 ---
 
