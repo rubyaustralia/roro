@@ -6,7 +6,7 @@
 
 ## Presentations - 15 minutes
 
-- **Introduction to Infrastructure as Code**
+- **[Introduction to Infrastructure as Code][]**
   - Simon Arneaud ([#197][])
 - **[Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)][]**
   - Steven Chang ([#205][])
@@ -18,6 +18,7 @@
 - **Exercism: Twelve Days** ([Exercism Page][])
   - Peter Sumskas :: [@brushbox][] ([#206][])
 
+[Introduction to Infrastructure as Code]: https://theartofmachinery.com/files/Sydney2019-infrastructure_as_code.pdf
 [#197]: https://github.com/rails-oceania/roro/issues/197
 [Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)]: https://docs.google.com/presentation/d/1wlzLWLATeIIFCqMDE8hcRli3CvtOlnYwCaifPszj-RM/edit
 [#205]: https://github.com/rails-oceania/roro/issues/205
