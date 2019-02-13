@@ -1,4 +1,4 @@
-# ROROSyd March 12 February 2019
+# ROROSyd Tuesday, 12 March 2019
 
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
 - [Level 3, 71 York St, Sydney][]
