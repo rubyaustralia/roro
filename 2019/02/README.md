@@ -8,7 +8,7 @@
 
 - **Introduction to Infrastructure as Code**
   - Simon Arneaud ([#197][])
-- **Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)**
+- **[Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)][]**
   - Steven Chang ([#205][])
 
 ## Lightning Talks - 5 minutes
@@ -19,6 +19,7 @@
   - Peter Sumskas :: [@brushbox][] ([#206][])
 
 [#197]: https://github.com/rails-oceania/roro/issues/197
+[Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)]: https://docs.google.com/presentation/d/1wlzLWLATeIIFCqMDE8hcRli3CvtOlnYwCaifPszj-RM/edit
 [#205]: https://github.com/rails-oceania/roro/issues/205
 [@lol_russo]: https://twitter.com/lol_russo
 [#204]: https://github.com/rails-oceania/roro/issues/204
