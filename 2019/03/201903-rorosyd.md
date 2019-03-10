@@ -134,17 +134,16 @@ Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related eve
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/15jglsm8jckoy28/peter-sumskas.jpg?dl=1)
+![left](https://www.dropbox.com/s/akncsc61dl4y1l3/mathew-button-2.jpg?dl=1)
 
 # [fit] **Exercism:**
-# [fit] **12 Days**
-# [fit] **_Peter Sumskas_**
-# [fit] `@brushbox`
+# [fit] **Luhn**
+# [fit] **_Mathew Button_**
 
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@lol_russo` `@brushbox`
+# [fit] `@stevenringo`
 # [fit] `@rorosyd`
 
 ^
@@ -161,7 +160,7 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_Luhn_**
+# [fit] **_xxx_**
 
 ### [fit] `exercism download --exercise=luhn --track=ruby`
 
@@ -220,25 +219,18 @@ TODO
 
 ---
 
-# [fit] **Rails 6 Beta**
-# [fit] **_Available_**
+# [fit] **The Ruby Toolbox**
 
-- https://weblog.rubyonrails.org/2019/1/18/Rails-6-0-Action-Mailbox-Action-Text-Multiple-DBs-Parallel-Testing/
-
-^
-Rails 6 beta1 is available. It includes Action Text and Action Mailbox, both recently merged into rail. There's a new rake/rails task allowing you to change database systems after you already created the app. It also leverages Ruby 2.6's endless ranges in where conditions. You can read more about these features on the rails blog.  
-
----
-
-# [fit] **Run.rb**
-# [fit] **Run Ruby in the browser**
-# [fit] **_using WebAssembly_**
-
-- https://runrb.io/
-- https://jasoncharnes.com/run-rb/ 
+- https://www.ruby-toolbox.com
 
 ^
-Run rb is a project that gives you a ruby console right in the browser. If you visit the first site listed here you get a page with a console that allows you to execute ruby scripts.
+After a period where the service feel into disrepair, the ruby toolbox has
+received significant investment of time from it's maintainer Christoph Olszowka
+thanks to the help of Ruby Together. Over the past year the new version of Ruby
+Toolbox has evolved with a user driven feature set and a completely new look.
+For those that aren't aware of what the Ruby Toolbox does in their own words,
+'is a catalog of all Rubygems that keeps track of popularity and health metrics
+to help you choose a reliable library.' 
 
 ---
 
