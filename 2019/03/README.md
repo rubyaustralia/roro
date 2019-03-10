@@ -12,11 +12,12 @@
 ## Lightning Talks - 5 minutes
 
 - **Exercism: Luhn** ([Exercism Page][])
-  - TBD
+  - Mathew Button ([#211][])
 
 [@stevenringo]: https://twitter.com/stevenringo
 [#202]: https://github.com/rails-oceania/roro/issues/202
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/luhn
+[#211]: https://github.com/rails-oceania/roro/issues/211
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
-[Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyzfbqb/
+[Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzgbmb/

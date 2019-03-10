@@ -103,15 +103,6 @@ Culture Amp, providers of Company Culture Analytics
 
 ---
 
-# [fit] **Thanks to our Sponsors**
-
-![inline](https://www.dropbox.com/s/cq1thr3ghbh7gxq/reinteractive-logo.jpg?dl=1)
-
-^
-Ruby on Rails consultancy reinteractive, who also sponsor other Ruby-related events, which we'll talk about later on.
-
----
-
 # [fit] **TALKS**
 
 ^
@@ -160,12 +151,13 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_xxx_**
+# [fit] **_Phone Number_**
 
-### [fit] `exercism download --exercise=luhn --track=ruby`
+### [fit] `exercism download --exercise=phone-number --track=ruby`
 
 ^
-To kick the year off with challenges, this month we're going to work through creating the Luhn algorithm. The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers. As always you can find more details and download the challenge at the exercism.io and it you'd like to present your solution at next months meetup submit an issue on the RoRo github or contact myself or one of the other organisers. 
+This month's month's Exercism problem is Phone Number, which concerns a problem that pretty much all developers have to deal with: cleaning up user-entered data so we can use it within our system. In this case, you'll need to take strings that represent phone numbers, parse out extraneous characters like spaces, dashes, and brackets, leaving just the phone numbers themselves.<br />
+As always you can find more details and download the challenge at the exercism.io and it you'd like to present your solution at next months meetup submit an issue on the RoRo github or contact myself or one of the other organisers. 
 
 ---
 
@@ -313,7 +305,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] **Next Meetup**
-# [fit] **_12th March, 2019_**
+# [fit] **_9th April, 2019_**
 # [fit] **(2nd Tuesday of the month)**
 
 ^
