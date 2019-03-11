@@ -264,17 +264,6 @@ The first rails camp for 2019 is taking place over in Perth from the 10th of May
 
 ---
 
-# [fit] **_Development Hub_**
-# **at Airtasker**
-</br>
-# [fit] **Sign up at** `meetup.com`
-
-^
-- Ruby on Rails consultancy reinteractive is holding Development Hub right here at Airtasker.
-- Talk about what it is and who it's aimed at.
-
----
-
 # [fit] **TIPS and TRICKS**
 # [fit] **_Stuff that makes your life_**
 # [fit] **_easier/better/faster_**
