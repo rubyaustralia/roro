@@ -203,6 +203,7 @@ to do more.<br />
 
 # [fit] **ALERT!**
 # [fit] **_Vulnerability in RubyGems_**
+# `gem update --system` NOW!
 
 - https://blog.rubygems.org/2019/03/05/security-advisories-2019-03.html
 
@@ -216,33 +217,28 @@ TODO
 - https://www.ruby-toolbox.com
 
 ^
-After a period where the service feel into disrepair, the ruby toolbox has
-received significant investment of time from it's maintainer Christoph Olszowka
-thanks to the help of Ruby Together. Over the past year the new version of Ruby
-Toolbox has evolved with a user driven feature set and a completely new look.
-For those that aren't aware of what the Ruby Toolbox does in their own words,
-'is a catalog of all Rubygems that keeps track of popularity and health metrics
-to help you choose a reliable library.' 
+After a period where the service feel into disrepair, the ruby toolbox has received significant investment of time from it's maintainer Christoph Olszowka thanks to the help of Ruby Together. Over the past year the new version of Ruby Toolbox has evolved with a user driven feature set and a completely new look.  For those that aren't aware of what the Ruby Toolbox does in their own words, 'is a catalog of all Rubygems that keeps track of popularity and health metrics to help you choose a reliable library.' 
 
 ---
 
-# [fit] **Cuprite**
-# [fit] **_a headless Chrome driver_**
-# [fit] **_for Capybara_**
+# [fit] **Heaven's Door**
+# [fit] **_a Rails engine that_**
+# [fit] **_generates Capybara tests_**
 
 - https://github.com/machinio/cuprite
 
 ^
-According to the Cuprite repo readme it's a pure Ruby driver for Capybara that allows you to run Capybara tests on a headless Chrome or Chromium browser using the CDP protocol. It enables you to do some cool things like click co-ordinates on the screen and alter request headers.  
+Heaven's Door: A tiny Rails engine that generates capybara test scenario by recording browser operation in development env. Akira Matsuda has created a whole bunch of great Ruby gems including Kaminari pagination and JB, the excellent JSON API templating engine, so this is likely to be worth looking into...and maybe doing a talk about...?
 
 ---
 
-# [fit] **Suggest**
+# [fit] **6 Lessons from**
+# [fit] **Software rewrites**
 
-- https://github.com/jbodah/suggest_rb 
+- https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories
 
 ^
-tells you which method does the thing you want to do (this might be good for a lightning talk request as well)
+This isn't so much news as it is an interesting article to read. If you're working on a project that has reached the point of considering whether to forge ahead with the current code base or take a leap and rewrite then you might find comfort and food for thought in this article. The author Herb Caudill takes you though the obstacles faced by 6 large and well know products in making this decision highlighting the pros and cons of each. It might make you reconsider next time you reach for rails new.   
 
 ---
 
