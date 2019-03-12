@@ -220,7 +220,7 @@ to do more.<br />
 - https://blog.rubygems.org/2019/03/05/security-advisories-2019-03.html
 
 ^
-TODO
+On the 5th of March RubyGems posted an article disclosing several security vulnerabilities in pre 3.0.3 versions. It's strongly advised that you update to the latest stable version 3.0.3 as soon as possible. You can read about the details on their blog. 
 
 ---
 
@@ -269,6 +269,17 @@ This isn't so much news as it is an interesting article to read. If you're worki
 
 ^
 The first rails camp for 2019 is taking place over in Perth from the 10th of May till the 13th of May. If you keen to attend you can get more information at rails.camp.  
+
+---
+
+# [fit] **Intro to Elixir**
+# [fit] **_YOW! Lambda Jam Conference_**
+# [fit] **_Melbourne, 13 - 15 May 2019_**
+
+- https://lambdajam.yowconference.com.au/proposal/?id=9655
+
+^
+I thought I should mention this event, even though it's in Melboune because one of our earlier speakers Josh will be running the session. If you are in Melbourne to attend the Lamba Jam on the 13th May and want to spend the day getting stuck into Elixir check it out.
 
 ---
 
