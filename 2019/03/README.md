@@ -8,6 +8,8 @@
 
 - **Deep dive into Serverless Ruby on AWS Lambda**
   - Steven Ringo :: [@stevenringo][] ([#202][])
+- **Better APIs with GraphQL Ruby**
+  - Josh Price :: [@joshprice][] ([#212][])
 
 ## Lightning Talks - 5 minutes
 
@@ -16,6 +18,8 @@
 
 [@stevenringo]: https://twitter.com/stevenringo
 [#202]: https://github.com/rails-oceania/roro/issues/202
+[@joshprice]: https://twitter.com/joshprice
+[#212]: https://github.com/rails-oceania/roro/issues/212
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/luhn
 [#211]: https://github.com/rails-oceania/roro/issues/211
 [Airtasker]: https://www.airtasker.com/

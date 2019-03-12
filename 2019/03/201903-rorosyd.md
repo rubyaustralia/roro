@@ -105,8 +105,6 @@ Culture Amp, providers of Company Culture Analytics
 
 # [fit] **TALKS**
 
-^
-
 ---
 
 [.hide-footer]
@@ -125,7 +123,20 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/akncsc61dl4y1l3/mathew-button-2.jpg?dl=1)
+![left](https://www.dropbox.com/s/hjjyx0apaf4d2iy/josh-price.jpg?dl=1)
+
+# [fit] **Better**
+# [fit] **APIs with**
+# [fit] **GraphQL Ruby**
+# [fit] **_Josh Price_**
+# [fit] `@joshprice`
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![right](https://www.dropbox.com/s/akncsc61dl4y1l3/mathew-button-2.jpg?dl=1)
 
 # [fit] **Exercism:**
 # [fit] **Luhn**
@@ -135,6 +146,7 @@ Culture Amp, providers of Company Culture Analytics
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 # [fit] `@stevenringo`
+# [fit] `@joshprice`
 # [fit] `@rorosyd`
 
 ^
