@@ -118,6 +118,9 @@ Culture Amp, providers of Company Culture Analytics
 # [fit] **_Steven Ringo_**
 # [fit] `@stevenringo`
 
+^
+Note: This ended up being Rob Howard's talk "Problems that Occur when Multiple Things Use a Database at the Same Time"
+
 ---
 
 [.hide-footer]
