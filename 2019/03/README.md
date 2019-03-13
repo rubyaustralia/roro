@@ -25,4 +25,4 @@
 [#211]: https://github.com/rails-oceania/roro/issues/211
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
-[Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzgbmb/
+[Meetup page]: https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzfbqb/
