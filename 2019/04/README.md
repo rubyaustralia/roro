@@ -8,6 +8,8 @@
 
 - **Public Speaking Tips for Engineers (From Stand-up to Standups)**
   - Donna Zhou :: [@failscasts][] ([#208][])
+- **Deep dive into Serverless Ruby on AWS Lambda**
+  - Steven Ringo :: [@stevenringo][] ([#202][])
 
 ## Lightning Talks - 5 minutes
 
@@ -18,6 +20,8 @@
 
 [@failscasts]: https://twitter.com/failscasts
 [#208]: https://github.com/rails-oceania/roro/issues/208
+[@stevenringo]: https://twitter.com/stevenringo
+[#202]: https://github.com/rails-oceania/roro/issues/208
 [@stephenlead]: https://twitter.com/stephenlead
 [#209]: https://github.com/rails-oceania/roro/issues/209
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/phone-number
