@@ -15,7 +15,7 @@
 
 - **Building a geo-aware travel blog in Rails**
   - Stephen Lead :: [@stephenlead][] ([#209][])
-- **Exercism: Phone Number** ([Exercism Page][])
+- **Exercism: High Scores** ([Exercism Page][])
   - TBD
 
 [@failscasts]: https://twitter.com/failscasts
@@ -24,7 +24,7 @@
 [#202]: https://github.com/rails-oceania/roro/issues/208
 [@stephenlead]: https://twitter.com/stephenlead
 [#209]: https://github.com/rails-oceania/roro/issues/209
-[Exercism Page]: https://exercism.io/tracks/ruby/exercises/phone-number
+[Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzgbmb/
