@@ -109,12 +109,12 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/mbln0ansbn0doqk/donna-zhou.jpeg?dl=1)
+![left](https://www.dropbox.com/s/mbln0ansbn0doqk/donna-zhou.jpeg?dl=1)
 
-# [fit] **From Stand-up**
-# [fit] **to Standups:**
-# [fit] Public Speaking Tips
-# [fit] for Engineers
+# [fit] **A Programmer's**
+# [fit] **Guide to**
+# [fit] Public
+# [fit] Speaking
 # [fit] **_Donna Zhou_**
 # [fit] `@failscasts`
 
@@ -123,7 +123,7 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/0lncz8cmbkptagu/steven-ringo.jpg?dl=1)
+![right](https://www.dropbox.com/s/0lncz8cmbkptagu/steven-ringo.jpg?dl=1)
 
 # [fit] Deep Dive into
 # [fit] **Serverless Ruby**
@@ -137,7 +137,7 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/e5gplsal5i8xbye/stephen-lead.jpg?dl=1)
+![right](https://www.dropbox.com/s/e5gplsal5i8xbye/stephen-lead.jpg?dl=1)
 
 # [fit] Building a
 # [fit] **geo-aware**
@@ -151,17 +151,18 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/aj4qzpgancheo3z/josephine-chong.jpg?dl=1)
 
 # [fit] Exercism:
 # [fit] **Phone Number**
-# [fit] **_???_**
+# [fit] **_Josephine Chong_**
+# `@jytc_`
 
 ---
 
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
-# [fit] `@failscasts` `@stevenringo`
-# [fit] `@stephenlead`
+# [fit] `@failscasts` **/** `@stevenringo`
+# [fit] `@stephenlead` **/** `@jytc_`
 # [fit] **`@rorosyd`**
 
 ^
@@ -242,7 +243,7 @@ to do more.<br />
 
 ---
 
-# [fit] _Upcoming_
+# [fit] Upcoming
 # [fit] **EVENTS**
 
 ---
@@ -301,7 +302,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ---
 
 # [fit] **Next Meetup**
-# [fit] 14th May, 2019
+# [fit] 14 May 2019
 # [fit] **(2nd Tuesday of the month)**
 
 ^
