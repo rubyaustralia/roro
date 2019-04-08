@@ -229,17 +229,35 @@ to do more.<br />
 
 ---
 
-# [fit] **_News 1_**
+# [fit] **_bootstrap-sass gem_**
+# [fit] Venerability
 
-- link 1
+- https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem/
 
 ^
+Malicious remote code execution backdoor discovered in the popular bootstrap-sass Ruby gem. Version 3.2.0.3 was released directly to Rubygems (without going through a release via Github) by a malicious actor, who it was assumed got gem maintainer credentials somehow. Maintainers have changed their credentials and released 3.2.0.4, identical to the retracted 3.2.0.2, so anyone affected should upgrade immediately. 
 
 ---
 
-# [fit] **_News 2_**
+# [fit] **_Rails Updates_**
+# [fit] 5.1.7
+# [fit] 5.2.3
 
-- link 2
+- https://weblog.rubyonrails.org/2019/3/28/Rails-5-2-3-has-been-released/
+
+^
+New versions of rails have been released. There are several fixes including one that we got caught out with in the previous release where they broke the Persistence#touch method. If that's also caught you out upgrade to 5.1.7 now.
+
+---
+
+# [fit] **_Ruby Updates_**
+# [fit] 2.6.3
+# [fit] 2.4.6
+
+- https://www.ruby-lang.org/en/news/2019/03/13/ruby-2-6-2-released/
+
+^
+There's also some updates to Ruby with the release of versions 2.6.3 and 2.4.6. With the release of 2.4.6 this brings about the end of the maintenance for Ruby 2.4. This mean the ruby team won't backport any bug fixes other than security patches until support ends in one year. 
 
 ---
 
