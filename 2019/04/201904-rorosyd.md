@@ -230,7 +230,7 @@ to do more.<br />
 ---
 
 # [fit] **_bootstrap-sass gem_**
-# [fit] Venerability
+# [fit] Vulnerability
 
 - https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem/
 
@@ -251,8 +251,8 @@ New versions of rails have been released. There are several fixes including one 
 ---
 
 # [fit] **_Ruby Updates_**
-# [fit] 2.6.3
 # [fit] 2.4.6
+# [fit] 2.6.3
 
 - https://www.ruby-lang.org/en/news/2019/03/13/ruby-2-6-2-released/
 
@@ -315,17 +315,6 @@ Ruby Australia also has three committee positions up for election - Vice Preside
 
 ^
 On top of all of that, Ruby Australia is also running a survey to get input from as many Australian Rubyists as possible. If you've not filled it out yet, please do so! And spread the word - the more responses given, the better Ruby Australia can serve our community.
-
----
-
-# [fit] **Intro to Elixir**
-# [fit] **_YOW! Lambda Jam Conference_**
-# [fit] **_Melbourne, 13 - 15 May 2019_**
-
-- https://lambdajam.yowconference.com.au/proposal/?id=9655
-
-^
-I thought I should mention this event, even though it's in Melboune because one of our earlier speakers Josh will be running the session. If you are in Melbourne to attend the Lamba Jam on the 13th May and want to spend the day getting stuck into Elixir check it out.
 
 ---
 
