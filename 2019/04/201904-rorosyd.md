@@ -275,7 +275,46 @@ There's also some updates to Ruby with the release of versions 2.6.3 and 2.4.6. 
 - https://rails.camp/
 
 ^
-The first rails camp for 2019 is taking place over in Perth from the 10th of May till the 13th of May. If you keen to attend you can get more information at rails.camp.  
+The first rails camp for 2019 is taking place over in Perth from the 10th of May till the 13th of May. If you keen to attend you can get more information at rails.camp, but tonight is the *last chance* to get tickets! They will be on sale until midnight AEST tonight!
+
+---
+
+# [fit] Ruby Australia
+# [fit] **Special General Meeting**
+# [fit] at Rails Camp
+
+^
+And now a few announcements from Ruby Australia. A Ruby Australia Special General Meeting will take place at Rails Camp, on May 12th. All are welcome to attend, though we realise that means you need to be in Perth if you're not attending the camp.
+
+---
+
+# [fit] Ruby Australia **Special General Meeting**
+# [fit] **Vote** by proxy
+
+- `https://forum.ruby.org.au/t/special-resolutions-may-2019/816`
+
+^
+That's why Ruby Australia has got some special resolutions up for vote, which will allow general meetings to happen online (and thus allow everyone to attend, rather than just camp attendees). If you're not going to be at the meeting you can still vote for these special resolutions if you confirm someone present can be your proxy. More details on the Ruby Australia forum at this link.
+
+---
+
+# [fit] Ruby Australia **Special General Meeting**
+# [fit] > **Three committee positions** up for election
+# [fit] > **Vice President** and **two general members**
+
+- `https://forum.ruby.org.au/t/committee-elections-may-2019/815`
+
+^
+Ruby Australia also has three committee positions up for election - Vice President and two general members - and we'd love to keep a mix of members from all corners of Australia. If you're keen to be involved in helping shape the community, this is a great way to do so. Whether or not you're at camp, you can nominate yourself or others for these roles online at the Ruby Australia forum link here.
+
+---
+
+# [fit] Rubyist **Survey**
+<br />
+# [fit] `https://ruby.org.au/2019survey`
+
+^
+On top of all of that, Ruby Australia is also running a survey to get input from as many Australian Rubyists as possible. If you've not filled it out yet, please do so! And spread the word - the more responses given, the better Ruby Australia can serve our community.
 
 ---
 
