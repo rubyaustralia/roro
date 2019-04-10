@@ -23,7 +23,7 @@
 [#208]: https://github.com/rails-oceania/roro/issues/208
 [@stevenringo]: https://twitter.com/stevenringo
 [#202]: https://github.com/rails-oceania/roro/issues/208
-[Travel Blog]: steveandglo.com
+[Travel Blog]: http://steveandglo.com
 [@stephenlead]: https://twitter.com/stephenlead
 [#209]: https://github.com/rails-oceania/roro/issues/209
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/phone-number
