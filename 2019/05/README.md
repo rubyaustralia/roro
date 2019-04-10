@@ -1,0 +1,34 @@
+# ROROSyd Tuesday, 14 May 2019
+
+- From 6:00 (for 6:30pm start) @ [Airtasker][]
+- [Level 3, 71 York St, Sydney][]
+- [Meetup page][]
+- [Tweets][]
+
+## Presentations - 15 minutes
+
+- **Making Software Maintainable**
+  - Peter Sumskas :: [@brushbox][] ([#215][])
+- **Military-grade Security in Ruby**
+  - Nathan Tesler :: [@nathantesler][] ([#220][])
+
+## Lightning Talks - 5 minutes
+
+- **Exercism: High Scores** ([Exercism Page][])
+  - TBD
+
+### Slide Deck
+
+This meetup's slide deck was written in a Markdown format designed to work with
+[Deckset][].
+
+[@brushbox]: https://twitter.com/brushbox
+[#208]: https://github.com/rails-oceania/roro/issues/215
+[@nathantesler]: https://twitter.com/nathantesler
+[#220]: https://github.com/rails-oceania/roro/issues/220
+[Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
+[Airtasker]: https://www.airtasker.com/
+[Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
+[Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzhbsb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-05-14%20until%3A2019-05-15&src=typd
+[Deckset]: https://www.decksetapp.com/
