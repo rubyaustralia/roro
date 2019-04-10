@@ -3,6 +3,7 @@
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
 - [Level 3, 71 York St, Sydney][]
 - [Meetup page][]
+- [Tweets][]
 
 ## Presentations - 15 minutes
 
@@ -18,6 +19,11 @@
 - **Exercism: Twelve Days** ([Exercism Page][])
   - Peter Sumskas :: [@brushbox][] ([#206][])
 
+### Slide Deck
+
+This meetup's slide deck was written in a Markdown format designed to work with
+[Deckset][].
+
 [Introduction to Infrastructure as Code]: https://theartofmachinery.com/files/Sydney2019-infrastructure_as_code.pdf
 [#197]: https://github.com/rails-oceania/roro/issues/197
 [Automation in your workflow to ease mundane tasks (A demo of Automator & Jira Assistant)]: https://docs.google.com/presentation/d/1wlzLWLATeIIFCqMDE8hcRli3CvtOlnYwCaifPszj-RM/edit
@@ -30,3 +36,5 @@
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kkrwkqyzdbqb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-02-12%20until%3A2019-02-14&src=typd
+[Deckset]: https://www.decksetapp.com/

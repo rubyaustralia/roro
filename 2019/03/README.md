@@ -3,6 +3,7 @@
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
 - [Level 3, 71 York St, Sydney][]
 - [Meetup page][]
+- [Tweets][]
 
 ## Presentations - 15 minutes
 
@@ -16,6 +17,11 @@
 - **Exercism: Luhn** ([Exercism Page][])
   - Mathew Button ([#211][])
 
+### Slide Deck
+
+This meetup's slide deck was written in a Markdown format designed to work with
+[Deckset][].
+
 [@joshprice]: https://twitter.com/joshprice
 [#212]: https://github.com/rails-oceania/roro/issues/212
 [Problems that Occur when Multiple Things Use a Database at the Same Time]: https://robhoward.id.au/talks/2019/03/databases-and-race-conditions.pdf
@@ -26,3 +32,5 @@
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzfbqb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-03-12%20until%3A2019-03-13&src=typd
+[Deckset]: https://www.decksetapp.com/

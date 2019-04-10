@@ -3,6 +3,7 @@
 - From 6:00 (for 6:30pm start) @ [Airtasker][]
 - [Level 3, 71 York St, Sydney][]
 - [Meetup page][]
+- [Tweets][]
 
 ## Presentations - 15 minutes
 
@@ -18,6 +19,11 @@
 - **Exercism: Phone Number** ([Exercism Page][])
   - Josephine Chong :: [@jytc_][] ([#219][])
 
+### Slide Deck
+
+This meetup's slide deck was written in a Markdown format designed to work with
+[Deckset][].
+
 [A Programmer's Guide to Public Speaking]: https://speakerdeck.com/dondonz/a-programmers-guide-to-public-speaking
 [@failscasts]: https://twitter.com/failscasts
 [#208]: https://github.com/rails-oceania/roro/issues/208
@@ -32,3 +38,5 @@
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzgbmb/
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-04-09%20until%3A2019-04-11&src=typd
+[Deckset]: https://www.decksetapp.com/
