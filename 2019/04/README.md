@@ -6,7 +6,7 @@
 
 ## Presentations - 15 minutes
 
-- **A Programmer's Guide to Public Speaking**
+- **[A Programmer's Guide to Public Speaking][]**
   - Donna Zhou :: [@failscasts][] ([#208][])
 - **Deep dive into Serverless Ruby on AWS Lambda**
   - Steven Ringo :: [@stevenringo][] ([#202][])
@@ -18,6 +18,7 @@
 - **Exercism: Phone Number** ([Exercism Page][])
   - Josephine Chong :: [@jytc_][] ([#219][])
 
+[A Programmer's Guide to Public Speaking]: https://speakerdeck.com/dondonz/a-programmers-guide-to-public-speaking
 [@failscasts]: https://twitter.com/failscasts
 [#208]: https://github.com/rails-oceania/roro/issues/208
 [@stevenringo]: https://twitter.com/stevenringo
