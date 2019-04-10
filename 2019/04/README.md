@@ -13,7 +13,7 @@
 
 ## Lightning Talks - 5 minutes
 
-- **Building a geo-aware travel blog in Rails**
+- **Building a geo-aware travel blog in Rails** ([Travel Blog][])
   - Stephen Lead :: [@stephenlead][] ([#209][])
 - **Exercism: Phone Number** ([Exercism Page][])
   - Josephine Chong :: [@jytc_][] ([#219][])
@@ -23,6 +23,7 @@
 [#208]: https://github.com/rails-oceania/roro/issues/208
 [@stevenringo]: https://twitter.com/stevenringo
 [#202]: https://github.com/rails-oceania/roro/issues/208
+[Travel Blog]: steveandglo.com
 [@stephenlead]: https://twitter.com/stephenlead
 [#209]: https://github.com/rails-oceania/roro/issues/209
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/phone-number
