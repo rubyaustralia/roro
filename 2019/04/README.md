@@ -16,7 +16,7 @@
 
 - **Building a geo-aware travel blog in Rails** ([Travel Blog][])
   - Stephen Lead :: [@stephenlead][] ([#209][])
-- **Exercism: Phone Number** ([Exercism Page][])
+- **[Exercism: Phone Number][]** ([Exercism Page][])
   - Josephine Chong :: [@jytc_][] ([#219][])
 
 ### Slide Deck
@@ -32,6 +32,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Travel Blog]: http://steveandglo.com
 [@stephenlead]: https://twitter.com/stephenlead
 [#209]: https://github.com/rails-oceania/roro/issues/209
+[Exercism: Phone Number]: https://github.com/josephine-c/Phone_number
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/phone-number
 [@jytc_]: https://twitter.com/jytc_
 [#219]: https://github.com/rails-oceania/roro/issues/219
