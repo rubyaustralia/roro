@@ -23,7 +23,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
 [@brushbox]: https://twitter.com/brushbox
-[#208]: https://github.com/rails-oceania/roro/issues/215
+[#215]: https://github.com/rails-oceania/roro/issues/215
 [@nathantesler]: https://twitter.com/nathantesler
 [#220]: https://github.com/rails-oceania/roro/issues/220
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
