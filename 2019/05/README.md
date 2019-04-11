@@ -15,7 +15,7 @@
 ## Lightning Talks - 5 minutes
 
 - **Exercism: High Scores** ([Exercism Page][])
-  - TBD
+  - Jo Dunham :: [@CodeTravelled][] ([#222][])
 
 ### Slide Deck
 
@@ -27,6 +27,8 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [@nathantesler]: https://twitter.com/nathantesler
 [#220]: https://github.com/rails-oceania/roro/issues/220
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
+[@CodeTravelled]: https://twitter.com/CodeTravelled
+[#222]: https://github.com/rails-oceania/roro/issues/222
 [Airtasker]: https://www.airtasker.com/
 [Level 3, 71 York St, Sydney]: https://goo.gl/maps/dADqL1QY5Hp
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzhbsb/
