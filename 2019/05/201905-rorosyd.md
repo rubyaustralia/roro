@@ -133,20 +133,23 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/1j17apo8nu3obvm/carmen-chung.jpg?dl=1)
 
-# [fit] Lightning Talk
-# [fit] **_TBD_**
-# [fit] `@TBD`
+# [fit] How we **halved** our
+# [fit] **memory consumption**
+# [fit] in **Rails** with
+# [fit] jemalloc
+# [fit] **_Carmen Chung_**
+# [fit] `@carmenhchung`
 
 ---
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/wpdgnzutttmc7lc/jo-dunham.jpg?dl=1)
+![right](https://www.dropbox.com/s/wpdgnzutttmc7lc/jo-dunham.jpg?dl=1)
 
-# [fit] Exercism:
-# [fit] **High Scores**
+# [fit] **Exercism:**
+# [fit] High Scores
 # [fit] **_Jo Dunham_**
 # [fit] `@CodeTravelled`
 
@@ -154,7 +157,7 @@ Culture Amp, providers of Company Culture Analytics
 ![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit] `@brushbox` **/** `@nathantesler`
-# [fit] `@TBD` **/** `@CodeTravelled`
+# [fit] `@carmenhchung` **/** `@CodeTravelled`
 # [fit] **`@rorosyd`**
 
 ^

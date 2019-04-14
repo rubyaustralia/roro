@@ -14,6 +14,8 @@
 
 ## Lightning Talks - 5 minutes
 
+- **How we halved our memory consumption in Rails with jemalloc**
+  - Carmen Chung :: [@carmenhchung][] ([#223][])
 - **Exercism: High Scores** ([Exercism Page][])
   - Jo Dunham :: [@CodeTravelled][] ([#222][])
 
@@ -26,6 +28,8 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#215]: https://github.com/rails-oceania/roro/issues/215
 [@nathantesler]: https://twitter.com/nathantesler
 [#220]: https://github.com/rails-oceania/roro/issues/220
+[@carmenhchung]: https://twitter.com/carmenhchung
+[#223]: https://github.com/rails-oceania/roro/issues/223
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
 [@CodeTravelled]: https://twitter.com/CodeTravelled
 [#222]: https://github.com/rails-oceania/roro/issues/222
