@@ -174,13 +174,13 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_TBD_**
+# [fit] **_Acronym_**
 
-### [fit] `exercism download --exercise=TBD --track=ruby`
+### [fit] `exercism download --exercise=acronym --track=ruby`
 
 ^
-(Insert exercise explanation here)
-As always you can find more details and download the challenge at the exercism.io and it you'd like to present your solution at next months meetup submit an issue on the RoRo github or contact myself or one of the other organisers. 
+Help generate some jargon by writing a program that converts a long name like Portable Network Graphics to its acronym (PNG).
+As always you can find more details and download the challenge at the exercism.io and it you'd like to present your solution at next months meetup submit an issue on the RORO github or contact myself or one of the other organisers. 
 
 ---
 
