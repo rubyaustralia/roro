@@ -59,6 +59,7 @@ If you have any issues you want to raise about anything that has happened at a R
 
 ^
 RORO has many sponsors, without which these meetups would not be possible, so again a big thanks to Airtasker who are an online and mobile marketplace supporting the future of work. They kindly provide both the venue and drinks tonight.<br />
+Tonight, though, is our final meetup here at Airtasker. Airtasker has been absolutely fantastic with hosting us, and we are very grateful to them for supporting us for so long. Thanks go especially to Divya for getting the meetup up and running at Airtasker, and to her and the rest of the Airtasker team for helping us with all the logistics needed to host here, and contributing to the success we have had during the past year. So, thank you very much, Airtasker!
 
 ---
 
@@ -294,12 +295,13 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-# [fit] **Next Meetup**
-# [fit] 11 June 2019
-# [fit] **(2nd Tuesday of the month)**
+# [fit] Next Meetup
+# [fit] **11 June 2019**
+# [fit] \(2nd Tuesday of the month\)
+# [fit] at **Coder Academy**
 
 ^
-The next meetup will be the 12th of March.
+The next meetup will be the 12th of March at Coder Academy, located at Level 3, 118 Walker Street North Sydney. No need to remember that now as it will be in the details for the next meetup, but thanks to Coder Academy for hosting our next meetup, and many thanks and a great deal of gratitude to Airtasker for hosting us for the past year! Can we please have another round of applause for Airtasker!
 
 ---
 
