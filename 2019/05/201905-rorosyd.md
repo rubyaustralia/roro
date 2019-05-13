@@ -225,17 +225,42 @@ to do more.<br />
 
 ---
 
-# [fit] **_News 1_**
+# [fit] **_Ruby Kaigi 2019_**
+# [fit] Presentations Online
+
+- https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A/videos
 
 ^
-News 1
+Presentations from this year's Ruby Kaigi in Japan are starting to appear online. I took a look at the presentation lineup and there are heaps of great speakers including Matz, Aaron Patterson, Paulo Perotta and Nobu.  
 
 ---
 
-# [fit] **_News 2_**
+# [fit] **_Ruby has moved to_**
+# [fit] Git
+
+- https://www.ruby-lang.org/en/news/2019/04/23/move-to-git-from-svn/
 
 ^
-News 2
+Till now the canonical repository for Ruby used subversion, but now the 2.7 branch and onward will use Git. 2.6 and lower will continue to use subversion. 
+
+---
+
+# [fit] **_Rails 6.0.0.rc1_**
+# [fit] Released
+
+- https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/
+
+^
+After not quite realising the initial release date, the Rails team have released version 6 rc1. Reading through the blog announcing the release, the team seem pretty confident and are recommending if you're starting a new project, it should be using 6 rc1. Quoting the blog post this release has some significant new features including Action Mailbox, Action Text, multiple database support, parallel testing, and Webpacker handling JavaScript by default. This is a massive step forward for Rails. If anyone here has jumped on board already and wants to let everyone else know what the deal is, why not submit a talk. 
+
+---
+
+# [fit] **_Pattern Matching_**
+# [fit] NEWS
+
+- Stuff
+
+^
 
 ---
 
