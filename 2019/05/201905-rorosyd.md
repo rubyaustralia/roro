@@ -251,16 +251,19 @@ Till now the canonical repository for Ruby used subversion, but now the 2.7 bran
 - https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/
 
 ^
-After not quite realising the initial release date, the Rails team have released version 6 rc1. Reading through the blog announcing the release, the team seem pretty confident and are recommending if you're starting a new project, it should be using 6 rc1. Quoting the blog post this release has some significant new features including Action Mailbox, Action Text, multiple database support, parallel testing, and Webpacker handling JavaScript by default. This is a massive step forward for Rails. If anyone here has jumped on board already and wants to let everyone else know what the deal is, why not submit a talk. 
+After not quite realising the initial release date, the Rails team have released version 6 rc1. Reading through the blog announcing the release, the team seem pretty confident and recommend if you're starting a new project, it should be using 6 rc1. Quoting the blog post this release has some significant new features including Action Mailbox, Action Text, multiple database support, parallel testing, and Webpacker handling JavaScript by default. This is a massive step forward for Rails.
+<br />
+If anyone here has jumped on board already and wants to let everyone else know what the deal is, why not submit a talk. 
 
 ---
 
 # [fit] **_Pattern Matching_**
-# [fit] NEWS
+# [fit] new to Ruby 2.7
 
-- Stuff
+- https://medium.com/@baweaver/ruby-2-7-pattern-matching-first-impressions-cdb93c6246e6
 
 ^
+One of the new feature in Ruby 2.7 will be pattern matching. If you're keen on this feature which is a corner stone of many other languages take a read of this early review by Brandon Weaver.
 
 ---
 
