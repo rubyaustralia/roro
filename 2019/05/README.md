@@ -7,7 +7,7 @@
 
 ## Presentations - 15 minutes
 
-- **Making Software Maintainable**
+- **[Making Software Maintainable][]**
   - Peter Sumskas :: [@brushbox][] ([#215][])
 - **Military-grade Security in Ruby**
   - Nathan Tesler :: [@nathantesler][] ([#220][])
@@ -16,7 +16,7 @@
 
 - **How we halved our memory consumption in Rails with jemalloc**
   - Carmen Chung :: [@carmenhchung][] ([#223][])
-- **Exercism: High Scores** ([Exercism Page][])
+- **[Exercism: High Scores][]** ([Exercism Page][])
   - Jo Dunham :: [@CodeTravelled][] ([#222][])
 
 ### Slide Deck
@@ -24,12 +24,14 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[Making Software Maintainable]: https://www.slideshare.net/PeterSumskas/making-software-maintainable
 [@brushbox]: https://twitter.com/brushbox
 [#215]: https://github.com/rails-oceania/roro/issues/215
 [@nathantesler]: https://twitter.com/nathantesler
 [#220]: https://github.com/rails-oceania/roro/issues/220
 [@carmenhchung]: https://twitter.com/carmenhchung
 [#223]: https://github.com/rails-oceania/roro/issues/223
+[Exercism: High Scores]: https://exercism.io/tracks/ruby/exercises/high-scores/solutions/62e4180e51894536860ded0d4a7d9d88
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/high-scores
 [@CodeTravelled]: https://twitter.com/CodeTravelled
 [#222]: https://github.com/rails-oceania/roro/issues/222
