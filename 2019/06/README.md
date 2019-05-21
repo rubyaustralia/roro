@@ -14,7 +14,7 @@
 - **The Future of Ruby on Rails**
   - Jerome Yewdall :: [@jerome_yewdall][] ([#224][])
 - **Exercism: Acronym** ([Exercism Page][])
-  - Ewe Lin :: [@ewelinloo][] ([#][])
+  - Ewe Lin :: [@ewelinloo][] ([#226][])
 
 ### Slide Deck
 
@@ -25,6 +25,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#224]: https://github.com/rails-oceania/roro/issues/224
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/acronym
 [@ewelinloo]: https://twitter.com/ewelinloo
+[#226]: https://github.com/rails-oceania/roro/issues/226
 [Coder Academy]: https://coderacademy.edu.au/
 [Level 3, 118 Walker Street, North Sydney]: https://goo.gl/maps/zFH2DMfAr32P9mg26
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/jwptrqyzjbpb/
