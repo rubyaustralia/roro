@@ -1,4 +1,4 @@
-# <img src="https://www.dropbox.com/s/55s8voecdbkxobl/roro-logo.jpg?dl=1" align="left" height="40" /> The Ruby on Rails Oceania (RORO) Meetup
+# <img src="https://www.dropbox.com/s/hqxsppcuvul76g2/rorosyd-logo.png?dl=1" align="left" height="40" /> The Ruby on Rails Oceania (RORO) Meetup
 
 ## I want to submit or request a talk!
 
@@ -42,8 +42,6 @@ All RORO events are sponsored by [Ruby Australia][] and are run under its
 [Deckset]: https://www.decksetapp.com/
 [GitPitch]: https://gitpitch.com/
 [RORO Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/
-[ROROSyd Logo]: https://www.dropbox.com/s/55s8voecdbkxobl/roro-logo.jpg?dl=1
 [Ruby Australia]: http://ruby.org.au
-[Ruby Australia logo]: https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=0
 [issues page]: https://github.com/rails-oceania/roro/issues
 [wiki page]: https://github.com/rails-oceania/roro/wiki
