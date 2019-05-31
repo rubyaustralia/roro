@@ -1,4 +1,4 @@
-# <img src="https://www.dropbox.com/s/hqxsppcuvul76g2/rorosyd-logo.png?dl=1" align="left" height="40" /> The Ruby on Rails Oceania (RORO) Meetup
+# <img src="./rorosyd-logo.png" align="left" height="40" /> The Ruby on Rails Oceania (RORO) Meetup
 
 ## I want to submit or request a talk!
 
