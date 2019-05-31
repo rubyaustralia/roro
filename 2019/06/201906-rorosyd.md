@@ -108,11 +108,13 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![left](https://www.dropbox.com/s/zbfesv4y3ob1ajj/tim-riley.jpg?dl=1)
 
-# [fit] Talk 1
-# [fit] **_Person 1_**
-# [fit] `@person1`
+# [fit] A **tour** of
+# [fit] **dry-schema** and
+# [fit] **dry-validation 1.0**
+# [fit] _Tim Riley_
+# [fit] **`@timriley`**
 
 ---
 [.hide-footer]
@@ -132,8 +134,8 @@ Culture Amp, providers of Company Culture Analytics
 
 # [fit] The **Future** of
 # [fit] **Ruby on Rails**
-# [fit] **_Jerome Yewdall_**
-# [fit] `@jerone_yewdall`
+# [fit] _Jerome Yewdall_
+# [fit] **`@jerone_yewdall`**
 
 ---
 [.hide-footer]
@@ -147,9 +149,9 @@ Culture Amp, providers of Company Culture Analytics
 # [fit] `@ewelinloo`
 
 ---
-![inline 5%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
+![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@person1` **/** `@person2`
+# [fit] `@timriley` **/** `@person2`
 # [fit] `@jerome_yewdall` **/** `@ewelinloo`
 # [fit] **`@rorosyd`**
 

@@ -7,7 +7,8 @@
 
 ## Presentations - 15 minutes
 
-- **TBD**
+- **A tour of dry-schema and dry-validation 1.0**
+  - Tim Reilly :: [@timriley][] ([#227][])
 
 ## Lightning Talks - 5 minutes
 
@@ -21,6 +22,8 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[@timriley]: https://twitter.com/timriley
+[#227]: https://github.com/rails-oceania/roro/issues/227
 [@jerome_yewdall]: https://twitter.com/jerome_yewdall
 [#224]: https://github.com/rails-oceania/roro/issues/224
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/acronym
