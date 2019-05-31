@@ -1,4 +1,4 @@
-# The Ruby on Rails Oceania (RORO) Meetup
+# <img src="https://www.dropbox.com/s/55s8voecdbkxobl/roro-logo.jpg?dl=1" align="left" height="40" /> The Ruby on Rails Oceania (RORO) Meetup
 
 ## I want to submit or request a talk!
 
@@ -11,9 +11,13 @@ Check out the [RORO Meetup page][] for all the latest info!
 
 ## I want information about past meetups!
 
-The Meetup page should have the information you're looking for, otherwise go
-check out the [wiki page][] and you should be able to find all the
-information you need.
+Information is a bit dispersed, but you can:
+
+- Check the contents of this repo under the appropriate dated directory<br />
+  (eg `2017/09` contains information about the September 2017 meetup)
+- Check out the [wiki page][]
+- Check the [Meetup page][RORO Meetup page] and run a search for the meetup
+  you're looking for.
 
 ## I want to see the pretty meetup slide decks!
 
@@ -38,6 +42,7 @@ All RORO events are sponsored by [Ruby Australia][] and are run under its
 [Deckset]: https://www.decksetapp.com/
 [GitPitch]: https://gitpitch.com/
 [RORO Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/
+[ROROSyd Logo]: https://www.dropbox.com/s/55s8voecdbkxobl/roro-logo.jpg?dl=1
 [Ruby Australia]: http://ruby.org.au
 [Ruby Australia logo]: https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=0
 [issues page]: https://github.com/rails-oceania/roro/issues
