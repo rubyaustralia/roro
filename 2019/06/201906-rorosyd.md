@@ -14,13 +14,13 @@ Welcome to RoRoSyd.
 
 
 # [fit] **Tonight**
-## _- Talks_
-## _- Events / Tips / Jobs_
-## _- Pub / Gelato_
+## _Talks_
+## _Events / Tips / Jobs_
+## _Pub_
 
 ^
 Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.<br />
-Then it's off to the pub or gelato. 
+Then it's off to the pub to continue the conversation.
 
 ---
 
@@ -120,11 +120,13 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/098icz3exah32o7/richard-heycock.jpg?dl=1)
 
-# [fit] Talk 2
-# [fit] **_Person 2_**
-# [fit] `@person2`
+# [fit] How to
+# [fit] **debug**
+# [fit] a **running process**
+# [fit] _Richard Heycock_
+# [fit] **`@filterfish`**
 
 ---
 [.hide-footer]
@@ -151,7 +153,7 @@ Culture Amp, providers of Company Culture Analytics
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@timriley` **/** `@person2`
+# [fit] `@timriley` **/** `@filterfish`
 # [fit] `@jerome_yewdall` **/** `@ewelinloo`
 # [fit] **`@rorosyd`**
 
