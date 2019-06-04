@@ -3,20 +3,19 @@ footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
 
-# [fit] **_Ruby on Rails_**
-# [fit] **_Oceania_**
-# 11 June 2019
+# [fit] **Ruby on Rails**
+# [fit] Oceania
+# **11 June 2019**
 
 ^
 Welcome to RoRoSyd.
 
 ---
 
-
 # [fit] **Tonight**
-## _Talks_
-## _Events / Tips / Jobs_
-## _Pub_
+## Talks
+## Events / Tips / Jobs
+## Pub
 
 ^
 Again tonight we have a great lineup of speakers, we'll cover some upcoming events, tips, tricks and jobs opportunities.<br />
@@ -24,16 +23,17 @@ Then it's off to the pub to continue the conversation.
 
 ---
 
-
 # [fit] **Housekeeping**
-## _- Bathrooms_
-## _- Hot food_
-## _- Glass bottles_
+### Bathrooms
+### Emergency Exits
+### Hot food
+### Glass bottles
 
 ^
 - Location of bathrooms
 - Feel free to take any leftover food home with you
 - Once you've finished your food and drinks, please be sure to put your plates and bottles in the bins provided.
+- Please recycle all bottles in the tubs
 
 ---
 
@@ -52,12 +52,10 @@ If you have any issues you want to raise about anything that has happened at a R
 
 # [fit] **Thanks to our Sponsors**
 
-<br />
-
-![inline](https://www.dropbox.com/s/lok4ablkc04c3v5/coder-academy-logo.png?dl=1)
+![inline](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
 
 ^
-RORO has many sponsors, without which these meetups would not be possible, so again a big thanks to Coder Academy who are xxxxx. They kindly provide our venue tonight.<br />
+RORO has many sponsors, without which these meetups would not be possible, so a big thanks firstly to Coder Academy whose mission is to promote equality and drive innovation via high quality technology training. Through a variety of tech training programs in Sydney, Melbourne, and Brisbane, Coder Academy equips Australians with the in-demand coding and technology skills they need to tackle the future of work. They kindly provide our venue tonight.<br />
 
 ---
 
@@ -145,10 +143,10 @@ Culture Amp, providers of Company Culture Analytics
 
 ![right](https://www.dropbox.com/s/97od5uuztnn9tse/ewe-lin.jpg?dl=1)
 
-# [fit] **Exercism:**
-# [fit] Acronym
-# [fit] **_Ewe Lin_**
-# [fit] `@ewelinloo`
+# [fit] Exercism:
+# [fit] **Acronym**
+# [fit] _Ewe Lin_
+# [fit] **`@ewelinloo`**
 
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
@@ -162,7 +160,7 @@ If you're twitter inclined please let tonight's speakers know how much you appre
 
 ---
 
-# [fit] **Who's New?**
+# [fit] Who's **New?**
 # [fit] Say **Hello!** :wave:
 
 ^
@@ -171,7 +169,7 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] Next Meetup's Exercism
-# [fit] **_Raindrops_**
+# [fit] **Raindrops**
 
 ### [fit] `exercism download --exercise=raindrops --track=ruby`
 
@@ -192,8 +190,8 @@ Thanks so much to all the speakers tonight, and if anyone is interested in givin
 
 ---
 
-# [fit] **We are always looking for**
-# [fit] SPEAKERS!
+# [fit] We are always looking for
+# [fit] **SPEAKERS!**
 
 ^
 We are looking for speakers!
@@ -204,7 +202,7 @@ We are looking for speakers!
 
 ---
 
-# [fit] **_Where do I sign up?_**
+# [fit] **Where do I sign up?**
 
 - :globe_with_meridians: `github.com/rails-oceania/roro/issues`
 - _`@paulfioravanti`_
@@ -294,8 +292,7 @@ The next meetup will be the 9th of July at FluidIntel, located at 111A Union St,
 ---
 
 # [fit] **And Now...**
-# [fit] - _Pub (location)_ :beer:
-# [fit] - _Gelato? (location)_ :ice_cream:
+# [fit] Pub (Firehouse) :beer:
 
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
