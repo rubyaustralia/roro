@@ -8,7 +8,7 @@
 ## Presentations - 15 minutes
 
 - **A tour of dry-schema and dry-validation 1.0**
-  - Tim Reilly :: [@timriley][] ([#227][])
+  - Tim Riley :: [@timriley][] ([#227][])
 - **How to Debug a Running Process**
   - Richard Heycock :: [@filterfish][] ([#228][])
 
