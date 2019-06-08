@@ -130,12 +130,12 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/95gsx3z03laur2v/jerome-yewdall.jpg?dl=1)
+![left](https://www.dropbox.com/s/252dog4ynjo68xl/sean-mccartan.jpg?dl=1)
 
 # [fit] The **Future** of
 # [fit] **Ruby on Rails**
-# [fit] _Jerome Yewdall_
-# [fit] **`@jerone_yewdall`**
+# [fit] _Sean McCartan_
+# [fit] **`@The_Onset_`**
 
 ---
 [.hide-footer]
@@ -152,7 +152,7 @@ Culture Amp, providers of Company Culture Analytics
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit] `@timriley` **/** `@filterfish`
-# [fit] `@jerome_yewdall` **/** `@ewelinloo`
+# [fit] `@The_Onset_` **/** `@ewelinloo`
 # [fit] **`@rorosyd`**
 
 ^

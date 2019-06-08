@@ -15,7 +15,7 @@
 ## Lightning Talks - 5 minutes
 
 - **The Future of Ruby on Rails**
-  - Jerome Yewdall :: [@jerome_yewdall][] ([#224][])
+  - Sean McCartan :: [@The_Onset_][] ([#224][])
 - **Exercism: Acronym** ([Exercism Page][])
   - Ewe Lin :: [@ewelinloo][] ([#226][])
 
@@ -28,7 +28,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#227]: https://github.com/rails-oceania/roro/issues/227
 [@filterfish]: https://twitter.com/filterfish
 [#228]: https://github.com/rails-oceania/roro/issues/228
-[@jerome_yewdall]: https://twitter.com/jerome_yewdall
+[@The_Onset_]: https://twitter.com/The_Onset_
 [#224]: https://github.com/rails-oceania/roro/issues/224
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/acronym
 [@ewelinloo]: https://twitter.com/ewelinloo
