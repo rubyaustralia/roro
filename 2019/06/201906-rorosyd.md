@@ -50,26 +50,41 @@ If you have any issues you want to raise about anything that has happened at a R
 
 ---
 
-# [fit] **Thanks to our Sponsors**
-
-![inline](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
+# [fit] **Thanks**
+# [fit] to our
+# [fit] **Sponsors**
 
 ^
-RORO has many sponsors, without which these meetups would not be possible, so a big thanks firstly to Coder Academy whose mission is to promote equality and drive innovation via high quality technology training. Through a variety of tech training programs in Sydney, Melbourne, and Brisbane, Coder Academy equips Australians with the in-demand coding and technology skills they need to tackle the future of work. They kindly provide our venue tonight.<br />
+RORO has many sponsors, without which these meetups would not be possible.
+
+---
+# [fit] **Venue Sponsor**
+![inline 220%](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
+
+^
+So, a big thanks firstly to out venue sponsor Coder Academy. Coder Academy's mission is to promote equality and drive innovation via high quality technology training. Through a variety of tech training programs in Sydney, Melbourne, and Brisbane, Coder Academy equips Australians with the in-demand coding and technology skills they need to tackle the future of work.<br />
+
+---
+# [fit] **Drinks Sponsors**
+![inline 130%](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
+![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
+
+^
+Next, your drinks are brought to you tonight by the combined powers of our venue host Coder Academy, and Lookahead Search: technical recruiters who are actually technical. And Lookahead are, literally, always hiring.<br />
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **Food Sponsor**
 
 ![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 ^
-Ruby Australia, who organise sponsorship of all Ruby-related meet-ups around Australia make the delicious non-pizza dinner possible.<br />
-That food budget is covered by Ruby Australia, and hence their sponsors are our sponsors, so we would like to thank...
+The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br />
+Their sponsors are our community sponsors, so we would like to thank...
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **Community Sponsor**
 
 <br />
 
@@ -80,18 +95,18 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **Community Sponsor**
 
 <br />
 
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
-Lookahead, Technical recruiters who are actually technical. And Lookahead are, literally, always hiring.<br />
+Lookahead Search, Technical recruiters who are actually technical.
 
 ---
 
-# [fit] **Thanks to our Sponsors**
+# [fit] **Community Sponsor**
 
 ![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 
@@ -156,7 +171,7 @@ Culture Amp, providers of Company Culture Analytics
 # [fit] **`@rorosyd`**
 
 ^
-If you're twitter inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night altogether. 
+If you're Twitter-inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night altogether. 
 
 ---
 
@@ -219,23 +234,47 @@ to do more.<br />
 
 ---
 
+# [fit] We are always looking for
+# [fit] **VENUES!**
+
+^
+We are now also always looking for venues! If you or your company think you would like to give hosting a RORO meetup a shot, Rob and I would love to hear from you.<br />
+There are no obligations, strings attached, or guilt-trips given about hosting RORO regularly, or even more than once. Maybe your company is meetup-curious and just wants to give it a try, or maybe your company is bursting with VC-funding and wants to host *every* meetup in its resort office until the runway is dry. Whatever the case, if you are interested, please reach out to the RORO organisers.
+
+---
+
 # [fit] **NEWS**
 
 ---
 
-# [fit] **News 1**
+# [fit] **Ruby** 2.7.0-preview1
+# [fit] **Released**
 
-- Subtitle
+- `https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/`
 
 ^
+Includes a number of experimental features like pattern matching, an improved IRB console, beginless ranges amongst other things, so if you want to get a sneak peek at the potential future of Ruby, use your Ruby version manager of choice to download and check out this preview release.
 
 ---
 
-# [fit] **_News 2_**
+# [fit] **Opal** 1.0
+# [fit] **Released**
 
-- Subtitle
+- `http://opalrb.com/blog/2019/05/12/opal-1-0/`
 
 ^
+Opal is a Ruby to JavaScript source-to-source compiler, so if you really don't like Javascript or you just want to write absolutely everything in Ruby, then you can use it to write your front-end code in Ruby.<br />
+We have not had a presentation about it yet, so there is a presentation request in the RORO Github repo about it, so if you want to become the resident community expert in Opal, you could probably do it by presenting an Opal Hello World.
+
+---
+
+# [fit] Future **Mac OS** versions to
+# [fit] **not** include **Ruby**
+
+- `https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes#3318257`
+
+^
+Future versions of Mac OS will not be bundled with scripting languages like Ruby. Not sure of anyone who actually uses the system version of Ruby for anything, and doesn't use a Ruby version manager of some kind (rvm, rbenv, chruby, asdf etc), so hopefully this shouldn't be an issue for most developers.
 
 ---
 
@@ -244,17 +283,19 @@ to do more.<br />
 
 ---
 
-# [fit] **_Event 1_**
+# [fit] **RubyConf** Taiwan
 
-- Subtitle
+### **July 26 - 27 2019**
+### `https://2019.rubyconf.tw/`
 
 ^
+No domestic events for the coming months, but if you're looking for a reason to go overseas, then RubyConf Taiwan is happening on July 26-27, and as well as a great line-up of international speakers, you will also find Adelaide Ruby developer Yuji Yoko doing a talk about developing games for the Sega Dreamcast using mRuby. mRuby being a lightweight implementation of the Ruby language, complying with part of the ISO standard, that can be linked and embedded within an application. We have a presentation request for someone to teach us all about mRuby, so if you are that person, please take up that issue on the RORO repo.
 
 ---
 
 # [fit] **TIPS and TRICKS**
-# [fit] **_Stuff that makes your life_**
-# [fit] **_easier/better/faster_**
+# [fit] _Stuff that makes your life_
+# [fit] _easier/better/faster_
 
 ^
 [Anything speakers want to add...?]
@@ -287,7 +328,7 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 # [fit] at **FluidIntel**
 
 ^
-The next meetup will be the 9th of July at FluidIntel, located at 111A Union St, McMahons Point. No need to remember that now as it will be in the details for the next meetup, but thanks to FluidIntel for hosting our next meetup!
+The next meetup will be the 9th of July at Rob's home turf of FluidIntel, located at 111A Union St, McMahons Point. No need to remember that now as it will be in the details for the next meetup, but thanks to FluidIntel for hosting our next meetup!
 
 ---
 
