@@ -2,7 +2,6 @@ theme: Poster
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
-
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
 # 11 June 2019
@@ -57,6 +56,7 @@ If you have any issues you want to raise about anything that has happened at a R
 RORO has many sponsors, without which these meetups would not be possible.
 
 ---
+[.background-color: #3D4A7E]
 # [fit] **Venue Sponsor**
 ![inline 220%](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
 
@@ -64,6 +64,8 @@ RORO has many sponsors, without which these meetups would not be possible.
 So, a big thanks firstly to out venue sponsor Coder Academy. Coder Academy's mission is to promote equality and drive innovation via high quality technology training. Through a variety of tech training programs in Sydney, Melbourne, and Brisbane, Coder Academy equips Australians with the in-demand coding and technology skills they need to tackle the future of work.<br />
 
 ---
+[.background-color: #3D4A7E]
+
 # [fit] **Drinks Sponsors**
 ![inline 130%](https://www.dropbox.com/s/7h9sxdixw0kwzin/coder-academy-logo.png?dl=1)
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
@@ -72,6 +74,7 @@ So, a big thanks firstly to out venue sponsor Coder Academy. Coder Academy's mis
 Next, your drinks are brought to you tonight by the combined powers of our venue host Coder Academy, and Lookahead Search: technical recruiters who are actually technical. And Lookahead are, literally, always hiring.<br />
 
 ---
+[.background-color: #3D4A7E]
 
 # [fit] **Food Sponsor**
 
@@ -82,6 +85,7 @@ The bill for our dinner tonight gets sent to Ruby Australia, who organise sponso
 Their sponsors are our community sponsors, so we would like to thank...
 
 ---
+[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
@@ -93,6 +97,7 @@ Their sponsors are our community sponsors, so we would like to thank...
 Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
 ---
+[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
@@ -104,6 +109,7 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 Lookahead Search, Technical recruiters who are actually technical.
 
 ---
+[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
