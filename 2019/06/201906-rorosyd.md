@@ -339,6 +339,7 @@ The next meetup will be the 9th of July at Rob's home turf of FluidIntel, locate
 
 # [fit] **And Now...**
 # [fit] *Pub (Firehouse)* :beer:
+# [fit] *Gelato (Gelatissimo)* :ice_cream:
 
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
