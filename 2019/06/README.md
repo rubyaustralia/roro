@@ -7,7 +7,7 @@
 
 ## Presentations - 15 minutes
 
-- **A tour of dry-schema and dry-validation 1.0**
+- **[A tour of dry-schema and dry-validation 1.0][]**
   - Tim Riley :: [@timriley][] ([#227][])
 - **How to Debug a Running Process**
   - Richard Heycock :: [@filterfish][] ([#228][])
@@ -24,6 +24,7 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[A tour of dry-schema and dry-validation 1.0]: https://speakerdeck.com/timriley/a-tour-of-dry-schema-and-dry-validation-1-dot-0
 [@timriley]: https://twitter.com/timriley
 [#227]: https://github.com/rails-oceania/roro/issues/227
 [@filterfish]: https://twitter.com/filterfish
