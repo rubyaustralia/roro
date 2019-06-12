@@ -14,7 +14,7 @@
 
 ## Lightning Talks - 5 minutes
 
-- **The Future of Ruby on Rails**
+- **[The Future of Ruby on Rails][]**
   - Sean McCartan :: [@The_Onset_][] ([#224][])
 - **Exercism: Acronym** ([Exercism Page][])
   - Ewe Lin :: [@ewelinloo][] ([#226][])
@@ -29,6 +29,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#227]: https://github.com/rails-oceania/roro/issues/227
 [@filterfish]: https://twitter.com/filterfish
 [#228]: https://github.com/rails-oceania/roro/issues/228
+[The Future of Ruby on Rails]: https://pages.theonset.com.au/THE-RUBY-REPORT-YQK2UmpzRVOV
 [@The_Onset_]: https://twitter.com/The_Onset_
 [#224]: https://github.com/rails-oceania/roro/issues/224
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/acronym
