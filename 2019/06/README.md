@@ -16,7 +16,7 @@
 
 - **[The Future of Ruby on Rails][]**
   - Sean McCartan :: [@The_Onset_][] ([#224][])
-- **Exercism: Acronym** ([Exercism Page][])
+- **[Exercism: Acronym][]** ([Exercism Page][])
   - Ewe Lin :: [@ewelinloo][] ([#226][])
 
 ### Slide Deck
@@ -32,6 +32,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [The Future of Ruby on Rails]: https://pages.theonset.com.au/THE-RUBY-REPORT-YQK2UmpzRVOV
 [@The_Onset_]: https://twitter.com/The_Onset_
 [#224]: https://github.com/rails-oceania/roro/issues/224
+[Exercism: Acronym]: https://gist.github.com/elloo/90ce269e120ca6dac8c3953665718496
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/acronym
 [@ewelinloo]: https://twitter.com/ewelinloo
 [#226]: https://github.com/rails-oceania/roro/issues/226
