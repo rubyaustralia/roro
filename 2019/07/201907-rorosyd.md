@@ -320,8 +320,8 @@ The next meetup will be on the 13th of August at Microsoft Reactor, located at L
 ---
 
 # [fit] **And Now...**
-# [fit] *Pub (???)* :beer:
-# [fit] *Gelato (???)* :ice_cream:
+# [fit] *Pub (Commodore)* :beer:
+# [fit] *Gelato (Gelatissimo)* :ice_cream:
 
 ^
 Please make sure to clean up after yourself and put your plates in the rubbish bins and empty bottles in the recycling bins. Thanks for coming along and we hope to see you next month!
