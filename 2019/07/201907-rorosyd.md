@@ -117,13 +117,13 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
+![left](https://www.dropbox.com/s/wwtccotxwwl2wc7/rob-and-bailey.jpg?dl=1)
 
-# [fit] *A tale of*
-# [fit] Gems *and*
-# [fit] Opals
-# [fit] **_Aidan Samuel_**
-# [fit] **`@cyclotron3k`**
+# [fit] *PropiFind*
+# [fit] An exploration of
+# [fit] Houses *and* Hanami
+# [fit] **_Rob Cornish_**
+# [fit] **`@robcornish`**
 
 ---
 [.hide-footer]
@@ -161,8 +161,9 @@ Culture Amp, providers of Company Culture Analytics
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@cyclotron3k` */* `@tbd`
-# [fit] `@danieldraper` */* `@tbd`
+# [fit] `@paulfioravanti` */* `@robcornish`
+# [fit] `@danieldraper` */* `TBA`
+
 # [fit] *`@rorosyd`*
 
 ^
