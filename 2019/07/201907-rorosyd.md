@@ -59,7 +59,7 @@ RORO has many sponsors, without which these meetups would not be possible.
 ---
 [.background-color: #3D4A7E]
 # [fit] **Venue Sponsor**
-![inline](https://www.dropbox.com/s/gpjvq8wedafbmgy/fluidintel-logo.jpg?dl=1)
+![inline](https://www.dropbox.com/s/em44kgz9l4woua5/FluidIntel-Reverse.jpg?dl=1)
 
 ^
 So, a big thanks firstly to out venue sponsor FluidIntel, who also kindly provide tonight's drinks. [Insert FluidIntel elevator pitch]
@@ -120,8 +120,8 @@ Culture Amp, providers of Company Culture Analytics
 ![left](https://www.dropbox.com/s/wwtccotxwwl2wc7/rob-and-bailey.jpg?dl=1)
 
 # [fit] *PropiFind*
-# [fit] An exploration of
-# [fit] Houses *and* Hanami
+# [fit] Finding Houses
+# [fit] *through* Hanami
 # [fit] **_Rob Cornish_**
 # [fit] **`@robcornish`**
 
@@ -151,18 +151,16 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
-
 # [fit] *Exercism:*
 # [fit] Raindrops
-# [fit] **_TBD_**
-# [fit] **`@tbd`**
+# [fit] **_Derek Li_**
+# [fit] **`@DerekLi45549491`**
 
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit] `@paulfioravanti` */* `@robcornish`
-# [fit] `@danieldraper` */* `TBA`
+# [fit] `@danieldraper` */* `@DerekLi45549491`
 
 # [fit] *`@rorosyd`*
 
