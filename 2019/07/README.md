@@ -7,26 +7,32 @@
 
 ## Presentations - 15 minutes
 
-- **A tale of gems and opals**
-  - Aidan Samuel :: [@cyclotron3k][] ([#230][])
+- **Exploring Houses and Hanami**
+  - Rob Cornish :: [@robcornish][] ([#234][])
+- **The Curious Incident of the Shadow in the Run-Time**
+  - Paul Fioravanti :: [@paulfioravanti][] ([#235][])
 
 ## Lightning Talks - 5 minutes
 
 - **Why does diversity in tech need "Debugging"?**
   - Daniel Draper :: [@danieldraper][] ([#231][])
 - **Exercism: Raindrops** ([Exercism Page][])
-  - TBD
+  - Derek Liu :: [@DerekLi45549491][] ([#233][])
 
 ### Slide Deck
 
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
-[@cyclotron3k]: https://twitter.com/cyclotron3k
-[#230]: https://github.com/rails-oceania/roro/issues/230
+[@robcornish]: https://twitter.com/robcornish
+[#234]: https://github.com/rails-oceania/roro/issues/234
+[@paulfioravanti]: https://twitter.com/paulfioravanti
+[#235]: https://github.com/rails-oceania/roro/issues/235
 [@danieldraper]: https://twitter.com/danieldraper
 [#231]: https://github.com/rails-oceania/roro/issues/231
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/raindrops
+[@DerekLi45549491]: https://twitter.com/DerekLi45549491
+[#233]: https://github.com/rails-oceania/roro/issues/233
 [FluidIntel]: http://fluidintel.com/
 [111A Union St, McMahons Point NSW 2060]: https://goo.gl/maps/fDzfXoBD8bHjj5qP6
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/lwffcryzkbmb/

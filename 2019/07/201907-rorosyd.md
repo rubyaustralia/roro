@@ -129,11 +129,13 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+![right](https://www.dropbox.com/s/grd4ypz5fgr9tq1/paul-fioravanti.jpg?dl=1)
 
-# [fit] TBD
-# [fit] **_TBD_**
-# [fit] **`@tbd`**
+# [fit] *The* Curious Incident *of the*
+# [fit] Shadow
+# [fit] *in the* Run-Time
+# [fit] **_Paul Fioravanti_**
+# [fit] **`@paulfioravanti`**
 
 ---
 [.hide-footer]
@@ -151,9 +153,11 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
+![right](https://www.dropbox.com/s/adl87l37rkbbhzg/mystery-person.png?dl=1)
+
 # [fit] *Exercism:*
 # [fit] Raindrops
-# [fit] **_Derek Li_**
+# [fit] **_Derek Liu_**
 # [fit] **`@DerekLi45549491`**
 
 ---
