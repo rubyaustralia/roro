@@ -62,7 +62,7 @@ RORO has many sponsors, without which these meetups would not be possible.
 ![inline](https://www.dropbox.com/s/em44kgz9l4woua5/FluidIntel-Reverse.jpg?dl=1)
 
 ^
-So, a big thanks firstly to out venue sponsor FluidIntel, who also kindly provide tonight's drinks. [Insert FluidIntel elevator pitch]
+So, a big thanks firstly to out venue sponsor FluidIntel. At FluidIntel We develop and maintain a fuel management system that protects the lifeblood of trillion dollar industries. A huge thank to Sean and everyone for allowing us here tonight and providing the drinks. 
 
 ---
 [.background-color: #3D4A7E]
@@ -248,7 +248,7 @@ There are no obligations, strings attached, or guilt-trips given about hosting R
 
 ---
 
-# [fit] News 1
+# [fit] ActionView::Component
 # [fit] News 1
 
 - *`link`*
