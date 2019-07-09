@@ -248,23 +248,34 @@ There are no obligations, strings attached, or guilt-trips given about hosting R
 
 ---
 
-# [fit] ActionView::Component
-# [fit] News 1
+# [fit] **Sorbet**
+# [fit] *Open Sourced*
 
-- *`link`*
+## [fit] *`https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet`*
 
 ^
-Explanation
+Ruby typechecker Sorbet is now open source and ready for use, so if you're wanting to make a move from ducktyping to stronger types, then this is currently your best option.
 
 ---
 
-# [fit] News 2
-# [fit] News 2
+# [fit] *`ActionView::Component`*
+# [fit] merged *into*
+# [fit] Rails *master*
 
-- *`link`*
+## [fit] *`https://www.youtube.com/watch?v=y5Z5a6QdA-M`*
 
 ^
-Explanation
+View components are officially coming to Rails with ActionView::Components. Many Rails projects have used gems like Draper to get view-component or decorator functionality in the past, and it would seem that this need is now being met by the Rails Core team.  There is a video about it from RailsConf 2019, whose link is on this slide, so check it out if you want to see what's in store for view components in Rails' future.
+
+---
+
+# [fit] Ruby *Style Guide*
+# [fit] Updated
+
+## [fit] *`https://rubystyle.guide/`*
+
+^
+The website of the popular Ruby Style Guide, which has been a great reference for writing Ruby to "community standards", has received a facelift. The content looks the same, but it looks prettier now, so go check it out.
 
 ---
 
