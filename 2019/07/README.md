@@ -9,12 +9,12 @@
 
 - **Exploring Houses and Hanami**
   - Rob Cornish :: [@robcornish][] ([#234][])
-- **The Curious Incident of the Shadow in the Run-Time**
+- **[The Curious Incident of the Shadow in the Run-Time][]**
   - Paul Fioravanti :: [@paulfioravanti][] ([#235][])
 
 ## Lightning Talks - 5 minutes
 
-- **Why does diversity in tech need "Debugging"?**
+- **[Why does diversity in tech need "Debugging"?][]**
   - Daniel Draper :: [@danieldraper][] ([#231][])
 - **Exercism: Raindrops** ([Exercism Page][])
   - Derek Liu :: [@DerekLi45549491][] ([#233][])
@@ -28,8 +28,10 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#234]: https://github.com/rails-oceania/roro/issues/234
 [@paulfioravanti]: https://twitter.com/paulfioravanti
 [#235]: https://github.com/rails-oceania/roro/issues/235
+[The Curious Incident of the Shadow in the Run-Time]: https://speakerdeck.com/paulfioravanti/the-curious-incident-of-the-shadow-in-the-run-time
 [@danieldraper]: https://twitter.com/danieldraper
 [#231]: https://github.com/rails-oceania/roro/issues/231
+[Why does diversity in tech need "Debugging"?]: https://speakerdeck.com/coderdan/why-does-diversity-need-debugging
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/raindrops
 [@DerekLi45549491]: https://twitter.com/DerekLi45549491
 [#233]: https://github.com/rails-oceania/roro/issues/233
