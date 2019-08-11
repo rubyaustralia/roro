@@ -1,4 +1,4 @@
-theme: Poster
+theme: Sketchnote, 1
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
@@ -57,7 +57,6 @@ If you have any issues you want to raise about anything that has happened at a R
 RORO has many sponsors, without which these meetups would not be possible.
 
 ---
-[.background-color: #3D4A7E]
 # [fit] **Venue Sponsor**
 ![inline](https://www.dropbox.com/s/jhh2eolwgmulyzv/microsoft-logo.png?dl=1)
 
@@ -65,7 +64,6 @@ RORO has many sponsors, without which these meetups would not be possible.
 So, a big thanks firstly to out venue sponsor Microsoft Reactor. "Microsoft Reactors are neighborhood hubs where developer and startup communities, meet, learn and connect. Combining training on the latest technology, community meetups and events with leaders in the industry. Reactors create an inclusive community for interaction and inspiration".
 
 ---
-[.background-color: #3D4A7E]
 
 # [fit] **Drinks Sponsor**
 
@@ -75,7 +73,6 @@ So, a big thanks firstly to out venue sponsor Microsoft Reactor. "Microsoft Reac
 Drinks tonight are graciously provided by Lookahead Search, Technical recruiters who are actually technical. If you're looking for a job in web development, you should absolutely go and talk to them. They even got me my first job in Sydney.
 
 ---
-[.background-color: #3D4A7E]
 
 # [fit] **Food Sponsor**
 
@@ -86,7 +83,6 @@ The bill for our dinner tonight gets sent to Ruby Australia, who organise sponso
 Their sponsors are our community sponsors, so we would like to thank...
 
 ---
-[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
@@ -98,7 +94,6 @@ Their sponsors are our community sponsors, so we would like to thank...
 Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
 
 ---
-[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
@@ -110,7 +105,6 @@ Envato: Leading marketplace for creative assets and creative people. Using Ruby:
 Lookahead Search, with the double shout out, hiring Ruby and web developers is literally all they do, so if you want to trade code for money, go see them.
 
 ---
-[.background-color: #3D4A7E]
 
 # [fit] **Community Sponsor**
 
@@ -257,9 +251,9 @@ Rails 6.0 release candidate 2 has now been released, so if you want to get a sne
 
 # [fit] Rails Camp *26*
 
-### November 15th–18th, 2019
-### *Kyneton, Victoria*
-### [fit] *`https://ti.to/ruby-australia/rails-camp-26-melbourne`*
+# [fit] November 15th–18th, 2019
+# [fit] *Kyneton, Victoria*
+# [fit] *`https://ti.to/ruby-australia/rails-camp-26-melbourne`*
 
 ^
 Rails Camp 26 will be happening from November 15th to 18th in Kyneton, Victoria.<br />
@@ -271,8 +265,8 @@ And for that you get bus transport to/from the Melbourne Tullamarine Airport or 
 # [fit] Rails Girls
 # [fit] *Melbourne*
 
-### *14 September, 2019*
-### [fit] *`https://www.eventbrite.com.au/e/rails-girls-melbourne-september-2019-tickets-67978739239`*
+# [fit] *14 September, 2019*
+# [fit] *`https://www.eventbrite.com.au/e/rails-girls-melbourne-september-2019-tickets-67978739239`*
 
 ^
 Rails Girls Melbourne is on again, this time in Melbourne, so if you're planning on being in the area, then we can highly recommend these great events. Not sure what the status is of the Sydney events, but if one does get scheduled, you'll be sure to hear about it here.
@@ -302,9 +296,9 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 
 ---
 
-### [fit] **Twitter:** *`@rorosyd`, `@rubyaustralia`*
-### **Web:** *`ruby.org.au`*
-### **Google group:** *`rails-oceania`*
+# [fit] **Twitter:** *`@rorosyd`, `@rubyaustralia`*
+# [fit] **Web:** *`ruby.org.au`*
+# [fit] **Google group:** *`rails-oceania`*
 
 ---
 
