@@ -15,7 +15,7 @@
 ## Lightning Talks - 5 minutes
 
 - **Exercism: Isogram** ([Exercism Page][])
-  - Phillip :: [@][] ([#236][])
+  - Phillip Lim :: ([#236][])
 
 ### Slide Deck
 
@@ -24,7 +24,6 @@ This meetup's slide deck was written in a Markdown format designed to work with
 
 [@cyclotron3k]: https://twitter.com/cyclotron3k
 [#230]: https://github.com/rails-oceania/roro/issues/230
-[@]: https://twitter.com/#
 [#232]: https://github.com/rails-oceania/roro/issues/232
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/isogram
 [#236]: https://github.com/rails-oceania/roro/issues/236

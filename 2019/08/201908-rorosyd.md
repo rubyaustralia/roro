@@ -147,7 +147,7 @@ Culture Amp, providers of Company Culture Analytics
 
 # [fit] *Exercism:*
 # [fit] Isogram
-# [fit] **_Phillip_**
+# [fit] **_Phillip Lim_**
 
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
@@ -205,8 +205,8 @@ We are looking for speakers!
 # [fit] **Where do I sign up?**
 
 - :globe_with_meridians: *`github.com/rails-oceania/roro/issues`*
-- _`@paulfioravanti`_
-- _`@robcornish`_
+- *`@paulfioravanti`*
+- *`@robcornish`*
 - *:email: `rorosydmeetup@gmail.com`*
 
 ^
@@ -263,13 +263,14 @@ And for that you get bus transport to/from the Melbourne Tullamarine Airport or 
 ---
 
 # [fit] Rails Girls
-# [fit] *Melbourne*
+# [fit] *Sydney*
 
-# [fit] *14 September, 2019*
-# [fit] *`https://www.eventbrite.com.au/e/rails-girls-melbourne-september-2019-tickets-67978739239`*
+# [fit] 14 September, 2019
+# [fit] *`http://railsgirls.com/sydney.html`*
 
 ^
-Rails Girls Melbourne is on again, this time in Melbourne, so if you're planning on being in the area, then we can highly recommend these great events. Not sure what the status is of the Sydney events, but if one does get scheduled, you'll be sure to hear about it here.
+Rails Girls Sydney is back on again on September 14 at Canva. Rails Girls is a fantastic free event that give tools and a community for women to understand technology and to build their ideas using Ruby on Rails!<br />
+Applications are now open, and Rails Girls is also looking for mentors and sponsors. So, if you want to attend, mentor, or sponsor the workshop, then go to the link you can see on the slide and sign yourself up!
 
 ---
 
