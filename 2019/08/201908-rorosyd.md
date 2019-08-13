@@ -143,7 +143,7 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![right](https://www.dropbox.com/s/8h0mni0llnbi3fo/phillip.png?dl=1)
+![left](https://www.dropbox.com/s/8h0mni0llnbi3fo/phillip-lim.png?dl=1)
 
 # [fit] *Exercism:*
 # [fit] Isogram
@@ -154,8 +154,8 @@ Culture Amp, providers of Company Culture Analytics
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit] `@cyclotron3k` / `@PhilLikes2code`
+# [fit] **_`@rorosyd`_**
 
-# [fit] *`@rorosyd`*
 
 ^
 If you're Twitter-inclined please let tonight's speakers know how much you appreciate the work they put in by tweeting about it. Giving feedback definitely makes the speakers feel their efforts have made an impact beyond building their own presentation portfolio. Don't forget to mention rorosyd to tie the night altogether. 
