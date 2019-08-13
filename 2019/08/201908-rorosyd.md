@@ -148,11 +148,12 @@ Culture Amp, providers of Company Culture Analytics
 # [fit] *Exercism:*
 # [fit] Isogram
 # [fit] **_Phillip Lim_**
+# [fit] **`@PhilLikes2code`**
 
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@cyclotron3k`
+# [fit] `@cyclotron3k` / `@PhilLikes2code`
 
 # [fit] *`@rorosyd`*
 

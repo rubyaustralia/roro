@@ -15,7 +15,7 @@
 ## Lightning Talks - 5 minutes
 
 - **Exercism: Isogram** ([Exercism Page][])
-  - Phillip Lim :: ([#236][])
+  - Phillip Lim :: [@PhilLikes2code][] ([#236][])
 
 ### Slide Deck
 
@@ -26,6 +26,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#230]: https://github.com/rails-oceania/roro/issues/230
 [#232]: https://github.com/rails-oceania/roro/issues/232
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/isogram
+[@PhilLikes2code]: https://twitter.com/PhilLikes2code
 [#236]: https://github.com/rails-oceania/roro/issues/236
 [Microsoft Reactor]: https://developer.microsoft.com/en-us/reactor/Location/Sydney
 [Level 10 11-31 York St Sydney]: https://goo.gl/maps/fkARJp2MErvFaTQu8
