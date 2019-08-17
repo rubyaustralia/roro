@@ -7,9 +7,9 @@
 
 ## Presentations - 15 minutes
 
-- **A tale of gems and opals**
+- **[A tale of gems and opals][]**
   - Aiden Samuel :: [@cyclotron3k][] ([#230][])
-- **A beginner's guide to learning Ruby**
+- **[A beginner's guide to learning Ruby][]**
   - Mahbub Zaman :: ([#232][])
 
 ## Lightning Talks - 5 minutes
@@ -22,8 +22,10 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[A tale of gems and opals]: https://docs.google.com/presentation/d/e/2PACX-1vRzrM5TNoUCi-1UX8V01TttsptNE5PbXHDcF2QiQo0qXHvhSNq4dxNWHtee45SdRAqfPi8emOxZLLhJ/pub?slide=id.p
 [@cyclotron3k]: https://twitter.com/cyclotron3k
 [#230]: https://github.com/rails-oceania/roro/issues/230
+[A beginner's guide to learning Ruby]: https://docs.google.com/presentation/d/1LP3elUlkahLXM7EQN-4AbKSVoN8ls3iA5NkAKCqmn88/edit
 [#232]: https://github.com/rails-oceania/roro/issues/232
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/isogram
 [@PhilLikes2code]: https://twitter.com/PhilLikes2code
