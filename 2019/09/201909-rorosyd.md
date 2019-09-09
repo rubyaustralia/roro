@@ -58,7 +58,7 @@ RORO has many sponsors, without which these meetups would not be possible.
 
 ---
 # [fit] **Venue Sponsor**
-![inline](https://www.dropbox.com/s/jhh2eolwgmulyzv/microsoft-logo.png?dl=1)
+![inline](https://www.dropbox.com/s/ltixq3y2612xxyy/expert360.png?dl=1)
 
 ^
 So, a big thanks firstly to out venue sponsor Microsoft Reactor. "Microsoft Reactors are neighborhood hubs where developer and startup communities, meet, learn and connect. Combining training on the latest technology, community meetups and events with leaders in the industry. Reactors create an inclusive community for interaction and inspiration".
@@ -121,16 +121,29 @@ Culture Amp, providers of Company Culture Analytics
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/nrudryq14srs5mx/aidan-samuel.jpg?dl=1)
+![left](https://www.dropbox.com/s/muz550ivy9t0j5u/rowena-stewart.jpg?dl=1)
 
 # [fit] *Sonic Pi*
 # [fit] **_Rowena Stewart_**
 # [fit] **`@goldenfennec`**
 
+^
+Tonight we have something a little different. Rowena Stewart is going to take us through Sonic Pi and how you use it to create music. Once she's given a rundown of the software, I think she has a bit of group participation in mind and at the end of the night we might have a slammin RoRo hit on our hands. 
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/grd4ypz5fgr9tq1/paul-fioravanti.jpg?dl=1)
+
+# [fit] *Armstrong Numbers*
+# [fit] **_Paul Fioravanti_**
+# [fit] **`@paulfioravanti`**
+
 ---
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@goldenfennec`
+# [fit] `@goldenfennec`, `@paulfioravanti`
 # [fit] **_`@rorosyd`_**
 
 
@@ -148,16 +161,37 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] *Next Meetup's* Exercism
-# [fit] **Armstrong Numbers**
+# [fit] **Saddle Point**
 
-# [fit] *`exercism download --exercise=armstrong-numbers --track=ruby`*
+# [fit] *`exercism download --exercise=saddle-points --track=ruby`*
 
 ^
-An Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits.<br />
-For example:<br />
-9 is an Armstrong number, because 9 = 9^1 = 9<br />
-10 is not an Armstrong number, because 10 != 1^2 + 0^2 = 1<br />
-Write some code to determine whether a number is an Armstrong number.
+Next months challenge is Saddle Points. There might be some different definitions of what these are but for this challenge here's the explanation. 
+
+---
+
+```
+
+              
+              
+             0  1  2
+           |---------
+         0 | 9  8  7
+         1 | 5  3  2     <--- saddle point at (1,0)
+         2 | 6  6  7
+
+```
+
+^
+It has a saddle point at (1, 0).
+</br>
+It's called a "saddle point" because it is greater than or equal to every element in its row and less than or equal to every element in its column.
+</br>
+A matrix may have zero or more saddle points.
+</br>
+Your code should be able to provide the (possibly empty) list of all the saddle points for any given matrix.
+</br>
+The matrix can have a different number of rows and columns (Non square).
 
 ---
 
@@ -212,13 +246,36 @@ Whatever the case, if you are interested, please reach out to the RORO organiser
 
 ---
 
-# [fit] Rails 6.0.0 rc2
+# [fit] Rails 6.0.0
 # [fit] *released*
 
-## [fit] *`https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet`*
+## [fit] *`https://weblog.rubyonrails.org/2019/8/15/Rails-6-0-final-release/`*
 
 ^
-Rails 6.0 release candidate 2 has now been released, so if you want to get a sneak peek at the now-near future of Rails, From Action Mailbox to Action Text, multiple database support, parallel testing, and Webpacker handling JavaScript by default, then give it a try, and maybe even give a ROROSyd talk about it. You could become our resident Rails 6 expert by probably just using it to run rails new in a talk. It's all about first mover advantage.
+Rails 6 has been release. If you haven't checked it out here's a quote from the
+blog with the headline features
+</br>
+Dealing with incoming email, composing rich-text content, connecting to multiple databases, parallelizing test runs, integrating JavaScript with love, and rewriting the code loader. These are fundamental improvements to the fundamentals of working with the web and building fast and fresh applications. This is the kind of work we’ve been doing for the past fifteen years, and we’re still at it.
+
+---
+
+# [fit] Ruby 2.6.4
+# [fit] *released*
+
+## [fit] *`https://www.ruby-lang.org/en/news/2019/08/28/ruby-2-6-4-released/`*
+
+^
+Ruby 2.6.4 has been release with a security fix for RDoc. For more details please read the blog. 
+
+---
+
+# [fit] Jekyll 4.0.0
+# [fit] *released*
+
+## [fit] *`https://jekyllrb.com/news/2019/08/20/jekyll-4-0-0-released/`*
+
+^
+Jekyll is a static site site generator written in Ruby. They've just released version 4 with some major speed improvements. If you're looking for an easy way to get you're blog up and running, Jekyll might be the answer.
 
 ---
 
@@ -266,6 +323,20 @@ Applications are now open, and Rails Girls is also looking for mentors and spons
 
 ^
 Offering: say your name, your company name, a sentence on what you do. And a sentence on who you're looking for - juniors, mids, seniors etc
+
+---
+
+# [fit] **We're looking for**
+## [fit] *HELP!*
+
+^
+Before we finish up tonight I wanted to put the work out that Paul and I are
+looking for help to keep RoRo going. 
+</br>
+We've been doing this for a couple of years now and feel it's time to step back
+a little and pass the reigns on. 
+</br>
+...
 
 ---
 
