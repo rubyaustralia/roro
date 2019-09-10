@@ -57,20 +57,11 @@ If you have any issues you want to raise about anything that has happened at a R
 RORO has many sponsors, without which these meetups would not be possible.
 
 ---
-# [fit] **Venue Sponsor**
+# [fit] **Venue & Drinks Sponsor**
 ![inline](https://www.dropbox.com/s/ltixq3y2612xxyy/expert360.png?dl=1)
 
 ^
-So, a big thanks firstly to out venue sponsor Microsoft Reactor. "Microsoft Reactors are neighborhood hubs where developer and startup communities, meet, learn and connect. Combining training on the latest technology, community meetups and events with leaders in the industry. Reactors create an inclusive community for interaction and inspiration".
-
----
-
-# [fit] **Drinks Sponsor**
-
-![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
-
-^
-Drinks tonight are graciously provided by Lookahead Search, Technical recruiters who are actually technical. If you're looking for a job in web development, you should absolutely go and talk to them. They even got me my first job in Sydney.
+So, a big thanks firstly to out venue sponsor for tonight Expert360. Expert360 acts as a digital platform for matching independent business consultants with clients for short or long term project work.
 
 ---
 
@@ -91,7 +82,7 @@ Their sponsors are our community sponsors, so we would like to thank...
 ![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 
 ^
-Envato: Leading marketplace for creative assets and creative people. Using Ruby: Always Hiring.
+Envato: Leading marketplace for creative assets and creative people.
 
 ---
 
@@ -252,8 +243,7 @@ Whatever the case, if you are interested, please reach out to the RORO organiser
 ## [fit] *`https://weblog.rubyonrails.org/2019/8/15/Rails-6-0-final-release/`*
 
 ^
-Rails 6 has been release. If you haven't checked it out here's a quote from the
-blog with the headline features
+Rails 6 has been release. If you haven't checked it out here's a quote from the blog outlining the headline features
 </br>
 Dealing with incoming email, composing rich-text content, connecting to multiple databases, parallelizing test runs, integrating JavaScript with love, and rewriting the code loader. These are fundamental improvements to the fundamentals of working with the web and building fast and fresh applications. This is the kind of work we’ve been doing for the past fifteen years, and we’re still at it.
 
@@ -330,13 +320,13 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
 ## [fit] *HELP!*
 
 ^
-Before we finish up tonight I wanted to put the work out that Paul and I are
-looking for help to keep RoRo going. 
+Before we finish up tonight I wanted to put the word out that Paul and I are looking for help to keep RoRo going. 
 </br>
-We've been doing this for a couple of years now and feel it's time to step back
-a little and pass the reigns on. 
+We've been doing this for a couple of years now and feel it's time to step back a little and pass the reigns on to a new person or people that can continue to keep the RoRo flame burning. 
 </br>
-...
+I can assure you it's a very rewarding endeavour and the friends you make and experience you gain is invaluable.
+</br>
+If you think you have what it takes, or even if you don't think you do, you probably do and don't even realise it. Come and speak to Paul or myself or reach out through one of the online channels and we can start the first stage of the 10 stage interview process beginning with a whiteboard exercise. No seriously, if you keen and passionate we'll probably just say, over to you.  
 
 ---
 
@@ -358,7 +348,7 @@ a little and pass the reigns on.
 # [fit] *at* your place ??
 
 ^
-The next meetup will be on the 10th of September at Expert360, located at Level 3, 14 Martin Place, Sydney. No need to remember that now as it will be in the details for the next meetup, but thanks to Expert360 for hosting our next meetup!
+The next meetup will be on the 8th of October at your place! Seriously, if you want to host please let us know.
 
 ---
 
