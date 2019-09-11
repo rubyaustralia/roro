@@ -7,12 +7,12 @@
 
 ## Presentations - 15 minutes
 
-- **Introduction to Sonic Pi**
+- **[Introduction to Sonic Pi][]**
   - Rowena Stewart :: [@GoldenFennec][] ([#193][])
 
 ## Lightning Talks - 5 minutes
 
-- **Exercism: Armstrong Numbers** ([Exercism Page][])
+- **[Exercism: Armstrong Numbers][]** ([Exercism Page][])
   - Paul Fioravanti :: [@paulfioravanti][] ([#239][])
 
 ### Slide Deck
@@ -20,8 +20,10 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[Introduction to Sonic Pi]: https://gist.github.com/rowena-s/f32cc837db205f8e8b270f90b1dba402
 [@GoldenFennec]: https://twitter.com/GoldenFennec
 [#193]: https://github.com/rails-oceania/roro/issues/193
+[Exercism: Armstrong Numbers]: https://speakerdeck.com/paulfioravanti/exercism-armstrong-numbers-ruby
 [Exercism Page]: https://exercism.io/tracks/ruby/exercises/armstrong-numbers
 [@paulfioravanti]: https://twitter.com/paulfioravanti
 [#239]: https://github.com/rails-oceania/roro/issues/239
