@@ -7,7 +7,7 @@
 
 ## Presentations - 15 minutes
 
-- **Dubugging in Rails**
+- **Debugging in Rails**
   - Sameera Gayan :: [@sameera207][] ([#240][])
 
 ## Lightning Talks - 5 minutes

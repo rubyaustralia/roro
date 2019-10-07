@@ -4,7 +4,7 @@ slidenumbers: true
 
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
-#  7 October 2019
+#  8 October 2019
 
 ^
 Welcome to RoRoSyd.
@@ -102,7 +102,7 @@ Envato: Leading marketplace for creative assets and creative people.
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
-Lookahead Search, a software recruiting firm that specialise in hiring for Ruby and web developer roles, so if you want to trade code for money, go see them.
+Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
 
 ---
 # [fit] **Community Sponsor**
@@ -117,7 +117,7 @@ Culture Amp, providers of Company Culture Analytics
 
 ![left](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
 
-# [fit] *Debugging rails*
+# [fit] *Debugging in Rails*
 
 # [fit] **(A.K.A what to do when :poop: :punch: the fan)**
 
@@ -133,7 +133,7 @@ Up first we have Sameera, who's going to talk to us through some debugging techn
 
 ![left](https://www.dropbox.com/s/m55ungf8p5688px/patrick-dunn.jpg?dl=1)
 
-# [fit] *Saddle Point*
+# [fit] *Exercism: Saddle Point*
 
 # [fit] **_Patrick Dunn_**
 # [fit] **`@theonevehicle`**
@@ -212,6 +212,7 @@ We are looking for speakers!
 - Games in DragonRuby
 - Cross-platform apps using RubyMotion
 - Chatbots in Stealth
+- Ruby-based blockchain for ROROSyd Bucks(tm)
 
 ^
 Here are a few topics that might peak your interest. I don't know anything about these things, and I'd bet there are a bunch of people in the audience including myself that would love
@@ -244,7 +245,7 @@ to do more.<br />
 These days we are also always looking for venues! If you or your company think you would like to give hosting a RORO meetup a shot, we would love to hear from you.<br />
 There are no obligations, strings attached, or guilt-trips given about hosting RORO regularly, or even more than once.<br />
 If you've got a space big enough to host about 50-60 odd people, access to a projector, ability to have food delivered, maybe even a drinks fridge, and the desire to go down in the annuls of RORO Sydney as one of our awesome sponsors, then we should definitely talk.
-Whatever the case, if you are interested, please reach out to the RORO organisers.
+We're looking for a December Venue and any month from March 2020, so if you want to host the final RORO of the year, please reach out to RORO organisers.
 
 ---
 
@@ -336,13 +337,15 @@ I passed my technical interview with flying colours, they only made me cry a few
 
 ---
 
+---
+
 # [fit] *Next Meetup*
 # [fit] 12 November 2019
 # [fit] **_(2nd Tuesday of the month)_**
-# [fit] *at* your place ??
+# [fit] *at* Jora
 
 ^
-The next meetup will be on the 12 November 2019 at your place! Seriously, if you want to host please let us know.
+The next meetup will be on the 12 November 2019 at Jora, located at Level 2, 80 Pacific Hwy, North Sydney, 2060. No need to remember that now as it will be in the details for the next meetup, but thanks to Jora for hosting our next meetup!
 
 ---
 
