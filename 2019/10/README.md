@@ -12,7 +12,7 @@
 
 ## Lightning Talks - 5 minutes
 
-- **[Exercism: Saddle Point][]**
+- **Exercism: Saddle Point** ([Exercism page][])
   - Patrick Dunn :: [@theonevehicle][] ([#241][])
 
 ### Slide Deck
@@ -22,11 +22,11 @@ This meetup's slide deck was written in a Markdown format designed to work with
 
 [@sameera207]: https://twitter.com/sameera207
 [#240]: https://github.com/rails-oceania/roro/issues/240
-[#241]: https://github.com/rails-oceania/roro/issues/241
-[Exercism: Saddle Point]: https://exercism.io/tracks/ruby/exercises/saddle-point
+[Exercism page]: https://exercism.io/tracks/ruby/exercises/saddle-point
 [@theonevehicle]: https://twitter.com/theonevehicle
+[#241]: https://github.com/rails-oceania/roro/issues/241
 [Pivotal]: https://pivotal.io/
 [Level 11 155 Clarence Street Sydney]: https://goo.gl/maps/ZDZ3SS8VFADKuhbf7
 [Meetup page]: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/cmnfhryzmbnb/
-[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-09-12%20until%3A2019-10-12&src=typd
+[Tweets]: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-10-07%20until%3A2019-10-09&src=typd
 [Deckset]: https://www.decksetapp.com/
