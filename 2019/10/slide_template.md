@@ -4,7 +4,7 @@ slidenumbers: true
 
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
-#  8 October 2019
+# <%= current_meetup_date %>
 
 ^
 Welcome to RoRoSyd.
@@ -77,73 +77,40 @@ RORO has many sponsors, without which these meetups would not be possible.
 ---
 
 
-# [fit] **Venue & Drinks Sponsor**
-![inline](https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1)
+<% sponsors.each do | sponsor | %>
+# [fit] **<%= sponsor.title %> Sponsor**
+![inline](<%= sponsor.company.profile %>)
 
 ^
-So, a big thanks firstly to our venue sponsor for tonight Pivotal. Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.
+<%= sponsor.notes %>
+
 ---
 
-# [fit] **Food Sponsor**
-![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
+<% end %>
 
-^
-The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
----
-
-# [fit] **Community Sponsor**
-![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
-
-^
-Envato: Leading marketplace for creative assets and creative people.
----
-
-# [fit] **Community Sponsor**
-![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
-
-^
-Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
----
-
-# [fit] **Community Sponsor**
-![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
-
-^
-Culture Amp, providers of Company Culture Analytics
----
-
-
+<% talks.each do | talk | %>
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
+![left](<%= talk.speaker.profile %>)
 
-# [fit] *Debugging in Rails*
-# [fit] **(A.K.A what to do when :poop: :punch: the fan)**
-# [fit] **_Sameera Gayan_**
-# [fit] **`@sameera207`**
-
-^
-Up first we have Sameera, who's going to talk to us through some debugging techniques in rails and more importantly how to fix things when the defication has hit the oscillation
-
----
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://www.dropbox.com/s/m55ungf8p5688px/patrick-dunn.jpg?dl=1)
-
-# [fit] *Exercism: Saddle Point*
-# [fit] **_Patrick Dunn_**
-# [fit] **`@theonevehicle`**
+# [fit] *<%= talk.talk_name %>*
+<% if talk.subtitle %>
+# [fit] **<%= talk.subtitle %>**
+<% end %>
+# [fit] **_<%= talk.speaker.name %>_**
+# [fit] **`<%= talk.speaker.social_handle %>`**
 
 ^
-We've also go Patrick taking us through the saddle point exercism challenge
+<%= talk.notes %>
+
 
 ---
+<% end %>
 
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@sameera207`, `@theonevehicle`
+# [fit] <%= all_social_handles %>
 # [fit] **_`@rorosyd`_**
 
 
@@ -349,12 +316,12 @@ I passed my technical interview with flying colours, they only made me cry a few
 ---
 
 # [fit] *Next Meetup*
-# [fit] 12 November 2019
+# [fit] <%= next_meetup_date %>
 # [fit] **_\(2nd Tuesday of the month\)_**
 # [fit] *at* Jora
 
 ^
-The next meetup will be on the 12 November 2019 at Jora, located at Level 2, 80 Pacific Hwy, North Sydney, 2060. No need to remember that now as it will be in the details for the next meetup, but thanks to Jora for hosting our next meetup!
+The next meetup will be on the <%= next_meetup_date %> at Jora, located at Level 2, 80 Pacific Hwy, North Sydney, 2060. No need to remember that now as it will be in the details for the next meetup, but thanks to Jora for hosting our next meetup!
 
 ---
 
