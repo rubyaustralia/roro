@@ -244,6 +244,7 @@ to do more.<br />
 ^
 These days we are also always looking for venues! If you or your company think you would like to give hosting a RORO meetup a shot, we would love to hear from you.<br />
 There are no obligations, strings attached, or guilt-trips given about hosting RORO regularly, or even more than once.<br />
+A one off is great and is appreciated, we'd also really love to find a permanent home for the next 6-12 months
 If you've got a space big enough to host about 50-60 odd people, access to a projector, ability to have food delivered, maybe even a drinks fridge, and the desire to go down in the annuls of RORO Sydney as one of our awesome sponsors, then we should definitely talk.
 We're looking for a December Venue and any month from March 2020, so if you want to host the final RORO of the year, please reach out to RORO organisers.
 
@@ -297,6 +298,17 @@ Ruby Conf early bird tickets are now up and awaiting your purchase, CFP is also 
 
 ---
 
+# [fit] Ruby Australia AGM
+# [fit] *Online*
+# [fit] October 14th, 2019
+# [fit] *`https://ruby.org.au`*
+
+^
+The Ruby AGM is on next week, all members are welcome at the AGM online. They're also looking for committee nominations so if this is something you want to get involved with then you
+can hop online, become a member if you're not already and get involved there.
+
+---
+
 # [fit] **Tips and Tricks**
 # [fit] _Stuff that makes your life_
 # [fit] _easier/better/faster_
@@ -334,8 +346,6 @@ I passed my technical interview with flying colours, they only made me cry a few
 # [fit] **Twitter:** *`@rorosyd`, `@rubyaustralia`*
 # [fit] **Web:** *`ruby.org.au`*
 # [fit] **Google group:** *`rails-oceania`*
-
----
 
 ---
 
