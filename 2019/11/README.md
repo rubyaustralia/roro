@@ -7,15 +7,15 @@
 
 ## Presentations - 15 minutes
 
-- **Teaching Rails: What I Unlearned so my Students could Succeed**
+**Teaching Rails: What I Unlearned so my Students could Succeed**
   - Rishikesh Tirumala ([#242][])
 
 ## Lightning Talks - 5 minutes
 
-- **Building a simple app at Rails Girls using Ruby on Rails**
+**Building a simple app at Rails Girls using Ruby on Rails**
   - Josephine Chong & Jo Dunham :: [@jytc_][] & [@CodeTravelled][] ([#245][])
 
-- **Exercism: Simple Cipher** ([Exercism page][])
+**Exercism: Simple Cipher** ([Exercism page][])
   - Su Win :: [@Su77491710][] ([#246][])
 
 ### Slide Deck
@@ -29,6 +29,7 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [#245]: https://github.com/rails-oceania/roro/issues/245
 [Exercism page]: https://exercism.io/tracks/ruby/exercises/simple-cipher
 [@Su77491710]: https://twitter.com/Su77491710
+[#246]: https://github.com/rails-oceania/roro/issues/246
 
 [Jora]: https://au.jora.com/
 [80 Pacific Highway North Sydney]: https://goo.gl/maps/mPBx4z97FH9qKXuB8
