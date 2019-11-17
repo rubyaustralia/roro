@@ -121,6 +121,7 @@ Culture Amp, providers of Company Culture Analytics
 # [fit] *Rishikesh Tirumala*
 
 ^
+Tonight's first presentation is from Rishikesh Tirumala who is going to talk about what you might need to unlearn to help the learning of other.
 
 ---
 [.hide-footer]
