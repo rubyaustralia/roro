@@ -10,6 +10,9 @@
 **Teaching Rails: What I Unlearned so my Students could Succeed**
   - Rishikesh Tirumala ([#242][])
 
+**Introduction to Machine Learning in Ruby**
+  - Hemanth Haridas :: [@hhemanth][] ([#218][])
+
 ## Lightning Talks - 5 minutes
 
 **Building a simple app at Rails Girls using Ruby on Rails**
@@ -24,6 +27,8 @@ This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
 [#242]: https://github.com/rails-oceania/roro/issues/242
+[@hhemanth]: https://twitter.com/hhemanth
+[#218]: https://github.com/rails-oceania/roro/issues/218
 [@jytc_]: https://twitter.com/jytc_
 [@CodeTravelled]: https://twitter.com/CodeTravelled
 [#245]: https://github.com/rails-oceania/roro/issues/245

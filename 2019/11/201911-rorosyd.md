@@ -124,6 +124,18 @@ Culture Amp, providers of Company Culture Analytics
 Tonight's first presentation is from Rishikesh Tirumala who is going to talk about what you might need to unlearn to help the learning of other.
 
 ---
+
+![left](https://www.dropbox.com/s/91n23cnkozhf3k2/hemanth-haridas.jpg?dl=1)
+
+# [fit] Introduction to
+# [fit] Machine Learning
+# [fit] in Ruby
+# [fit] *Hemanth Haridas*
+# [fit] `@hhemanth`
+
+^
+
+---
 [.hide-footer]
 [.slidenumbers: false]
 
@@ -158,10 +170,13 @@ Tonight's first presentation is from Rishikesh Tirumala who is going to talk abo
 # [fit] **`@Su77491710`**
 
 ---
+[.header: alignment(center)]
+
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] `@CodeTravelled`, `@jytc_`
-# [fit] `@Su77491710`, **_`@rorosyd`_**
+# [fit] `@hhemanth`, `@CodeTravelled`
+# [fit] `@jytc_`, `@Su77491710`
+# [fit] **_`@rorosyd`_**
 
 
 ^
