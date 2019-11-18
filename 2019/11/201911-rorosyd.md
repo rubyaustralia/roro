@@ -245,6 +245,16 @@ Whatever the case, if you are interested, please reach out to the RORO organiser
 
 ---
 
+# [fit] Ruby 2.7
+# [fit] *_preview 2_*
+
+# [fit] *`https://www.ruby-lang.org/en/news/2019/10/22/ruby-2-7-0-preview2-released/`*
+
+^
+This is a preview of the release we're expecting for Christmas this year. There are some cool new features planned for Ruby 2.7. IRB will support multiline editing so no more crazy single line classes when testing things out. Other significant features include pattern matching, changed to the separation of keyword arguments and many more. Please read the notes for full details. 
+
+---
+
 # [fit] **_Upcoming_**
 # [fit] **Events**
 
@@ -258,6 +268,16 @@ Whatever the case, if you are interested, please reach out to the RORO organiser
 
 ^
 Who went? How was it?
+
+---
+
+# [fit] RubyConf
+
+# [fit] 20th - 21st February 2020
+# [fit] *`https://rubyconf.org.au/2020`*
+
+^
+RubyConf is on over the 20th and 21st of February next year in Melbourne. It will be held in the Melbourne Town Hall this time around and it looks like early bird tickets have ended. Standard tickets are available so if you're thinking of attending secure yours now. 
 
 ---
 
