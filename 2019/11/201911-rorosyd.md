@@ -139,30 +139,18 @@ Tonight's first presentation is from Rishikesh Tirumala who is going to talk abo
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://www.dropbox.com/s/wpdgnzutttmc7lc/jo-dunham.jpg?dl=1)
+![left](https://www.dropbox.com/s/4gxb5djrubj0psr/jo_jo.jpeg?dl=1)
 
 # [fit] *Building a simple app*
 # [fit] Rails Girls
-# [fit] **_Jo Dunham_**
+# [fit] **_Jo Dunham_** && **_Jo Chong_**
 # [fit] **`@CodeTravelled`**
-
-
----
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://www.dropbox.com/s/aj4qzpgancheo3z/josephine-chong.jpg?dl=1)
-
-# [fit] *Building a simple app*
-# [fit] Rails Girls
-# [fit] **_Jo Chong_**
 # [fit] **`@jytc_`**
 
 ---
+
 [.hide-footer]
 [.slidenumbers: false]
-
-![left]()
 
 # [fit] *Exercism*
 # [fit] Simple Cipher
