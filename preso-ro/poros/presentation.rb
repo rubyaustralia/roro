@@ -10,7 +10,7 @@ class Presentation < Dry::Struct
   attribute :talk_name, Types::Strict::String
   attribute :speaker, Speaker
   attribute :notes, Types::String.default(''.freeze)
-  attribute :subtitle, Types::String.meta(omittable: true)
+  attribute :subtitle, Types::String.meta(omittable: true).optional
   attribute :issue, Types::Coercible::String
 
 end

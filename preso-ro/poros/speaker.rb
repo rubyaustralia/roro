@@ -19,6 +19,5 @@ class Speaker < Dry::Struct
 
   attribute :name, Types::String
   attribute :profile, Types::String
-  attribute :social_handle, Types::String.optional
-
+  attribute :social_handle, Types::String.meta(omittable: true).optional
 end

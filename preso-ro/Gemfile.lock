@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    byebug (11.0.1)
     chronic (0.10.2)
     concurrent-ruby (1.1.5)
     dry-configurable (0.8.3)
@@ -36,6 +37,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   chronic
   dry-struct
   thor

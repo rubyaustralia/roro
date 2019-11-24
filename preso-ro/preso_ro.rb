@@ -1,7 +1,7 @@
 require 'erb'
 require 'date'
 require 'chronic'
-
+require 'byebug'
 
 require_relative "./poros/sponsor"
 require_relative "./poros/speaker"
@@ -32,7 +32,7 @@ class PresoGo
     end
 
     talks = presentations + lightning_talks
-    all_social_handles = talks.map{ |talk| "`#{talk.speaker.social_handle}`" }.join(", ")
+    all_social_handles = talks.map{ |talk| talk.speaker.social_handle }.compact.map{|handle| "`#{handle}`"}.join(", ")
 
     current_meetup_date = render_meetup_date(date: meetup_month)
     next_meetup_date = render_meetup_date(date: meetup_month.next_month)
