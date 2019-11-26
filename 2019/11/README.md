@@ -7,7 +7,7 @@
 
 ## Presentations - 15 minutes
 
-**Teaching Rails: What I Unlearned so my Students could Succeed**
+**[Teaching Rails: What I Unlearned so my Students could Succeed][]**
   - Rishikesh Tirumala ([#242][])
 
 **Introduction to Machine Learning in Ruby**
@@ -15,10 +15,10 @@
 
 ## Lightning Talks - 5 minutes
 
-**Building a simple app at Rails Girls using Ruby on Rails**
+**[Building a simple app at Rails Girls using Ruby on Rails][]**
   - Josephine Chong & Jo Dunham :: [@jytc_][] & [@CodeTravelled][] ([#245][])
 
-**Exercism: Simple Cipher** ([Exercism page][])
+**[Exercism: Simple Cipher][]** ([Exercism page][])
   - Su Win :: [@Su77491710][] ([#246][])
 
 ### Slide Deck
@@ -26,12 +26,15 @@
 This meetup's slide deck was written in a Markdown format designed to work with
 [Deckset][].
 
+[Teaching Rails: What I Unlearned so my Students could Succeed]: https://docs.google.com/presentation/d/1ME_79AynkDXQUBepO1_s_idx_7LDEVuNeyLXPUNmtPI/edit#slide=id.g78f6739999_0_524
 [#242]: https://github.com/rails-oceania/roro/issues/242
 [@hhemanth]: https://twitter.com/hhemanth
 [#218]: https://github.com/rails-oceania/roro/issues/218
+[Building a simple app at Rails Girls using Ruby on Rails]: https://docs.google.com/presentation/d/1NLFnwFTuqXzUuvNqjfJza-5wlJAC0fb70j8PzhE_NOk/edit#slide=id.p
 [@jytc_]: https://twitter.com/jytc_
 [@CodeTravelled]: https://twitter.com/CodeTravelled
 [#245]: https://github.com/rails-oceania/roro/issues/245
+[Exercism: Simple Cipher]: https://speakerdeck.com/suwindev19/simple-cipher-exercism-ruby-challenge-nov-2019
 [Exercism page]: https://exercism.io/tracks/ruby/exercises/simple-cipher
 [@Su77491710]: https://twitter.com/Su77491710
 [#246]: https://github.com/rails-oceania/roro/issues/246
