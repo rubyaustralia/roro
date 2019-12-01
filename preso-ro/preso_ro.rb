@@ -18,7 +18,7 @@ class PresoGo
     meetup_month = DateTime.parse(slide_data[:meetup_month])
 
     sponsors = slide_data[:sponsors].map do | sponsor_data |
-      Sponsor.generate(sponsor_data)
+      Sponsor.generate(**sponsor_data)
     end
 
     presentations = slide_data[:presentations].map do | pres_data |
