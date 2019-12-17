@@ -10,8 +10,8 @@
 - **[An introduction to exploit development][]**
   - Steven Hiltrop :: ([#250][])
 
-- **Protobufs for Beginners**
-  - Mathew Button :: [@matpushbuttons][] ([#][])
+- **[Protobufs for Beginners]**
+  - Mathew Button :: [@matpushbuttons][] ([#251][])
 
 ## Lightning Talks - 5 minutes
 
@@ -25,7 +25,9 @@ This meetup's slide deck was written in a Markdown format designed to work with
 
 [An introduction to exploit development]: https://gdprcentraleu-my.sharepoint.com/:p:/r/personal/steven_securityservicelayer_eu/_layouts/15/Doc.aspx?sourcedoc=%7B325A6B52-434B-4840-A2F8-D3CB9F076D99%7D&file=Rorosyd_Metasploit_Presentation.pptx&action=edit&mobileredirect=true
 [#250]: https://github.com/rails-oceania/roro/issues/250
+[Protobufs for Beginners]: https://github.com/mathewdbutton/talks/blob/master/protobufs-for-beginners/protobufs-for-beginners.pdf
 [@matpushbuttons]: https://twitter.com/matpushbuttons
+[#251]: https://github.com/rails-oceania/roro/issues/251
 [Exercism page]: https://exercism.io/tracks/ruby/exercises/meetup
 [#249]: https://github.com/rails-oceania/roro/issues/249
 [Volt]: https://www.voltbank.com.au/
