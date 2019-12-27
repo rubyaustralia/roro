@@ -63,7 +63,7 @@ RORO has many sponsors, without which these meetups would not be possible.
 ![inline](https://www.dropbox.com/s/v3kb2qigd2igaxi/volt-bank-logo.png?dl=1)
 
 ^
-Volt bank is a neo bank that will be launching soon with an aim to make saving simple
+Volt bank is a Australian neo bank that has just entered closed beta with an aim to make saving simple
 
 ---
 
@@ -71,7 +71,7 @@ Volt bank is a neo bank that will be launching soon with an aim to make saving s
 ![inline](https://www.dropbox.com/s/766rud85pedx0mu/frollo-logo.png?dl=1)
 
 ^
-Frollo can help you get ahead with your money, by providing accurate and meaningful financial data through the use of it's personal finance and budgeting app
+Frollo is an award-winning personal finance management platform to help customers improve their financial health. Their technology is available as a free consumer app as well as an API platform licensed to financial institutions looking to build out their feature set for enhanced customer engagement. I'm not sure you've noticed but they're also hiring
 
 ---
 
@@ -119,6 +119,19 @@ Culture Amp, providers of Company Culture Analytics
 
 ^
 Up first we have Steven, who's going to take us through exploit development and an exploitation framework called Metasploit.
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/akncsc61dl4y1l3/mathew-button-2.jpg?dl=1)
+
+# [fit] *Protobufs*
+# [fit] **for beginners by a beginner**
+# [fit] **_Mathew Button_**
+
+^
+Then we have, Mat attempting to talk about Protobufs
 
 ---
 [.hide-footer]
