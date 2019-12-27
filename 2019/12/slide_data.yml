@@ -1,50 +1,57 @@
 ---
-:meetup_month: December
-:venue: Volt
-:sponsors:
-  -
-    :name: Volt
-    :notes: Volt bank is a neo bank that will be launching soon with an aim to make saving simple
-    :what:
-      - Venue
-  -
-    :name: Frollo
-    :notes: Frollo can help you get ahead with your money, by providing accurate and meaningful financial data through the use of it's personal finance and budgeting app
-    :what:
-      - Drink
-  -
-    :name: Ruby Au
-    :notes: The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
-    :what:
-      - Food
-  -
-    :name: Envato
-    :notes: "Envato: Leading marketplace for creative assets and creative people."
-    :what:
-      - Community
-  -
-    :name: Lookahead
-    :notes: Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
-    :what:
-      - Community
-  -
-    :name: Culture Amp
-    :notes: Culture Amp, providers of Company Culture Analytics
-    :what:
-      - Community
-:presentations:
-  -
-    :talk_name: An introduction to
-    :subtitle: exploit development
-    :speaker: Steven Hiltrop
-    :notes: Up first we have Steven, who's going to take us through exploit development and an exploitation framework called Metasploit.
-    :issue: 250
-:lightning_talks:
-  -
-    :talk_name: "Exercism: Meetup"
-    :speaker: Nic Fisher
-    :notes: Nic is going to take us through the aptly named meetup exercism challenge
-    :issue: 249
-:exercism_name: meetup
-:meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/pqpqjryzqbnb/
-:tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-10-07%20until%3A2019-10-09&src=typd
+  :meetup_month: December
+  :venue: Volt
+  :sponsors:
+    -
+      :name: Volt
+      :notes: Volt bank is a Australian neo bank that has just entered closed beta with an aim to make saving simple
+      :what:
+        - Venue
+    -
+      :name: Frollo
+      :notes: Frollo is an award-winning personal finance management platform to help customers improve their financial health. Their technology is available as a free consumer app as well as an API platform licensed to financial institutions looking to build out their feature set for enhanced customer engagement. I'm not sure you've noticed but they're also hiring
+      :what:
+        - Drink
+    -
+      :name: Ruby Au
+      :notes: The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Food
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Lookahead
+      :notes: Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+  :presentations:
+    -
+      :talk_name: An introduction to
+      :subtitle: exploit development
+      :speaker: Steven Hiltrop
+      :notes: Up first we have Steven, who's going to take us through exploit development and an exploitation framework called Metasploit.
+      :issue: 250
+    -
+      :talk_name: Protobufs
+      :subtitle: for beginners by a beginner
+      :speaker: Mathew Button
+      :notes: Then we have, Mat attempting to talk about Protobufs
+      :issue: 250
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: Meetup"
+      :speaker: Nic Fisher
+      :notes: Nic is going to take us through the aptly named meetup exercism challenge
+      :issue: 249
+  :exercism_name: meetup
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/pqpqjryzqbnb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-10-07%20until%3A2019-10-09&src=typd

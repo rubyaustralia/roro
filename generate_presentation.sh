@@ -9,4 +9,22 @@ ruby ./preso-ro/preso_ro_runner.rb generate $base_path $prefix
 dir=$(pwd)
 path="${dir}/$base_path/$prefix-rorosyd.md"
 echo $path
-./markdown-to-pdf.sh -f $3 -s $path
+
+# arguments.sh
+
+
+# Loop through arguments and process them
+for arg in "$@"
+do
+    case $arg in
+        -e|--export)
+        EXPORT_PDF=1
+        shift # Remove --initialize from processing
+        ;;
+    esac
+done
+
+if [ ! -z "$EXPORT_PDF" ]
+then
+      ./markdown-to-pdf.sh -f $3 -s $path
+fi

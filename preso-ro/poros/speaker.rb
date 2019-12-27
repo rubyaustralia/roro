@@ -2,6 +2,7 @@
 require 'dry-struct'
 require 'yaml'
 
+
 module Types
   include Dry.Types()
 end
