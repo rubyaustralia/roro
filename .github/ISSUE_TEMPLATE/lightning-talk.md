@@ -2,7 +2,7 @@
 name: Lightning Talk
 about: "~5 minute presentation that you will perform"
 title: ''
-labels: lightning talk
+labels: sydney-lightning
 assignees: ''
 
 ---

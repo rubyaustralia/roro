@@ -1,8 +1,8 @@
 ---
 name: Full Length Presentation
-about: ~15 minute full length presentation that you will perform
+about: "~15 minute full length presentation that you will perform"
 title: ''
-labels: presentation
+labels: sydney-presentations
 assignees: ''
 
 ---

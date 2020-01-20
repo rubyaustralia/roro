@@ -2,7 +2,7 @@
 name: Presentation Request
 about: A suggestion for a presentation you would like to see
 title: ''
-labels: presentation request
+labels: sydney-presentation-request
 assignees: ''
 
 ---
