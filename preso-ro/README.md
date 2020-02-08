@@ -27,7 +27,7 @@ To generate a presentation, you'll need to point preso-ro to the folder that con
 `ruby ./preso-ro/preso_ro_runner.rb generate <folder-with-markdown> <pres-file-prefix>`
 
 - `<folder-with-markdown>` - the folder with the markdown
-- `<pres-file-prefix>` - the prefix given to the generated presentation `201910-rorosyd.md`
+- `<pres-file-prefix>` - OPTIONAL - the prefix given to the generated presentation `201910-rorosyd.md`
 
 e.g.
 
@@ -39,12 +39,13 @@ e.g.
 
 If you'd like to generate the pdf along with the presentation and README.md file then you can use the `generate_presentation.sh` script. This will build the markdown file and then start up deckset to generate the pdf before exiting.
 
-`./generate_presentation.sh <folder-with-markdown> <pres-file-prefix> -q`
+`./generate_presentation.sh <folder-with-markdown> <pres-file-prefix> -e -q`
 
 - `<folder-with-markdown>` - the folder with the markdown
-- `<pres-file-prefix>` - the prefix given to the generated presentation `201910-rorosyd.md`
+- `<pres-file-prefix>` - (OPTIONAL) the prefix given to the generated presentation `201910-rorosyd.md`
+- `-e` - to export to pdf
 - `-q` - flag to exit deckset after pdf generation has finished
 
 e.g.
 
-`./generate_presentation.sh 2019/10 2019102 -q`
+`./generate_presentation.sh 2019/10 2019102 -e -q`
