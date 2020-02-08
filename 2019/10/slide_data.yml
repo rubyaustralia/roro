@@ -1,0 +1,46 @@
+---
+:meetup_month: October
+:venue: Pivotal
+:sponsors:
+  -
+    :name: Pivotal
+    :notes: So, a big thanks firstly to our venue sponsor for tonight Pivotal. Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.
+    :what:
+      - Venue
+      - Drinks
+  -
+    :name: Ruby Au
+    :notes: The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+    :what:
+      - Food
+  -
+    :name: Envato
+    :notes: "Envato: Leading marketplace for creative assets and creative people."
+    :what:
+      - Community
+  -
+    :name: Lookahead
+    :notes: Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
+    :what:
+      - Community
+  -
+    :name: Culture Amp
+    :notes: Culture Amp, providers of Company Culture Analytics
+    :what:
+      - Community
+:presentations:
+  -
+    :talk_name: Debugging in Rails
+    :speaker: Sameera Gayan
+    :subtitle: "(A.K.A what to do when :poop: :punch: the fan)"
+    :notes: Up first we have Sameera, who's going to talk to us through some debugging techniques in rails and more importantly how to fix things when the defication has hit the oscillation
+    :issue: 240
+:lightning_talks:
+  -
+    :talk_name: "Exercism: Saddle Point"
+    :speaker: Patrick Dunn
+    :notes: We've also go Patrick taking us through the saddle point exercism challenge
+    :issue: 241
+:exercism_name: saddle-point
+:meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/cmnfhryzmbnb/
+:tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2019-10-07%20until%3A2019-10-09&src=typd

@@ -82,45 +82,44 @@ RORO has many sponsors, without which these meetups would not be possible.
 
 ^
 So, a big thanks firstly to our venue sponsor for tonight Pivotal. Pivotal are a consultancy and also the makers of project management tool Pivotal Tracker.
-
 ---
+
 # [fit] **Food Sponsor**
 ![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 ^
 The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
-
 ---
+
 # [fit] **Community Sponsor**
 ![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
 
 ^
 Envato: Leading marketplace for creative assets and creative people.
-
 ---
+
 # [fit] **Community Sponsor**
 ![inline](https://www.dropbox.com/s/rtel8e4hy8d06kw/lookahead-logo.png?dl=1)
 
 ^
 Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
-
 ---
+
 # [fit] **Community Sponsor**
 ![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
 
 ^
 Culture Amp, providers of Company Culture Analytics
-
 ---
+
+
 [.hide-footer]
 [.slidenumbers: false]
 
 ![left](https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1)
 
 # [fit] *Debugging in Rails*
-
 # [fit] **(A.K.A what to do when :poop: :punch: the fan)**
-
 # [fit] **_Sameera Gayan_**
 # [fit] **`@sameera207`**
 
@@ -134,7 +133,6 @@ Up first we have Sameera, who's going to talk to us through some debugging techn
 ![left](https://www.dropbox.com/s/m55ungf8p5688px/patrick-dunn.jpg?dl=1)
 
 # [fit] *Exercism: Saddle Point*
-
 # [fit] **_Patrick Dunn_**
 # [fit] **`@theonevehicle`**
 
@@ -142,6 +140,7 @@ Up first we have Sameera, who's going to talk to us through some debugging techn
 We've also go Patrick taking us through the saddle point exercism challenge
 
 ---
+
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit] `@sameera207`, `@theonevehicle`
@@ -351,7 +350,7 @@ I passed my technical interview with flying colours, they only made me cry a few
 
 # [fit] *Next Meetup*
 # [fit] 12 November 2019
-# [fit] **_(2nd Tuesday of the month)_**
+# [fit] **_\(2nd Tuesday of the month\)_**
 # [fit] *at* Jora
 
 ^

@@ -1,0 +1,53 @@
+---
+  :meetup_month: December
+  :venue: AWS
+  :sponsors:
+    -
+      :name: AWS
+      :notes: Amazon Web Services is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally.
+      :what:
+        - Venue
+        - Drink
+    -
+      :name: Ruby Au
+      :notes: The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Food
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Lookahead
+      :notes: Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+  :presentations:
+    -
+      :talk_name: A Gentle introduction to
+      :subtitle: Dreamcast programming with mruby
+      :speaker: Yuji Yokoo
+      :notes: Our first speaker has flown from Adelaide to present this evening, about programming on a dreamcast using mruby, he teased me about it last elixir camp and now we all get a sneak peak
+      :issue: 255
+    -
+      :talk_name: Pattern Matching
+      :subtitle: in Ruby and Elixir
+      :speaker: Josh Price
+      :notes: Speaking of elixir, next up we have josh taking us through ruby's new pattern matching features and how they compare to elixir, (threaten crowd about leaving)
+      :issue: 254
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: Scrabble Score"
+      :speaker: Gael Jerop
+      :notes: Gael our newest organiser is going to take us through the exercism for this month
+      :issue: 256
+  :exercism_name: scrabble-score
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kmpfnrybcdbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-02-10%20until%3A2020-02-12&src=typd
