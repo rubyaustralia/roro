@@ -162,15 +162,6 @@ So if you're new to Roro can you please put up your hand, don't worry we're not 
 ---
 
 # [fit] *Next Meetup's* Exercism
-# [fit] **<insert problem here>**
-
-
-^
-If you're wanting to do an exercism, but the ones we've been suggesting are not up you alley you're welcome to submit an issue for any problem you wanted to present
-
----
-
-# [fit] *Next Meetup's* Exercism
 # [fit] **ISBN Verifier**
 
 # [fit] *`exercism download --exercise=isbn-verifier --track=ruby`*
