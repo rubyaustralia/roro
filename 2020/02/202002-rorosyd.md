@@ -5,7 +5,7 @@ slidenumbers: true
 
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
-# [fit] 8 December 2020
+# [fit] 11 February 2020
 
 ^
 Welcome to RoRoSyd.
