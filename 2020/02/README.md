@@ -1,4 +1,4 @@
-# ROROSyd Tuesday, 8 December 2020
+# ROROSyd Tuesday,11 February 2020
 
 - From 6:00 (for 6:30pm start) @ [AWS][]
 - [Level 37, 2 Park Street, Sydney][]

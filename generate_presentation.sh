@@ -6,6 +6,8 @@ quit=$3
 
 ruby ./preso-ro/preso_ro_runner.rb generate $base_path $prefix
 dir=$(pwd)
+
+prefix="${base_path/\//}"
 path="${dir}/$base_path/$prefix-rorosyd.md"
 echo $path
 

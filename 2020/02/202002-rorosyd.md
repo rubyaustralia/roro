@@ -5,7 +5,7 @@ slidenumbers: true
 
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
-# [fit] 11 February 2020
+# [fit]11 February 2020
 
 ^
 Welcome to RoRoSyd.
@@ -63,7 +63,7 @@ RORO has many sponsors, without which these meetups would not be possible.
 ![inline](https://www.dropbox.com/s/ar8329j58et8c3f/aws-logo.png?dl=1)
 
 ^
-Amazon Web Services is the world’s most comprehensive and broadly adopted cloud platform, offering over 175 fully featured services from data centers globally.
+Free AWS Sydney Summit March 31st - April 2nd
 
 ---
 
