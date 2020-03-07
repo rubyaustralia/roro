@@ -7,11 +7,11 @@
 
 ## Presentations - 15 minutes
 
-- **A Message to the Stars **
+- **A Message to the Stars**
   - Rob Howard :: [@damncabbage][] ([#257][])
 
 
-- **Rails Layout/Template Inheritance **
+- **Rails Layout/Template Inheritance**
   - Tian Chen :: [@tian_im][] ([#248][])
 
 

@@ -31,13 +31,11 @@
   :presentations:
     -
       :talk_name: A Message to the Stars
-      :subtitle:
       :speaker: Rob Howard
       :notes: Our first speaker of the evening is one a recent presenter from this years RubyConf, In 1977, NASA launched the Voyager probes into space. Each carried a copper ‘vinyl’ record, with music, speech… and 115 images, all inscribed on the disc as audio! In this talk we’ll pretend to be aliens; we’ll use Ruby to read the audio, recreate the images, and learn some space history too.
       :issue: 257
     -
       :talk_name: Rails Layout/Template Inheritance
-      :subtitle:
       :speaker: Tian Chen
       :notes: Tian will be taking us through how to organize our rails layouts and their partials in Layout/Template Inheritance fashion
       :issue: 248
