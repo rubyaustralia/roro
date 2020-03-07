@@ -1,0 +1,60 @@
+---
+  :meetup_month: March
+  :venue: Shippit
+  :sponsors:
+    -
+      :name: Shippit
+      :notes: Shippit helps you take control of deliveries. It’s cloud-based software that takes the guesswork out of shipping decisions and makes deliveries beautiful.
+      :what:
+        - Venue
+        - Drink
+    -
+      :name: Ruby Au
+      :notes: The bill for our dinner tonight gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Food
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Lookahead
+      :notes: Lookahead Search, technical recruiters who are actually technical, hiring Ruby and web developers is literally all they do so if you want to trade code for money, go see them.
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+  :presentations:
+    -
+      :talk_name: A Message to the Stars
+      :subtitle:
+      :speaker: Rob Howard
+      :notes: Our first speaker of the evening is one a recent presenter from this years RubyConf, In 1977, NASA launched the Voyager probes into space. Each carried a copper ‘vinyl’ record, with music, speech… and 115 images, all inscribed on the disc as audio! In this talk we’ll pretend to be aliens; we’ll use Ruby to read the audio, recreate the images, and learn some space history too.
+      :issue: 257
+    -
+      :talk_name: Rails Layout/Template Inheritance
+      :subtitle:
+      :speaker: Tian Chen
+      :notes: Tian will be taking us through how to organize our rails layouts and their partials in Layout/Template Inheritance fashion
+      :issue: 248
+    -
+      :talk_name: Build a neural network
+      :subtitle: from zero with pure ruby
+      :speaker: Enrique Salceda
+      :notes: We've got Enrique playing on his home turf explainig how a neural network works, and how to easily implement one using ruby.
+      :issue: 260
+
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: ISBN Verifier"
+      :speaker: Rowena Stewart
+      :notes: Rowena will be showing us her solution to the ISBN verifier exercism challenge
+      :issue: 258
+  :exercism_name: isbn-verifier
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kmpfnrybcdbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-02-10%20until%3A2020-02-12&src=typd
