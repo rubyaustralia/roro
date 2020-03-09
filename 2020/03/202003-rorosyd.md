@@ -13,7 +13,7 @@ Welcome to RoRoSyd.
 ---
 
 # [fit] **We nabbed another one! :fish:**
-![inline](https://www.dropbox.com/s/91n23cnkozhf3k2/hemanth-haridas.jpg?dl=1)
+![inline](https://www.dropbox.com/s/6jzpjmw87b2vs8u/hemanth-haridas-2.png?dl=1)
 
 
 ^
@@ -257,7 +257,14 @@ We're looking for a December Venue and any month from March 2020, so if you want
 
 ---
 
-# [fit] **NEWS**
+# [fit] *NEWS* and bits
+
+---
+
+# [fit] Ruby turns 27
+# [fit] *Happy Birthday! :cake:*
+^
+Ruby turned 27 on the 23rd of Feb
 
 ---
 
@@ -276,6 +283,15 @@ Rails camp 27 has been announced May 22-25th over in Adelaide, so go and get you
 
 ^
 There is a ruby retreat in NZ down at Mt Cheeseman in the south island
+
+---
+
+# Repurposing an Old Android Phone as a Ruby Web Server
+#### *Because, why not?*
+### [fit] https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+
+^
+An interesting article about running a sinatra app on an old android phone, good luck getting that url down, but with any luck SEO will help you the rest of the way.
 
 ---
 
