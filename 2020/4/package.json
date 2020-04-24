@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "roro-presentation",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx",
+    "help": "mdx-deck"
+  },
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.8",
+    "@mdx-js/react": "^1.5.8",
+    "gatsby-plugin-mdx": "^1.1.4",
+    "gatsby-plugin-sharp": "^2.5.4",
+    "gatsby-plugin-theme-ui": "^0.3.0",
+    "gatsby-remark-images": "^3.2.2",
+    "gatsby-source-filesystem": "^2.2.2",
+    "gatsby-theme-mdx-deck": "^4.1.0",
+    "rebass": "^4.0.7",
+    "theme-ui": "^0.3.1"
+  }
+}
