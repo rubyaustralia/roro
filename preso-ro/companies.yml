@@ -7,6 +7,9 @@
     :profile: https://www.dropbox.com/s/vlyd9d724nlk4ur/pivotal-logo.png?dl=1
   -
     :name: "Ruby Au"
+    :address: Australia
+    :website: "https://ruby.org.au"
+    :map_link: "https://goo.gl/maps/beg139XfVAEWMbUS9"
     :profile: "https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1"
   -
     :name: Envato
@@ -23,6 +26,12 @@
     :map_link: https://goo.gl/maps/YL1yS124Hgr2kdis5
     :website: https://www.voltbank.com.au/
     :profile: "https://www.dropbox.com/s/v3kb2qigd2igaxi/volt-bank-logo.png?dl=1"
+  -
+    :name: Twilio
+    :profile: https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1
+  -
+    :name: Up Bank
+    :profile: https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1
   -
     :name: Frollo
     :profile: "https://www.dropbox.com/s/766rud85pedx0mu/frollo-logo.png?dl=1"
