@@ -20,6 +20,7 @@
 -
   :name: "Mathew Button"
   :profile: "https://www.dropbox.com/s/akncsc61dl4y1l3/mathew-button-2.jpg?dl=1"
+  :social_handle: "@matpushbuttons"
 -
   :name: "Gael Jerop"
   :profile: "https://www.dropbox.com/s/006uvci2udnm62a/gael-jerop.jpg?dl=1"
@@ -52,3 +53,7 @@
 - :name: Hiren Gondhiya
   :profile: https://www.dropbox.com/s/lmcu0aa3q1sxk6i/hiren-gondhiya.jpg?dl=1
   :social_handle: "@hirengondhiya"
+
+- :name: Rafael Nunes
+  :profile: https://www.dropbox.com/s/c7fjokjaam0f9eg/rafael-nunes.jpeg?dl=1
+  :social_handle: "@peaonunes"

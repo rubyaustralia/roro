@@ -1,0 +1,47 @@
+---
+  :meetup_month: August
+  :venue: Ruby Au
+  :sponsors:
+    -
+      :name: Ruby Au
+      :notes: The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Community
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+    -
+      :name: Twilio
+      :notes: Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
+      :what:
+        - Community
+    -
+      :name: Up Bank
+      :notes: Up is a digital bank designed to help you organise your money and simplify your life
+      :what:
+        - Community
+
+  :presentations:
+    -
+      :talk_name: "Circuit Breaker in Ruby"
+      :subtitle: "with Circuitbox"
+      :notes: Rafael's talk explores Circuitbox, a Ruby gem for creating circuit breakers, and how we can use it to make our applications fail gracefully, and therefore more resilient.
+      :speaker: Rafael Nunes
+      :issue: 271
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: Alergies"
+      :speaker: Mathew Button
+      :notes: I'll be taking us through the Allergies exercism challenge
+      :issue: 272
+  :exercism_name: Allergies
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/mvdnqrybclbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-08-10%20until%3A2020-08-12&src=typd
