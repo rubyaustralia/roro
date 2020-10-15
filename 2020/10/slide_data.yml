@@ -1,0 +1,51 @@
+---
+  :meetup_month: October
+  :venue: Ruby Au
+  :sponsors:
+    -
+      :name: Ruby Au
+      :notes: The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Community
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+    -
+      :name: Twilio
+      :notes: Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
+      :what:
+        - Community
+    -
+      :name: Up Bank
+      :notes: Up is a digital bank designed to help you organise your money and simplify your life
+      :what:
+        - Community
+
+  :presentations: []
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: Binary Search Tree"
+      :speaker: Nathan Odonnell
+      :notes: First victim.. Volunteer is Nathan taking us through his solution to the Binary Search Tree challenge.
+      :issue: 275
+    -
+      :talk_name: "Exercism: Twelve Days"
+      :speaker: Fin George
+      :notes: Next contender is Fin, taking on the twelve days.
+      :issue: 276
+    -
+      :talk_name: "Exercism: Matrix"
+      :speaker: Daniel Waldow
+      :notes: Our third and final combatant is Waldow who'll be tackling the matrix challenge.
+      :issue: 277
+  :exercism_name: Binary Search Tree
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/mvdnqrybclbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-10-12%20until%3A2020-10-14&src=typd
