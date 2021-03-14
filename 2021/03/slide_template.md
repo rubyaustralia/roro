@@ -1,4 +1,4 @@
-theme: Scherzkeks, 4
+theme: Poster, 6
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
@@ -9,7 +9,6 @@ slidenumbers: true
 
 ^
 Welcome to ROROSyd, our first meetup for 2021!
-
 
 ---
 
@@ -93,9 +92,9 @@ If you're Twitter-inclined please let tonight's speakers know how much you appre
 ---
 
 # [fit] *Next Meetup's* Exercism
-# [fit] **Simple Linked List**
+# [fit] **<%= exercism_name %>**
 
-# [fit] *`exercism download --exercise=simple-linked-list --track=ruby`*
+# [fit] *`exercism download --exercise=<%= exercism_name.gsub(" ","-").downcase %> --track=ruby`*
 
 ^
 The linked list is a fundamental data structure in computer science, often used in the implementation of other data structures.
@@ -151,53 +150,20 @@ to do more.<br />
 
 ---
 
-# **Ruby 3.0 is out 🎉**
-
-It's old news but still exciting
+# **Standard gem is 1.0**
 
 ^
-Has anyone had a chance to play around with ractors or anything else cool with it yet?
+I've been using this in my side projects and it quite nice, it's rubocop but with none of the configuration! does anyone else use it?
 
 ---
 
-# **gem.wtf**
-### A Short URL to Jump to RubyGem Repos
-
-`gem.wtf/nokogiri`
-
----
-
-# **IRB gets a _measure_ command**
-
-```
-irb(main)> measure
-TIME is added
-=> nil
-
-irb > sleep 1
-processing time: 1.000649s
-=> 1
-
-irb > 1
-processing time: 0.000025s
-=> 1
-
-irb > measure :off
-=> nil
-```
+# **Upgrow: A Sustainable Architecture for Rails Apps**
 
 ^
-As of Ruby 3.0, IRB gets a measure command
+Shopify have released a guide for rails apps, anyone read it?
 
 ---
 
-
-# **The RailsConf 2021 CFP**
-
-^
-This year RailsConf (April 13-15) is a virtual three-day event and proposals for speaking are due February 15th, so check out these guidelines and submit your talk today.
-
----
 
 # [fit] **Tips and Tricks**
 # [fit] _Stuff that makes your life_

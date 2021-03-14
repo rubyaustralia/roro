@@ -1,15 +1,14 @@
-theme: Scherzkeks, 4
+theme: Poster, 6
 footer: @rorosyd @rubyaustralia
 slidenumbers: true
 
 
 # [fit] **Ruby on Rails**
 # [fit] **_Oceania_**
-# [fit]<%= current_meetup_date %>
+# [fit] 9 March 2021
 
 ^
 Welcome to ROROSyd, our first meetup for 2021!
-
 
 ---
 
@@ -45,45 +44,94 @@ RORO has many sponsors, without which these meetups would not be possible.
 ---
 
 
-<% sponsors.each do | sponsor | %>
-# [fit] **<%= sponsor.title %> Sponsor**
-![inline](<%= sponsor.company.profile %>)
+# [fit] **Community Sponsor**
+![inline](https://www.dropbox.com/s/cxq6w0jx76jyc3x/ruby-au-logo.png?dl=1)
 
 ^
-<%= sponsor.notes %>
-
+The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
 
 ---
 
-<% end %>
+# [fit] **Community Sponsor**
+![inline](https://www.dropbox.com/s/rt37lwsic8rw6h2/envato-logo.png?dl=1)
+
+^
+Envato: Leading marketplace for creative assets and creative people.
+
+---
+
+# [fit] **Community Sponsor**
+![inline](https://www.dropbox.com/s/h36hivrlykx4wbu/culture-amp-logo.png?dl=1)
+
+^
+Culture Amp, providers of Company Culture Analytics
+
+---
+
+# [fit] **Community Sponsor**
+![inline](https://www.dropbox.com/s/vybiy3ws0n44a5a/twilio-logo.png?dl=1)
+
+^
+Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
+
+---
+
+# [fit] **Community Sponsor**
+![inline](https://www.dropbox.com/s/231zrwix0mjhl1f/up-logo.gif?dl=1)
+
+^
+Up is a digital bank designed to help you organise your money and simplify your life
+
+---
 
 
-<% talks.each do | talk | %>
+
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](<%= talk.speaker.profile %>)
+![left](https://www.dropbox.com/s/555v08fafdh5e83/lang-sharpe.jpg?dl=1)
 
-# [fit] *<%= talk.talk_name %>*
-<% if talk.subtitle %>
-# [fit] **<%= talk.subtitle %>**
-<% end %>
+# [fit] *What is Crystalball*
 # </br>
-# [fit] **_<%= talk.speaker.name %>_**
-<% if talk.speaker.social_handle %>
-# [fit] **`<%= talk.speaker.social_handle %>`**
-<% end %>
+# [fit] **_Lang Sharpe_**
+# [fit] **`@langsharpe`**
 
 ^
-<%= talk.notes %>
 
 
 ---
-<% end %>
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/2cmpzpt9mkm5dh3/mike-rogers.jpg?dl=1)
+
+# [fit] *Docker for Developer Happiness*
+# </br>
+# [fit] **_Mike Rogers_**
+# [fit] **`@MikeRogers0`**
+
+^
+Docker has allowed Mike to extract lots of the complexity of his apps by reducing the amount of dependencies he's had to install
+
+---
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://www.dropbox.com/s/pnzkqenp605ny6r/sugendran-ganess.jpg?dl=1)
+
+# [fit] *Exercism: Linked List*
+# </br>
+# [fit] **_Sugendran Ganess_**
+# [fit] **`@sugendran`**
+
+^
+
+
+---
 
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] <%= all_social_handles %>
+# [fit] `@langsharpe`, `@MikeRogers0`, `@sugendran`
 ## **_`@rorosyd`_**
 
 
@@ -93,9 +141,9 @@ If you're Twitter-inclined please let tonight's speakers know how much you appre
 ---
 
 # [fit] *Next Meetup's* Exercism
-# [fit] **Simple Linked List**
+# [fit] **Minesweeper**
 
-# [fit] *`exercism download --exercise=simple-linked-list --track=ruby`*
+# [fit] *`exercism download --exercise=minesweeper --track=ruby`*
 
 ^
 The linked list is a fundamental data structure in computer science, often used in the implementation of other data structures.
@@ -151,53 +199,20 @@ to do more.<br />
 
 ---
 
-# **Ruby 3.0 is out 🎉**
-
-It's old news but still exciting
+# **Standard gem is 1.0**
 
 ^
-Has anyone had a chance to play around with ractors or anything else cool with it yet?
+I've been using this in my side projects and it quite nice, it's rubocop but with none of the configuration! does anyone else use it?
 
 ---
 
-# **gem.wtf**
-### A Short URL to Jump to RubyGem Repos
-
-`gem.wtf/nokogiri`
-
----
-
-# **IRB gets a _measure_ command**
-
-```
-irb(main)> measure
-TIME is added
-=> nil
-
-irb > sleep 1
-processing time: 1.000649s
-=> 1
-
-irb > 1
-processing time: 0.000025s
-=> 1
-
-irb > measure :off
-=> nil
-```
+# **Upgrow: A Sustainable Architecture for Rails Apps**
 
 ^
-As of Ruby 3.0, IRB gets a measure command
+Shopify have released a guide for rails apps, anyone read it?
 
 ---
 
-
-# **The RailsConf 2021 CFP**
-
-^
-This year RailsConf (April 13-15) is a virtual three-day event and proposals for speaking are due February 15th, so check out these guidelines and submit your talk today.
-
----
 
 # [fit] **Tips and Tricks**
 # [fit] _Stuff that makes your life_
@@ -237,7 +252,7 @@ or take a look at the ruby au or google group forums which have questions and jo
 ---
 
 # [fit] *Next Meetup*
-# [fit] <%= next_meetup_date %>
+# [fit] 13 April 2021
 # [fit] **_\(2nd Tuesday of the month\)_**
 # [fit] *on* THE INTERNET!
 

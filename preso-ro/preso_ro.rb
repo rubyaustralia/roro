@@ -40,12 +40,13 @@ class PresoGo
     slides = File.read("./#{base_path}/slide_template.md")
 
     presentation_name = "#{pres_prefix}-rorosyd.md"
-    File.open("./#{base_path}/#{presentation_name}", 'w') { |file| file.write(ERB.new(slides, nil, "<>").result(binding)) }
 
     exercism_talk = lightning_talks.last
     exercism_name = slide_data[:exercism_name]
     meetup_link = slide_data[:meetup_link]
     tweets = slide_data[:tweets]
+
+    File.open("./#{base_path}/#{presentation_name}", 'w') { |file| file.write(ERB.new(slides, nil, "<>").result(binding)) }
 
     current_venue = Company.generate(slide_data[:venue])
 
