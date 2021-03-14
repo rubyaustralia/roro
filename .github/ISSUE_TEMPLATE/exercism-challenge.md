@@ -1,18 +1,17 @@
 ---
-name: Lightning Talk
-about: "~5 minute presentation that you will perform"
-title: ''
-labels: sydney-lightning
+name: Exercism Challenge
+about: Showing your solution to an Exercism challenge
+title: 'Exercism: [Name of challenge here]'
+labels: exercism
 assignees: ''
 
 ---
 
-Thanks for proposing a lightning talk for RORO Sydney!
+Thanks for volunteering for to showcase the Exercism challenge at RORO Sydney!
 
 Please provide the following information:
 
-- Name of talk (in the title field)
-- Brief summary of the talk content
+- Name of challenge
 - Which month's meetup you would like to present at
 - Are you happy to have your talk published on the RubyAU YouTube channel?
 - Your Twitter username (if you have one)
