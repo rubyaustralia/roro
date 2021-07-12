@@ -1,0 +1,53 @@
+---
+  :meetup_month: June
+  :venue: Ruby Au
+  :sponsors:
+    -
+      :name: Ruby Au
+      :notes: The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Community
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+    -
+      :name: Twilio
+      :notes: Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
+      :what:
+        - Community
+    -
+      :name: Up Bank
+      :notes: Up is a digital bank designed to help you organise your money and simplify your life
+      :what:
+        - Community
+
+  :presentations:
+    -
+      :talk_name: "Making the most of the job market"
+      :subtitle: "Whether you're searching or not"
+      :notes: "Debbie will be talking to us about the state of the job market and what it means for you whether you're searching or not"
+      :speaker: Debbie Teakle
+      :issue: 295
+
+    -
+      :talk_name: "Introduction to Mutation Testing"
+      :notes: "Adam will be giving us a crash course in mutation testing"
+      :speaker: Adam Rice
+      :issue: 294
+
+  :lightning_talks:
+    -
+      :talk_name: "Exercism: Robot Simulator"
+      :speaker: Hemanth Haridas
+      :issue: 297
+
+  :exercism_name: Run Length Encoding
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/mvdnqrybclbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-11-09%20until%3A2020-11-11&src=typd
