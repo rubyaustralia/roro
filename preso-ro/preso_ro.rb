@@ -26,7 +26,7 @@ class PresoGo
       Presentation.new(pres_data)
     end
 
-    lightning_talks = slide_data[:lightning_talks].map do | pres_data |
+    lightning_talks = slide_data.fetch(:lightning_talks, []).map do | pres_data |
       pres_data[:speaker] = Speaker.generate(pres_data[:speaker])
       Presentation.new(pres_data)
     end
