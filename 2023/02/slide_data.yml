@@ -1,0 +1,54 @@
+---
+  :meetup_month: Feb
+  :venue: Mable
+  :sponsors:
+    -
+      :name: Mable
+      :notes: Mable are on a mission to improve access to affordable, flexible, quality support and care for Australians everywhere
+      :what:
+        - Drink
+        - Venue
+    -
+      :name: Ruby Au
+      :notes: The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Community
+    -
+      :name: Assembly Four
+      :notes: "Assembly Four is a collective of sex workers and technologists founded in Naarm/Melbourne. We build technology-oriented solutions as well as actively engage in policy development that not only helps sex workers survive, but thrive."
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: "Culture Amp’s mission is to create a better world of work. They are the global leader for employee experience and their platform helps the world’s most innovative organisations put their culture first."
+      :what:
+        - Community
+    -
+      :name: Hot Doc
+      :notes: "HotDoc is Australia’s largest patient engagement platform with over 8 million app downloads in Australia. Our mission is to enable the best health care experience for everyone in Australia by working directly with medical professionals."
+      :what:
+        - Community
+    -
+      :name: BuildKite
+      :notes: 
+      :what:
+        - Community
+  :presentations:
+    -
+      :talk_name: How to develop your rails application
+      :subtitle: on GitHub codespaces
+      :speaker: Dina Esmaeili
+      :notes: Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
+      :issue: 321
+    -
+      :talk_name: Why you should use AASM
+      :subtitle: (If you aren't already) + bonus kittens 😺
+      :speaker: Toby Turnbull
+      :notes: Toby will be covering the AASM gem and why state machines are important. (and some kittens)
+      :issue: 322
+
+  :exercism_names:
+   - Bob
+   - Luhn Algorithm
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kmpfnrybcdbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-02-10%20until%3A2020-02-12&src=typd

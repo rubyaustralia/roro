@@ -1,7 +1,7 @@
 ---
 -
   :name: "Sameera Gayan"
-  :profile: "https://www.dropbox.com/s/d7m9ks43tzw14hz/sameera-gayan.jpg?dl=1"
+  :profile: "https://user-images.githubusercontent.com/98407/192656247-621330a1-ddfe-4aa8-adf7-bef39b20c82e.png"
   :social_handle: "@sameera207"
 -
   :name: "Rob Cornish"
@@ -126,3 +126,27 @@
 - :name: Nick Wolf
   :profile: https://pbs.twimg.com/profile_images/1908057934/rubyAU_logo_400x400.jpg
   :social_handle: "@rubyaustralia"
+
+- :name: Matt Wang
+  :profile: https://miro.medium.com/fit/c/176/176/1*yfbTyMWE_v-swjFFWRoInQ.png
+
+- :name: Yasmin Archibald
+  :profile: https://user-images.githubusercontent.com/107013100/192436815-4b46497d-b84d-4baa-8352-5e53e60d7e42.PNG
+  :social_handle: "@Yasmin_Arch"
+
+- :name: Tarun Mookhey
+  :profile: https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/1841/thumb_tarun.jpg
+
+- :name: Lee Sheppard
+  :profile: https://ruby.org.au/assets/committee-members/lee-sheppard-8e810486567121d6728403d930d8a349dd70b229e0b1a541eab62debe9f10e7e.jpg
+  :social_handle: "@leesheppard"
+
+- :name: Michael Anderson
+  :profile: https://drive.google.com/uc?id=1u1tnv9jDvVT2NZ9ebQ1LHuN2AaqnWLyb
+  :social_handle: "@michaelanderdev"
+
+- :name: Dina Esmaeili
+  :profile: "https://avatars.githubusercontent.com/u/120369808?s=400&u=021d068ff9c292f3e1d2a6d187510d4ca16f82b6&v=4"
+
+- :name: Toby Turnbull
+  :profile: "https://tobyturnbull.github.io/img/profile.jpeg"

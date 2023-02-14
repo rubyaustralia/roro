@@ -1,0 +1,65 @@
+---
+  :meetup_month: Nov
+  :venue: Mable
+  :sponsors:
+    -
+      :name: Mable
+      :notes: Mable are on a mission to improve access to affordable, flexible, quality support and care for Australians everywhere
+      :what:
+        - Drink
+        - Venue
+    -
+      :name: Ruby Au
+      :notes: The bill for our virtual meetup gets sent to Ruby Australia, who organise sponsorship for all Ruby-related meet-ups around Australia.<br /> Their sponsors are our community sponsors, so we would like to thank...
+      :what:
+        - Community
+    -
+      :name: Envato
+      :notes: "Envato: Leading marketplace for creative assets and creative people."
+      :what:
+        - Community
+    -
+      :name: Culture Amp
+      :notes: Culture Amp, providers of Company Culture Analytics
+      :what:
+        - Community
+    -
+      :name: Twilio
+      :notes: Twilio provide the building blocks to add messaging, voice, and video to your web and mobile applications.
+      :what:
+        - Community
+    -
+      :name: Up Bank
+      :notes: Up is a digital bank designed to help you organise your money and simplify your life
+      :what:
+        - Community
+    -
+      :name: Hot Doc
+      :notes: HotDoc is Australia's largest and most trusted patient engagement platform
+      :what:
+        - Community
+  :presentations:
+    -
+      :talk_name: Hotwire
+      :subtitle: Lessons learned deploying Turbo & Stimulus in a production app at scale
+      :speaker: Tarun Mookhey
+      :notes: Taurn will be discussing his experience with implementing Hotwire in a production application at scale
+      :issue: 318
+    -
+      :talk_name: Rails StimulusJS
+      :subtitle: an intro with Accordions 🪗
+      :speaker: Lee Sheppard
+      :notes: Lee will be taking us through implementing StimulusJS in a Rails 7 app using Importmaps, with an example using accordions.
+      :issue: 319
+    -
+      :talk_name: "Exercism"
+      :subtitle: Protein Translation
+      :speaker: Michael Anderson
+      :notes: "I believe when I met Michael last month he said something along the lines of 'We've just started learning ruby, I'm not sure I'm ready to do the exercism challenge' yet here he is presenting his solution to all of you kind folk"
+      :issue: 317
+
+  :exercism_names:
+   - Bob
+   - Luhn Algorithm
+  :meetup_link: https://www.meetup.com/Ruby-On-Rails-Oceania-Sydney/events/kmpfnrybcdbpb/
+  :tweets: https://twitter.com/search?f=tweets&q=rorosyd%20since%3A2020-02-10%20until%3A2020-02-12&src=typd

@@ -34,7 +34,7 @@ class PresoGo
     talks = presentations + lightning_talks
     all_social_handles = talks.map{ |talk| talk.speaker.social_handle }.compact.map{|handle| "`#{handle}`"}.join(", ")
 
-    current_meetup_date = render_meetup_date(date: meetup_month)
+    current_meetup_date = render_meetup_date(date: meetup_month).strip
     next_meetup_date = render_meetup_date(date: meetup_month.next_month)
 
     slides = File.read("./#{base_path}/slide_template.md")
@@ -42,7 +42,7 @@ class PresoGo
     presentation_name = "#{pres_prefix}-rorosyd.md"
 
     exercism_talk = lightning_talks.last
-    exercism_name = slide_data[:exercism_name]
+    exercism_names = slide_data[:exercism_names]
     meetup_link = slide_data[:meetup_link]
     tweets = slide_data[:tweets]
 
@@ -50,9 +50,9 @@ class PresoGo
 
     current_venue = Company.generate(slide_data[:venue])
 
-    readme = File.read("./#{base_path}/readme_template.md")
-
-    File.open("./#{base_path}/README.md", 'w') { |file| file.write(ERB.new(readme, nil, "<>").result(binding)) }
+    # readme = File.read("./#{base_path}/readme_template.md")
+    # puts "lightning talks: #{lightning_talks}"
+    # File.open("./#{base_path}/README.md", 'w') { |file| file.write(ERB.new(readme, nil, "<>").result(binding)) }
   end
 
   private
