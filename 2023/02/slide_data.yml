@@ -30,22 +30,22 @@
         - Community
     -
       :name: BuildKite
-      :notes: 
+      :notes:
       :what:
         - Community
   :presentations:
-    -
-      :talk_name: How to develop your rails application
-      :subtitle: on GitHub codespaces
-      :speaker: Dina Esmaeili
-      :notes: Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
-      :issue: 321
     -
       :talk_name: Why you should use AASM
       :subtitle: (If you aren't already) + bonus kittens 😺
       :speaker: Toby Turnbull
       :notes: Toby will be covering the AASM gem and why state machines are important. (and some kittens)
       :issue: 322
+    -
+      :talk_name: How to develop your rails application
+      :subtitle: on GitHub codespaces
+      :speaker: Dina Esmaeili
+      :notes: Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
+      :issue: 321
 
   :exercism_names:
    - Bob

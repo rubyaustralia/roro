@@ -153,20 +153,6 @@ Show of hands who's had something to eat (trying to figure out if we've order to
 We've got more help, the organising team has grown by 2!
 
 ---
-
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://avatars.githubusercontent.com/u/120369808?s=400&u=021d068ff9c292f3e1d2a6d187510d4ca16f82b6&v=4)
-
-# [fit] *How to develop your rails application*
-# [fit] **on GitHub codespaces**
-# [fit] **_Dina Esmaeili_**
-
-^
-Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
-
----
 [.hide-footer]
 [.slidenumbers: false]
 
@@ -181,9 +167,23 @@ Toby will be covering the AASM gem and why state machines are important. (and so
 
 ---
 
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://avatars.githubusercontent.com/u/120369808?s=400&u=021d068ff9c292f3e1d2a6d187510d4ca16f82b6&v=4)
+
+# [fit] *How to develop your rails application*
+# [fit] **on GitHub codespaces**
+# [fit] **_Dina Esmaeili_**
+
+^
+Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
+
+---
+
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
-# [fit] 
+# [fit]
 # [fit] **_`@rorosyd`_**
 
 
